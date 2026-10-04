@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+
+ CSS_event_tech_ship_unlock.NEWSHIP: "§H[researcher_pop.GetSpeciesAdj]§! [Root.GetScientistPlural] 从传统的舰船设计中汲取到灵感，开始使用特殊的舰船设计。"
+ CSS_event_tech_ship_unlock.NEWSHIP.alt: "[Root.GetScientistPlural] 现在有了特殊舰船设计的灵感。"
+ CSS_event_tech_ship_unlock.NEWSHIP.name: "新舰船设计"
+
+ CSS_event_tech_ship_unlock.RESEARCH: "已研究科技："
+
+ 

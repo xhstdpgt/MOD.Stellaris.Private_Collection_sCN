@@ -1,0 +1,38 @@
+﻿l_simp_chinese:
+ tech_ariphaos_sensor_jammer: "传感器干扰技术"
+ tech_ariphaos_sensor_jammer_desc: "先进技术使我们能够模拟甚至增强各种干扰传感器效果。\n[mod] Sensor Expansion"
+ tech_ariphaos_sensor_jammer_small: "建筑或模块阻止传感器探测星系内部。"
+
+ tech_ariphaos_sensors_wormhole: "虫洞传感器调制技术"
+ tech_ariphaos_sensors_wormhole_desc: "既然掌握了穿越虫洞的方法，我们就能调整传感器来适应它们。\n[mod] Sensor Expansion"
+ tech_ariphaos_sensors_wormhole_small: "使传感器能探测虫洞星系。"
+
+ tech_ariphaos_sensors_neutron_star: "中子星传感器模块技术"
+ tech_ariphaos_sensors_neutron_star_desc: "中子星核心虽小，却使传感器充满噪音。现在这些噪音现可被过滤。\n[mod] Sensor Expansion"
+ tech_ariphaos_sensors_neutron_star_small: "使传感器能观测中子星星系。"
+
+ tech_ariphaos_sensors_pulsar: "脉冲传感器模块技术"
+ tech_ariphaos_sensors_pulsar_desc: "中子星的年轻姊妹们严重干扰亚空间感知，但现在我们能克服这些难题。\n[mod] Sensor Expansion"
+ tech_ariphaos_sensors_pulsar_small: "使传感器能观测脉冲星星系。"
+
+ tech_ariphaos_sensors_nebula: "星云传感器调制技术"
+ tech_ariphaos_sensors_nebula_desc: "传感器技术的精妙改进让我们得以穿透星云帷幕。\n[mod] Sensor Expansion"
+ tech_ariphaos_sensors_nebula_small: "使传感器能观测星云内部。"
+
+ tech_ariphaos_sensors_black_hole: "奇点传感器调制技术"
+ tech_ariphaos_sensors_black_hole_desc: "黑洞会偏转多数传感器信号，难以获取真实数据。凭借新认知，我们可修正偏差，窥见其奥秘。\n[mod] Sensor Expansion"
+ tech_ariphaos_sensors_black_hole_small: "使传感器能观测黑洞星系。"
+
+ tech_ariphaos_sensors_sealed: "河外传感器调制技术"
+ tech_ariphaos_sensors_sealed_desc: "再无自然力量能阻挡我们的传感器……\n[mod] Sensor Expansion"
+ tech_ariphaos_sensors_sealed_small: "使传感器能探测常规隐藏的星系。"
+
+ tech_ariphaos_sensors_storm: "风暴传感器调制技术"
+ tech_ariphaos_sensors_storm_desc: "运用颠覆性技术，我们得以穿透风暴，视若无物。\n[mod] Sensor Expansion"
+ tech_ariphaos_sensors_storm_small: "使传感器能透视风暴。" 
+
+ tech_ariphaos_sensors_jammed: "干扰抑制突破"
+ tech_ariphaos_sensors_jammed_desc: "我们的传感器现在能穿透受干扰的系统。\n[mod] Sensor Expansion"
+ tech_ariphaos_sensors_jammed_small: "赋予传感器窥探被干扰系统的能力。"
+
+ sm_ariphaos_sensors_jammer_starbase: "感知干扰器"

@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+
+ mod_planets_minerals_produces_add: "$mod_country_minerals_produces_mult$"
+ #mod_planet_researchers_engineering_research_produces_add: "$mod_planet_researchers_engineering_research_produces_mult$"
+ #mod_planet_researchers_physics_research_produces_add: "$mod_planet_researchers_physics_research_produces_mult$"
+ #mod_planet_researchers_society_research_produces_add: "$mod_planet_researchers_society_research_produces_mult$"
+
+ allow_decision_mastery_of_nature: "\n§H通过科技解锁允许以下决议：§!\n§E地下城市：§!最多增加§Y4§!个区划槽（星球承载力越大解锁越多），获得£alloys£/£job_researcher£/£orbital_bombardment_damage£修正和每50£pop£增加一个£mod_job_subterranean_foundry_add£/£mod_job_subterranean_soldier_add£/£mod_job_subterranean_refiner_add£/£mod_job_subterranean_researcher_add£岗位。§Y从这个决议中获得额外区划§!\n\n§E天空岛：§!最多增加§Y4§!个区划槽（星球承载力越小解锁越多），获得£influence£/£unity£/£mod_planet_amenities_add£/£mod_planet_amenities_no_happiness_mult£修正和每40£pop£增加一个£mod_job_sky_clerk_add£/£mod_job_sky_noble_add£/£mod_job_sky_replicator_add£/£mod_job_sky_ranger_add£岗位。§Y从这个决议中获得额外区划§!"
+
+ #describe_decision_mastery_of_nature: "\n§Y解锁决议：§!\n\n掌控自然：$TABBED_NEW_LINE$-最大区划数：§Y+2§!。$TABBED_NEW_LINE$-行星特征产生的最大资源区划数：§G+50%§!。\n\n地下扩展：$TABBED_NEW_LINE$-从地下城市获得额外的区划槽和（资源、科学、防御）岗位。$TABBED_NEW_LINE$-可重复开发两次，重复开发获得的额外区划槽§Y-1§!。\n\n天空扩展：$TABBED_NEW_LINE$-从天空岛获得额外的区划槽和（贸易、人口增长、凝聚力、影响力）岗位。$TABBED_NEW_LINE$-可重复开发两次，重复开发获得的额外区划槽§Y-1§!。"
+ #decision_mastery_of_nature: "掌控自然"
+ #decision_mastery_of_nature_desc: "我们的文明需要更多空间繁衍生息，所以我们就得创造空间。决不能让大自然阻挡我们的进步之路。"

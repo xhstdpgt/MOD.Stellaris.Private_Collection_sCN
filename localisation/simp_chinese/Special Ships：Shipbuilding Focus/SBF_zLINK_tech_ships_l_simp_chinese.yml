@@ -1,0 +1,146 @@
+﻿l_simp_chinese:
+ 
+ tech_SBF_SHIP_CC_CA: "$SBF_SHIP_CC_CA_plural$"
+ tech_SBF_SHIP_CC_CA_desc: "$SBF_SHIP_CC_CA_desc$"
+ unlock_SBF_SHIP_CC_CA: "$SBF_tech_ship_unlock$ $SBF_SHIP_CC_CA$"
+ unlock_SBF_SHIP_CC_CA_desc: "§H$SBF_SHIP_CC_CA$§!\n$SBF_SHIP_CC_CA_desc$"
+
+ tech_SBF_SHIP_BB_CA: "$SBF_SHIP_BB_CA_plural$"
+ tech_SBF_SHIP_BB_CA_desc: "$SBF_SHIP_BB_CA_desc$"
+ unlock_SBF_SHIP_BB_CA: "$SBF_tech_ship_unlock$ $SBF_SHIP_BB_CA$"
+ unlock_SBF_SHIP_BB_CA_desc: "§H$SBF_SHIP_BB_CA$§!\n$SBF_SHIP_BB_CA_desc$"
+
+ tech_SBF_SHIP_TI_CA: "$SBF_SHIP_TI_CA_plural$"
+ tech_SBF_SHIP_TI_CA_desc: "$SBF_SHIP_TI_CA_desc$"
+ unlock_SBF_SHIP_TI_CA: "$SBF_tech_ship_unlock$ $SBF_SHIP_TI_CA$"
+ unlock_SBF_SHIP_TI_CA_desc: "§H$SBF_SHIP_TI_CA$§!\n$SBF_SHIP_TI_CA_desc$"
+
+ tech_SBF_SHIP_DD_EX: "$SBF_SHIP_DD_EX_plural$"
+ tech_SBF_SHIP_DD_EX_desc: "$SBF_SHIP_DD_EX_desc$"
+ unlock_SBF_SHIP_DD_EX: "$SBF_tech_ship_unlock$ $SBF_SHIP_DD_EX$"
+ unlock_SBF_SHIP_DD_EX_desc: "§H$SBF_SHIP_DD_EX$§!\n$SBF_SHIP_DD_EX_desc$"
+
+ tech_SBF_SHIP_DD_AP: "$SBF_SHIP_DD_AP_plural$"
+ tech_SBF_SHIP_DD_AP_desc: "$SBF_SHIP_DD_AP_desc$"
+ unlock_SBF_SHIP_DD_AP: "$SBF_tech_ship_unlock$ $SBF_SHIP_DD_AP$"
+ unlock_SBF_SHIP_DD_AP_desc: "§H$SBF_SHIP_DD_AP$§!\n$SBF_SHIP_DD_AP_desc$"
+
+ tech_SBF_SHIP_CC_EX: "$SBF_SHIP_CC_EX_plural$"
+ tech_SBF_SHIP_CC_EX_desc: "$SBF_SHIP_CC_EX_desc$"
+ unlock_SBF_SHIP_CC_EX: "$SBF_tech_ship_unlock$ $SBF_SHIP_CC_EX$"
+ unlock_SBF_SHIP_CC_EX_desc: "§H$SBF_SHIP_CC_EX$§!\n$SBF_SHIP_CC_EX_desc$"
+
+ tech_SBF_SHIP_BB_EX: "$SBF_SHIP_BB_EX_plural$"
+ tech_SBF_SHIP_BB_EX_desc: "$SBF_SHIP_BB_EX_desc$"
+ unlock_SBF_SHIP_BB_EX: "$SBF_tech_ship_unlock$ $SBF_SHIP_BB_EX$"
+ unlock_SBF_SHIP_BB_EX_desc: "§H$SBF_SHIP_BB_EX$§!\n$SBF_SHIP_BB_EX_desc$"
+
+ tech_SBF_SHIP_CC_PD: "$SBF_SHIP_CC_PD_plural$"
+ tech_SBF_SHIP_CC_PD_desc: "$SBF_SHIP_CC_PD_desc$"
+ unlock_SBF_SHIP_CC_PD: "$SBF_tech_ship_unlock$ $SBF_SHIP_CC_PD$"
+ unlock_SBF_SHIP_CC_PD_desc: "§H$SBF_SHIP_CC_PD$§!\n$SBF_SHIP_CC_PD_desc$"
+
+ tech_SBF_SHIP_CC_RP: "$SBF_SHIP_CC_RP_plural$"
+ tech_SBF_SHIP_CC_RP_desc: "$SBF_SHIP_CC_RP_desc$"
+ unlock_SBF_SHIP_CC_RP: "$SBF_tech_ship_unlock$ $SBF_SHIP_CC_RP$"
+ unlock_SBF_SHIP_CC_RP_desc: "§H$SBF_SHIP_CC_RP$§!\n$SBF_SHIP_CC_RP_desc$"
+
+ tech_SBF_SHIP_CC_HL: "$SBF_SHIP_CC_HL_plural$"
+ tech_SBF_SHIP_CC_HL_desc: "$SBF_SHIP_CC_HL_desc$"
+ unlock_SBF_SHIP_CC_HL: "$SBF_tech_ship_unlock$ $SBF_SHIP_CC_HL$"
+ unlock_SBF_SHIP_CC_HL_desc: "§H$SBF_SHIP_CC_HL$§!\n$SBF_SHIP_CC_HL_desc$"
+
+ tech_SBF_SHIP_HL_HL: "$SBF_SHIP_HL_HL_plural$"
+ tech_SBF_SHIP_HL_HL_desc: "$SBF_SHIP_HL_HL_desc$"
+ unlock_SBF_SHIP_HL_HL: "$SBF_tech_ship_unlock$ $SBF_SHIP_HL_HL$"
+ unlock_SBF_SHIP_HL_HL_desc: "§H$SBF_SHIP_HL_HL$§!\n$SBF_SHIP_HL_HL_desc$"
+
+ tech_SBF_SHIP_BB_SF: "$SBF_SHIP_BB_SF_plural$"
+ tech_SBF_SHIP_BB_SF_desc: "$SBF_SHIP_BB_SF_desc$"
+ unlock_SBF_SHIP_BB_SF: "$SBF_tech_ship_unlock$ $SBF_SHIP_BB_SF$"
+ unlock_SBF_SHIP_BB_SF_desc: "§H$SBF_SHIP_BB_SF$§!\n$SBF_SHIP_BB_SF_desc$"
+
+ tech_SBF_SHIP_CO_AS: "$SBF_SHIP_CO_AS_plural$"
+ tech_SBF_SHIP_CO_AS_desc: "$SBF_SHIP_CO_AS_desc$"
+ unlock_SBF_SHIP_CO_AS: "$SBF_tech_ship_unlock$ $SBF_SHIP_CO_AS$"
+ unlock_SBF_SHIP_CO_AS_desc: "§H$SBF_SHIP_CO_AS$§!\n$SBF_SHIP_CO_AS_desc$"
+
+ tech_SBF_SHIP_CO_WB: "$SBF_SHIP_CO_WB_plural$"
+ tech_SBF_SHIP_CO_WB_desc: "$SBF_SHIP_CO_WB_desc$"
+ unlock_SBF_SHIP_CO_WB: "$SBF_tech_ship_unlock$ $SBF_SHIP_CO_WB$"
+ unlock_SBF_SHIP_CO_WB_desc: "§H$SBF_SHIP_CO_WB$§!\n$SBF_SHIP_CO_WB_desc$"
+
+ tech_SBF_SHIP_DD_XL: "$SBF_SHIP_DD_XL_plural$"
+ tech_SBF_SHIP_DD_XL_desc: "$SBF_SHIP_DD_XL_desc$"
+ unlock_SBF_SHIP_DD_XL: "$SBF_tech_ship_unlock$ $SBF_SHIP_DD_XL$"
+ unlock_SBF_SHIP_DD_XL_desc: "§H$SBF_SHIP_DD_XL$§!\n$SBF_SHIP_DD_XL_desc$"
+
+ tech_SBF_SHIP_CC_DR: "$SBF_SHIP_CC_DR_plural$"
+ tech_SBF_SHIP_CC_DR_desc: "$SBF_SHIP_CC_DR_desc$"
+ unlock_SBF_SHIP_CC_DR: "$SBF_tech_ship_unlock$ $SBF_SHIP_CC_DR$"
+ unlock_SBF_SHIP_CC_DR_desc: "§H$SBF_SHIP_CC_DR$§!\n$SBF_SHIP_CC_DR_desc$"
+
+ tech_SBF_SHIP_BB_GA: "$SBF_SHIP_BB_GA_plural$"
+ tech_SBF_SHIP_BB_GA_desc: "$SBF_SHIP_BB_GA_desc$"
+ unlock_SBF_SHIP_BB_GA: "$SBF_tech_ship_unlock$ $SBF_SHIP_BB_GA$"
+ unlock_SBF_SHIP_BB_GA_desc: "§H$SBF_SHIP_BB_GA$§!\n$SBF_SHIP_BB_GA_desc$"
+
+ tech_SBF_SHIP_BB_X2: "$SBF_SHIP_BB_X2_plural$"
+ tech_SBF_SHIP_BB_X2_desc: "$SBF_SHIP_BB_X2_desc$"
+ unlock_SBF_SHIP_BB_X2: "$SBF_tech_ship_unlock$ $SBF_SHIP_BB_X2$"
+ unlock_SBF_SHIP_BB_X2_desc: "§H$SBF_SHIP_BB_X2$§!\n$SBF_SHIP_BB_X2_desc$"
+
+ tech_SBF_SHIP_BB_ID: "$SBF_SHIP_BB_ID_plural$"
+ tech_SBF_SHIP_BB_ID_desc: "$SBF_SHIP_BB_ID_desc$"
+ unlock_SBF_SHIP_BB_ID: "$SBF_tech_ship_unlock$ $SBF_SHIP_BB_ID$"
+ unlock_SBF_SHIP_BB_ID_desc: "§H$SBF_SHIP_BB_ID$§!\n$SBF_SHIP_BB_ID_desc$"
+
+ tech_SBF_SHIP_DN_DN: "$SBF_SHIP_DN_DN_plural$"
+ tech_SBF_SHIP_DN_DN_desc: "$SBF_SHIP_DN_DN_desc$"
+ unlock_SBF_SHIP_DN_DN: "$SBF_tech_ship_unlock$ $SBF_SHIP_DN_DN$"
+ unlock_SBF_SHIP_DN_DN_desc: "§H$SBF_SHIP_DN_DN$§!\n$SBF_SHIP_DN_DN_desc$"
+
+ tech_SBF_SHIP_DD_MR: "$SBF_SHIP_DD_MR_plural$"
+ tech_SBF_SHIP_DD_MR_desc: "$SBF_SHIP_DD_MR_desc$"
+ unlock_SBF_SHIP_DD_MR: "$SBF_tech_ship_unlock$ $SBF_SHIP_DD_MR$"
+ unlock_SBF_SHIP_DD_MR_desc: "§H$SBF_SHIP_DD_MR$§!\n$SBF_SHIP_DD_MR_desc$"
+
+ tech_SBF_SHIP_CC_MR: "$SBF_SHIP_CC_MR_plural$"
+ tech_SBF_SHIP_CC_MR_desc: "$SBF_SHIP_CC_MR_desc$"
+ unlock_SBF_SHIP_CC_MR: "$SBF_tech_ship_unlock$ $SBF_SHIP_CC_MR$"
+ unlock_SBF_SHIP_CC_MR_desc: "§H$SBF_SHIP_CC_MR$§!\n$SBF_SHIP_CC_MR_desc$"
+
+ tech_SBF_SHIP_BB_MR: "$SBF_SHIP_BB_MR_plural$"
+ tech_SBF_SHIP_BB_MR_desc: "$SBF_SHIP_BB_MR_desc$"
+ unlock_SBF_SHIP_BB_MR: "$SBF_tech_ship_unlock$ $SBF_SHIP_BB_MR$"
+ unlock_SBF_SHIP_BB_MR_desc: "§H$SBF_SHIP_BB_MR$§!\n$SBF_SHIP_BB_MR_desc$"
+
+ tech_SBF_SHIP_JG_MR: "$SBF_SHIP_JG_MR_plural$"
+ tech_SBF_SHIP_JG_MR_desc: "$SBF_SHIP_JG_MR_desc$"
+ unlock_SBF_SHIP_JG_MR: "$SBF_tech_ship_unlock$ $SBF_SHIP_JG_MR$"
+ unlock_SBF_SHIP_JG_MR_desc: "§H$SBF_SHIP_JG_MR$§!\n$SBF_SHIP_JG_MR_desc$"
+ 
+ tech_SBF_SHIP_JG_MN: "$SBF_SHIP_JG_MN_plural$"
+ tech_SBF_SHIP_JG_MN_desc: "$SBF_SHIP_JG_MN_desc$"
+ unlock_SBF_SHIP_JG_MN: "$SBF_tech_ship_unlock$ $SBF_SHIP_JG_MN$"
+ unlock_SBF_SHIP_JG_MN_desc: "§H$SBF_SHIP_JG_MN$§!\n$SBF_SHIP_JG_MN_desc$"
+ 
+ tech_SBF_SHIP_MN_MN: "$SBF_SHIP_MN_MN_plural$"
+ tech_SBF_SHIP_MN_MN_desc: "$SBF_SHIP_MN_MN_desc$"
+ unlock_SBF_SHIP_MN_MN: "$SBF_tech_ship_unlock$ $SBF_SHIP_MN_MN$"
+ unlock_SBF_SHIP_MN_MN_desc: "§H$SBF_SHIP_MN_MN$§!\n$SBF_SHIP_MN_MN_desc$"
+
+ tech_SBF_SHIP_ST_MN: "$SBF_SHIP_ST_MN_plural$"
+ tech_SBF_SHIP_ST_MN_desc: "$SBF_SHIP_ST_MN_desc$"
+ unlock_SBF_SHIP_ST_MN: "$SBF_tech_ship_unlock$ $SBF_SHIP_ST_MN$"
+ unlock_SBF_SHIP_ST_MN_desc: "§H$SBF_SHIP_ST_MN$§!\n$SBF_SHIP_ST_MN_desc$"
+
+ tech_SBF_SHIP_SB_MF: "$SBF_SHIP_SB_MF_plural$"
+ tech_SBF_SHIP_SB_MF_desc: "$SBF_SHIP_SB_MF_desc$"
+ unlock_SBF_SHIP_SB_MF: "$SBF_tech_ship_unlock$ $SBF_SHIP_SB_MF$"
+ unlock_SBF_SHIP_SB_MF_desc: "§H$SBF_SHIP_SB_MF$§!\n$SBF_SHIP_SB_MF_desc$"
+
+ tech_SBF_SHIP_SB_NC: "$SBF_SHIP_SB_NC_plural$"
+ tech_SBF_SHIP_SB_NC_desc: "$SBF_SHIP_SB_NC_desc$"
+ unlock_SBF_SHIP_SB_NC: "$SBF_tech_ship_unlock$ $SBF_SHIP_SB_NC$"
+ unlock_SBF_SHIP_SB_NC_desc: "§H$SBF_SHIP_SB_NC$§!\n$SBF_SHIP_SB_NC_desc$"

@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+
+ CSS_event_tech_ship_purge.NEWSHIP: "从§H[tech_giver_pop.GetName]§!物种那里得到了新型舰船设计的蓝图，它们乞求网开一面。很明显，蓝图无法保证它们的生活，但对我们有很大的帮助。"
+ CSS_event_tech_ship_purge.NEWSHIP.name: "新舰船蓝图"
+
+ CSS_event_tech_ship_purge.GET_MODIFIER: "获得研究条件："
+

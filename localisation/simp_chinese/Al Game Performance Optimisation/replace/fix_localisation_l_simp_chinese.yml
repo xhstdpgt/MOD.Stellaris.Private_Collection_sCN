@@ -1,0 +1,134 @@
+﻿l_simp_chinese:
+  fix_ai_actions.1.name: "AI游戏性能优化"
+  fix_ai_actions.1.desc: "使用此菜单启用或禁用AI优化（建议保持默认的开启状态）。点击每项优化旁边的设置或信息按钮，可查看说明或进行配置。要获得最佳性能，请点击：'§Y对玩家启用部分AI优化§!'并'§R退出§!'。§Y注意：§! 橙色表示已启用，稍后可通过法令修改设置。"
+
+  fix_menu_events.2.name: "禁用AI超空间中继器"
+  fix_menu_events.2.desc: "禁止AI建造超空间中继器，因为大量的超空间中继器会严重降低游戏性能。"
+
+  fix_menu_events.3.name: "限制AI星门"
+  fix_menu_events.3.desc: "限制AI每100年建造的星门不超过两座（默认），以免AI过快且不必要地建造星门。"
+
+  fix_menu_events.3.b: "§R禁用星门§!"
+  fix_menu_events.3.c: "允许每 §Y50§! 年 §Y2§! 星门"
+  fix_menu_events.3.d: "允许每 §Y100§! 年 §Y2§! 星门(§G默认§!）"
+  fix_menu_events.3.e: "允许每 §Y150§! 年 §Y2§! 星门"
+
+  fix_menu_events.4.name: "限制AI居住站"
+  fix_menu_events.4.desc: "限制每个AI最多只能建造 7 个居住站（默认），限制AI过度建造居住站。"
+
+  fix_menu_events.4.b: "§R禁用居住站§!"
+  fix_menu_events.4.c: "允许 §Y3§! 居住站"
+  fix_menu_events.4.d: "允许 §Y7§! 居住站（§G默认§!）"
+  fix_menu_events.4.e: "允许 §Y11§! 居住站"
+
+  fix_menu_events.5.name: "限制AI环世界"
+  fix_menu_events.5.desc: "限制每个AI最多只能建造 3 个环世界（默认），限制AI过度建造环世界。"
+
+  fix_menu_events.5.b: "§R禁用AI环世界"
+  fix_menu_events.5.c: "允许 §Y1§! 环世界"
+  fix_menu_events.5.d: "允许 §Y3§! 环世界（§G默认§!）"
+  fix_menu_events.5.e: "允许 §Y5§! 环世界"
+
+  fix_menu_events.6.name: "限制AI殖民星球"
+  fix_menu_events.6.desc: "限制每个AI最多只能殖民 60 个星球（默认），限制AI过度殖民星球。"
+
+  fix_menu_events.6.b: "允许 §Y10§! 殖民星球"
+  fix_menu_events.6.c: "允许 §Y30§! 殖民星球"
+  fix_menu_events.6.d: "允许 §Y60§! 殖民星球（§G默认§!）"
+
+  fix_menu_events.7.name: "改善AI失业率"
+  fix_menu_events.7.desc: "通过将失业人口重新安置到有空缺职位的星球上，更快地填补AI职位空缺来改善失业率。"
+
+  fix_menu_events.8.name: "禁用AI“有机全典”遗珍"
+  fix_menu_events.8.desc: "阻止AI获取“有机全典”遗珍，以避免产生不必要的杂交物种。"
+
+  fix_menu_events.8.b: "§R彻底移除遗珍§!（§G默认§!）"
+  fix_menu_events.8.c: "发现时将遗珍赠予 §Y玩家§!"
+
+  fix_menu_events.9.name: "禁用AI“跨物种杂交”"
+  fix_menu_events.9.desc: "阻止AI获得“跨物种杂交”飞升天赋，以避免产生不必要的杂交物种。"
+
+  fix_menu_events.10.name: "限制AI护卫舰/鱼雷舰数量"
+  fix_menu_events.10.desc: "通过限制单支舰队中的舰船上限（默认每支舰队允许60艘护卫舰/鱼雷舰、30艘驱逐舰及15艘巡洋舰），限制AI过度建造护卫舰/鱼雷舰、驱逐舰与巡洋舰。一旦AI达到上限，便将1艘护卫舰置换成1艘鱼雷舰，2艘鱼雷舰置换成1艘驱逐舰，2艘驱逐舰置换成1艘巡洋舰，2艘巡洋舰置换成1艘战列舰。这能使AI舰队不再过度堆积低级舰船，且战斗力更强（2换1的交易在经济上很划算）。这同样适用于生物舰船，且仅在AI满足技术条件时触发时生效（已掌握驱逐舰/巡洋舰科技）。"
+
+  fix_menu_events.10.b: "允许 §Y15§! 艘护卫舰/鱼雷舰， §Y8§! 艘驱逐舰，以及 §Y4§! 艘巡洋舰"
+  fix_menu_events.10.c: "允许 §Y30§! 艘护卫舰/鱼雷舰， §Y15§! 艘驱逐舰，以及 §Y8§! 艘巡洋舰"
+  fix_menu_events.10.d: "允许 §Y60§! 艘护卫舰/鱼雷舰， §Y30§! 艘驱逐舰，以及 §Y15§! 艘巡洋舰（§G默认§!）"
+  fix_menu_events.10.e: "允许 §Y120§! 艘护卫舰/鱼雷舰， §Y60§! 艘驱逐舰，以及 §Y30§! 艘巡洋舰"
+  fix_menu_events.10.f: "允许 §Y240§! 艘护卫舰/鱼雷舰， §Y120§! 艘驱逐舰，以及 §Y60§! 艘巡洋舰"
+  fix_menu_events.10.g: "允许 §Y480§! 艘护卫舰/鱼雷舰， §Y240§! 艘驱逐舰，以及 §Y120§! 艘巡洋舰"
+  fix_menu_events.10.h: "允许 §Y960§! 艘护卫舰/鱼雷舰， §Y480§! 艘驱逐舰，以及 §Y240§! 艘巡洋舰"
+  fix_menu_events.10.i: "允许 §Y1920§! 艘护卫舰/鱼雷舰， §Y960§! 艘驱逐舰，以及 §Y480§! 艘巡洋舰"
+
+  fix_menu_events.11.name: "优化即将推出(TM)"
+  fix_menu_events.11.desc: "也许吧。"
+
+  fix_menu_events.12.name: "禁用AI深空擎天堡"
+  fix_menu_events.12.desc: "阻止AI建造深空擎天堡，因为这类建筑通常会被大量建造。"
+
+  fix_menu_events.13.name: "改善AI舰队数量"
+  fix_menu_events.13.desc: "阻止AI维持多支未满编的零散舰队，在非战争状态下将尽可能将其合并。"
+
+  fix_menu_events.14.name: "MOD校正优化"
+  fix_menu_events.14.desc: "将MOD的校正频率降低至每月一次，减轻更新负担。"
+
+  fix_menu_events.15.name: "限制AI科研船/工程船"
+  fix_menu_events.15.desc: "限制科研船和工程船上限（默认5艘）。一旦AI达到上限就将无法继续建造，从而减少因民用舰船过多而导致的寻路性能下降。"
+
+  fix_menu_events.15.b: "允许§Y5§!艘科研船和§Y5§!艘工程船（默认）"
+  fix_menu_events.15.c: "允许§Y10§!艘科研船和§Y10§!艘工程船"
+  fix_menu_events.15.d: "允许§Y15§!艘科研船和§Y15§!艘工程船"
+
+  fix_menu_events.16.name: "§Y对玩家启用部分AI优化§!"
+  fix_menu_events.16.desc: "根据偏好，您可启用部分AI优化设置以同步应用于玩家，从而优化平衡性并提升性能表现。当前可选项目包括（若未禁用）：‘禁用AI超空间中继器’。"
+
+  # fix_menu_events.12.name: "限制AI人口数量"
+  # fix_menu_events.12.desc: "减少了AI的人口数量，通过为每个星球单独引入基于人口数量的缩放特征；提供负的人口增长速度和人口组装速度（尤其重要），并通过正向人口资源生产（以及其他方面）和人口的外交权重进行补偿。"
+
+  # fix_menu_events.12.b: "将此限制设置为 §Y50%§! 的效率"
+  # fix_menu_events.12.c: "将此限制设置为 §Y100%§! 的效率（§G默认§!）"
+  # fix_menu_events.12.d: "将此限制设置为 §Y150%§! 的效率"
+
+  fix_menu_events.x.desc: "使用下面的设置菜单来配置此优化。请注意，在此情况下灰色选项意味着该设置正在生效！"
+
+  fix_ai_actions.1.a: "启用全部"
+  fix_ai_actions.1.b: "禁用AI超空间中继器"
+  fix_ai_actions.1.c: "限制AI星门"
+  fix_ai_actions.1.d: "限制AI居住站"
+  fix_ai_actions.1.e: "限制AI环世界"
+  fix_ai_actions.1.f: "限制AI星球殖民数量"
+  fix_ai_actions.1.g: "改善AI失业率"
+  fix_ai_actions.1.h: "禁止AI“有机全典”遗珍"
+  fix_ai_actions.1.i: "禁止AI跨物种杂交"
+  fix_ai_actions.1.j: "限制AI护卫舰/鱼雷舰"
+  fix_ai_actions.1.k: "优化即将推出(TM)"
+  fix_ai_actions.1.l: "禁用AI深空擎天堡"
+  fix_ai_actions.1.m: "改善AI舰队数量"
+  fix_ai_actions.1.n: "MOD校正优化"
+  fix_ai_actions.1.o: "限制AI科研船/工程船"
+  fix_ai_actions.1.p: "§Y对玩家启用部分AI优化§!"
+  fix_ai_actions.1.q: "禁用全部"
+  fix_ai_actions.1.r: "退出"
+
+  edict_edict_mod_options: "§BAI游戏性能优化§!"
+  edict_edict_mod_options_desc: "重新显示游戏开始菜单，在其中可以禁用、启用和配置选项。"
+
+  micro_marketing: "AI微贸易修复"
+  micro_marketing_desc: ""
+
+  planet_pop_conversion_count: "人口计数换算"
+  planet_pop_conversion_count_desc: "一种渐进式的人口控制协议，用以防止全银河范围内的时间相对性灾难（卡顿）。"
+
+  country_pop_conversion_count: "人口计数换算"
+  country_pop_conversion_count_desc: "一种渐进式的人口控制协议补偿机制，用以防止帝国境内的政治灾难。"
+
+  ai_habitat_restriction: "AI居住站限制"
+  ai_hyper_relay_restriction: "AI超空间中继器限制"
+  ai_gateway_restriction: "AI星门限制"
+  ai_ring_world_restriction: "AI环世界限制"
+  ai_planet_restriction: "AI殖民星球数量限制"
+  ai_dsp_restriction: "AI深空擎天堡限制"
+  # ai_science_ship_restriction: "AI科研船限制"
+  # ai_construction_ship_restriction: "AI工程船限制"
+
+  requires_some_ai_fixes_on_players_disabled: "必须先禁用‘对玩家启用部分AI优化’选项"

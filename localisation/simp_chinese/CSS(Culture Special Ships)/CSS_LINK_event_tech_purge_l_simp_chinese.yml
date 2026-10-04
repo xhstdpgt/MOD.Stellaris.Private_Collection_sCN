@@ -1,0 +1,86 @@
+﻿l_simp_chinese:
+ 
+ CSS_event_tech_ship_purge.101.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.101.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_BB_CARRIER$§!\n$CSS_BB_CARRIER_flav$"
+ CSS_event_tech_ship_purge.101.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_BB_CARRIER_DESC$"
+ 
+ CSS_event_tech_ship_purge.102.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.102.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_CC_EXPLOSIVE$§!\n$CSS_CC_EXPLOSIVE_flav$"
+ CSS_event_tech_ship_purge.102.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_CC_EXPLOSIVE_DESC$"
+ 
+ CSS_event_tech_ship_purge.103.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.103.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_CC_DEFENDER$§!\n$CSS_CC_DEFENDER_flav$"
+ CSS_event_tech_ship_purge.103.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_CC_DEFENDER_DESC$"
+ 
+ CSS_event_tech_ship_purge.104.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.104.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_CO_ASSAULT$§!\n$CSS_CO_ASSAULT_flav$"
+ CSS_event_tech_ship_purge.104.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_CO_ASSAULT_DESC$"
+ 
+ CSS_event_tech_ship_purge.105.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.105.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_BB_MONITOR$§!\n$CSS_BB_MONITOR_flav$"
+ CSS_event_tech_ship_purge.105.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_BB_MONITOR_DESC$"
+ 
+ CSS_event_tech_ship_purge.106.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.106.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_CC_CARRIER$§!\n$CSS_CC_CARRIER_flav$"
+ CSS_event_tech_ship_purge.106.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_CC_CARRIER_DESC$"
+ 
+ CSS_event_tech_ship_purge.107.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.107.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_BB_INTERDICTOR$§!\n$CSS_BB_INTERDICTOR_flav$"
+ CSS_event_tech_ship_purge.107.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_BB_INTERDICTOR_DESC$"
+ 
+ CSS_event_tech_ship_purge.108.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.108.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_JG_WARFLOWER$§!\n$CSS_JG_WARFLOWER_flav$"
+ CSS_event_tech_ship_purge.108.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_JG_WARFLOWER_DESC$"
+ 
+ CSS_event_tech_ship_purge.109.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.109.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_CC_GUARDIAN$§!\n$CSS_CC_GUARDIAN_flav$"
+ CSS_event_tech_ship_purge.109.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_CC_GUARDIAN_DESC$"
+ 
+ CSS_event_tech_ship_purge.110.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.110.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_TI_REJUVENATOR$§!\n$CSS_TI_REJUVENATOR_flav$"
+ CSS_event_tech_ship_purge.110.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_TI_REJUVENATOR_DESC$"
+ 
+ CSS_event_tech_ship_purge.111.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.111.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_DD_SNIPER$§!\n$CSS_DD_SNIPER_flav$"
+ CSS_event_tech_ship_purge.111.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_DD_SNIPER_DESC$"
+ 
+ CSS_event_tech_ship_purge.112.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.112.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_DD_TORPEDO$§!\n$CSS_DD_TORPEDO_flav$"
+ CSS_event_tech_ship_purge.112.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_DD_TORPEDO_DESC$"
+ 
+ CSS_event_tech_ship_purge.113.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.113.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_CC_DRONE$§!\n$CSS_CC_DRONE_flav$"
+ CSS_event_tech_ship_purge.113.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_CC_DRONE_DESC$"
+ 
+ CSS_event_tech_ship_purge.114.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.114.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_JG_DREADNOUGHT$§!\n$CSS_JG_DREADNOUGHT_flav$"
+ CSS_event_tech_ship_purge.114.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_JG_DREADNOUGHT_DESC$"
+ 
+ CSS_event_tech_ship_purge.115.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.115.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_CO_SWARMLING$§!\n$CSS_CO_SWARMLING_flav$"
+ CSS_event_tech_ship_purge.115.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£society_research£ $TECH_UNLOCK_CSS_CO_SWARMLING_DESC$"
+ 
+ CSS_event_tech_ship_purge.116.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.116.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_JG_MONSTER$§!\n$CSS_JG_MONSTER_flav$"
+ CSS_event_tech_ship_purge.116.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£society_research£ $TECH_UNLOCK_CSS_JG_MONSTER_DESC$"
+ 
+ CSS_event_tech_ship_purge.117.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.117.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_BB_BROADSIDER$§!\n$CSS_BB_BROADSIDER_flav$"
+ CSS_event_tech_ship_purge.117.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_BB_BROADSIDER_DESC$"
+ 
+ CSS_event_tech_ship_purge.118.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.118.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_BB_GALLEON$§!\n$CSS_BB_GALLEON_flav$"
+ CSS_event_tech_ship_purge.118.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_BB_GALLEON_DESC$"
+ 
+ CSS_event_tech_ship_purge.119.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.119.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_BB_EXPLOSIVE$§!\n$CSS_BB_EXPLOSIVE_flav$"
+ CSS_event_tech_ship_purge.119.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_BB_EXPLOSIVE_DESC$"
+ 
+ CSS_event_tech_ship_purge.120.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.120.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_CC_SIEGE$§!\n$CSS_CC_SIEGE_flav$"
+ CSS_event_tech_ship_purge.120.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_CC_SIEGE_DESC$"
+ 
+ CSS_event_tech_ship_purge.121.name: "$CSS_event_tech_ship_purge.NEWSHIP.name$"
+ CSS_event_tech_ship_purge.121.desc: "$CSS_event_tech_ship_purge.NEWSHIP$\n\n§H$CSS_CC_LOOTER$§!\n$CSS_CC_LOOTER_flav$"
+ CSS_event_tech_ship_purge.121.GOOD.desc: "$CSS_event_tech_ship_purge.GET_MODIFIER$\n£physics_research£ $TECH_UNLOCK_CSS_CC_LOOTER_DESC$"
+ 

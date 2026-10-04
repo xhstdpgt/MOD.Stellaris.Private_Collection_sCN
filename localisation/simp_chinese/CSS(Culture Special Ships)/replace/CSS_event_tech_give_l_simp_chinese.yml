@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+
+ CSS_event_tech_ship_gift.NEWSHIP: "我们的 [Root.GetScientistPlural] 正在与 §H[giver_country.GetName]§! 的使者交谈时，询问了他们舰队的特殊船只的信息， §H[giver_country.GetName]§! 慷慨地为我们提供了宝贵的蓝图。现在我们可以使用这个船的设计。"
+ CSS_event_tech_ship_gift.NEWSHIP.name: "新船设计"
+
+ CSS_event_tech_ship_gift.RESEARCH: "获得研究技术："
+ 

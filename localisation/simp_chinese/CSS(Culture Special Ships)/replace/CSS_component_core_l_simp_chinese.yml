@@ -1,0 +1,83 @@
+﻿l_simp_chinese:
+
+ CSS_SC_CONTROL: "无人机控制系统"
+ CSS_SC_CONTROL_DESC: "一套充满传感器和处理器的复杂战斗系统，旨在辅助舰载机战斗。"
+
+ CSS_LRM_GUIDE: "制导导弹引导系统"
+ CSS_LRM_GUIDE_DESC: "它使用专用传感器、照射器和处理单元，帮助制导武器飞行在最佳路径上。然而，该设备的强大波长会严重干扰非爆炸性武器。"
+
+ CSS_TRACKER: "广域综合追踪器"
+ CSS_TRACKER_DESC: "捕捉小型且快速的目标需要特殊的技巧。这款高性能追踪器专门优化用于追踪敌方导弹或打击飞机，并处理位置和速度信息。"
+
+ CSS_ASSAULT: "军用搏斗 HUD"
+ CSS_ASSAULT_DESC: "优化的 HUD 瞄准系统使飞行员能够充分利用这艘小巧而强大的飞船的全部能力。"
+
+ CSS_BASTION: "堡垒模块"
+ CSS_BASTION_DESC: "得益于平台级的堡垒模块，主权巡视舰才能无死角的操作其体型巨大的轴基舰炮。并能获得来自附近友方恒星基地的作战链路支援，得以保证舰船的作战能力。"
+
+ CSS_LIGHTWEIGHT_HULL: "轻型船体"
+ CSS_LIGHTWEIGHT_HULL_DESC: "基于商用运输设计的护航航母，其耐用性明显比同等级的其他舰船要低。但它的优点是速度更快且需要的合金更少。"
+
+ CSS_INTERDICTOR: "拦截模块"
+ CSS_INTERDICTOR_DESC: "这个庞大的模块直接连接到拦截者的反应堆，通过扭曲星系内的时空，能极大地阻碍敌方舰队的亚光速机动和超空间跳跃。"
+ AURA_CSS_INTERDICTOR: "$aura_category_offensive$"
+
+ CSS_WARFLOWER_CORE_0: "初始战争莲花核心"
+ CSS_WARFLOWER_CORE_0_DESC: "这里存放着作为战争莲花核心的晶体核心。无法使用跃迁引擎。"
+
+ CSS_WARFLOWER_CORE_1: "战争莲花核心"
+ CSS_WARFLOWER_CORE_1_DESC: "这里存放着作为战争莲花核心的晶体核心。允许使用跃迁引擎。"
+
+ CSS_WARFLOWER_CORE_2: "改进的战争莲花核心"
+ CSS_WARFLOWER_CORE_2_DESC: "经过改进的核心，使用了灵能晶体。允许使用灵能跃迁引擎。"
+
+ CSS_LATTICE_HULL: "晶格龙骨"
+ CSS_LATTICE_HULL_DESC: "这是卫士特有的船体结构，由特殊的晶格结构合金制成。极大地增加了船体结构的耐久性。"
+
+ CSS_REJUVENATION: "再生神殿"
+ CSS_REJUVENATION_DESC: "一种通过未知方法产生小规模熵反转的设备。通过这种方式，可以在星系中'逆转'对联盟船只的物理/精神损害。"
+ AURA_CSS_REJUVENATION: "$aura_category_defensive$"
+
+ CSS_SPINAL: "轴基稳定立场"
+ CSS_SPINAL_DESC: "为了在驱逐舰上使用轴基武器，猎手驱逐舰使用了一种特殊的力场系统来控制船周围的空间涟漪。然而，由于船只使用了超规格武器，它不可能保持着跟战列舰的轴基武器一样的射速。"
+
+ CSS_AUTOLOADER: "智能鱼雷装弹机"
+ CSS_AUTOLOADER_DESC: "重型鱼雷艇设计的核心就是装填机制。它防止鱼雷之间的干扰，并允许您以最高速度连续发射无数枚鱼雷。"
+
+ CSS_DRONE_LINK: "无人机链路"
+ CSS_DRONE_LINK_DESC: "无人机炮艇本身的智能化信息处理能力不足。是安装在无人炮艇舰上的无人机链接作为无人炮艇的指挥中枢。"
+
+ CSS_EXT_MATRIX: "中央歼灭矩阵"
+ CSS_EXT_MATRIX_DESC: "包含歼灭者机械智能核心代码的逻辑电路矩阵。"
+
+ CSS_SWARMLING_BRAIN_1: "神经连接"
+ CSS_SWARMLING_BRAIN_1_DESC: "连接毁灭者和裂变虫群的神经束。"
+
+ CSS_SWARMLING_BRAIN_2: "改进的神经连接"
+ CSS_SWARMLING_BRAIN_2_DESC: "更强大的神经束允许蜂群使用跃迁引擎。"
+
+ CSS_SWARMLING_BRAIN_3: "灵能神经连接"
+ CSS_SWARMLING_BRAIN_3_DESC: "灵能增强的神经束允许蜂群使用灵能跃迁引擎。"
+
+ CSS_MONSTER_BRAIN: "贝希摩斯大脑"
+ CSS_MONSTER_BRAIN_DESC: "贝希摩斯的大脑是虫群最先进的神经结构之一。"
+
+ CSS_MONSTER_SCALE: "贝希摩斯鳞片"
+ CSS_MONSTER_SCALE_DESC: "贝希摩斯强大的生物装甲板。"
+
+ CSS_MONSTER_AURA: "军团之威"
+ CSS_MONSTER_AURA_DESC: "通过强大的神经生物波加强裂变虫群的战斗能力。"
+ AURA_CSS_MONSTER_AURA: "对盟军的裂变虫群的影响:"
+
+ CSS_BROADSIDE_FC: "舷侧火控"
+ CSS_BROADSIDE_FC_DESC: "一个精确控制 线列齐射舰 众多中程重型武器的集成系统。但这个系统会极大地限制爆炸性武器的使用。"
+
+ CSS_PIRATE_FLAG: "海盗旗"
+ CSS_PIRATE_FLAG_DESC: "虽然不是挥舞的旗帜，但也是一面旗帜。"
+
+ CSS_SIEGE: "轨道轰炸瞄准装置"
+ CSS_SIEGE_DESC: "用于准确有效地轰炸行星表面的瞄准装置。极大地提高了飞船的轨道轰炸能力。"
+
+ CSS_LOOTER_MODULE: "掠夺-运输模块"
+ CSS_LOOTER_MODULE_TOOLTIP: "当船只位于其他帝国的领土上时，可以生产资源。\n如果有采矿站，可以产出矿物和能源。\n如果有研究站，可以产出研究点。\n如果有观测站，可以产出凝聚力。"
+ CSS_LOOTER_MODULE_DESC: "能够安全地将被私掠者偷走的物资运送到他们的国家，这要归功于具有最高级别计时装置的无人运输无人机。这些隐身无人机使巨大的容器看起来像无辜的太空尘埃云。"

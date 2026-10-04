@@ -1,0 +1,26 @@
+﻿l_simp_chinese:
+
+ trait_SBF_CA: "$SBF_trait$ $SBF_SHORT$$SBF_CA$"
+ trait_SBF_EX: "$SBF_trait$ $SBF_SHORT$$SBF_EX$"
+ trait_SBF_HV: "$SBF_trait$ $SBF_SHORT$$SBF_HV$"
+ trait_SBF_SM: "$SBF_trait$ $SBF_SHORT$$SBF_SM$"
+ trait_SBF_BG: "$SBF_trait$ $SBF_SHORT$$SBF_BG$"
+ trait_SBF_MR: "$SBF_trait$ $SBF_SHORT$$SBF_MR$"
+ trait_SBF_FT: "$SBF_trait$ $SBF_SHORT$$SBF_FT$"
+ 
+ trait_SBF_CA_desc: "$SBF_CA_DESC$"
+ trait_SBF_EX_desc: "$SBF_EX_DESC$"
+ trait_SBF_HV_desc: "$SBF_HV_DESC$"
+ trait_SBF_SM_desc: "$SBF_SM_DESC$"
+ trait_SBF_BG_desc: "$SBF_BG_DESC$"
+ trait_SBF_MR_desc: "$SBF_MR_DESC$"
+ trait_SBF_FT_desc: "$SBF_FT_DESC$"
+ 
+ trait_SBF_CA_tt: "$SBF_trait_tt_pre$ $SBF_CA$ $SBF_trait_tt_post$"
+ trait_SBF_EX_tt: "$SBF_trait_tt_pre$ $SBF_EX$ $SBF_trait_tt_post$"
+ trait_SBF_HV_tt: "$SBF_trait_tt_pre$ $SBF_HV$ $SBF_trait_tt_post$"
+ trait_SBF_SM_tt: "$SBF_trait_tt_pre$ $SBF_SM$ $SBF_trait_tt_post$"
+ trait_SBF_BG_tt: "$SBF_trait_tt_pre$ $SBF_BG$ $SBF_trait_tt_post$"
+ trait_SBF_MR_tt: "$SBF_trait_tt_pre$ $SBF_MR$ $SBF_trait_tt_post$"
+ trait_SBF_FT_tt: "$SBF_trait_tt_pre$ $SBF_FT$ $SBF_trait_tt_post$"
+ 

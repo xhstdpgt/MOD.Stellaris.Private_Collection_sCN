@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+
+# 扩张传统
+decision_support_colonies_growth: "鼓励殖民地发展"
+decision_support_colonies_growth_desc: "我们将为所有愿意迁往新建立殖民地的人提供更多福利。"
+decision_support_colonies_growth_effects_short: "激活时增加§R人口维护费§!并产生迁出推动力"
+decision_end_support_colonies_growth: "结束鼓励殖民地发展"
+decision_end_support_colonies_growth_desc: "停止为愿意迁往新建立殖民地的人提供更多福利。"
+decision_eend_support_colonies_growth_effects_short: "移除§R人口维护费§!的增加并停止产生迁出推动力"
+support_colonies_growth: "鼓励殖民地发展"
+support_colonies_growth_desc: "该星球为愿意迁往其他殖民地的人提供更多福利。"
+tr_expansion_adopt_desc: "§Y解锁星球决议：§!§G鼓励殖民地发展§!允许我们已有星球殖民地产出迁出推动力以支援新兴殖民地发展。"

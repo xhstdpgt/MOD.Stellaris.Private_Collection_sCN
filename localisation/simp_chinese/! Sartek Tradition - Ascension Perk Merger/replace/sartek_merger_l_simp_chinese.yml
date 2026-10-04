@@ -1,0 +1,70 @@
+﻿l_simp_chinese:
+
+#Synth
+ merger_sartek_not_ap_synthetic_evolution: "$TRIGGER_FAIL$不兼容§Y$ap_synthetic_evolution$§!飞升天赋。"
+
+#Vanilla behavior - Compatibility
+ sartek_executive_vigor_tooltip: "§Y法令经费§!增加：§G+100§!."
+ sartek_transcendent_learning_tooltip: "§Y领袖经验获得§!增加§G+50%§!"
+ sartek_imperial_prerogative_tooltip: "来自§Y殖民地的帝国规模§!：§G-50%§!."
+ mod_sartek_imperial_prerogative: "中央特权"
+ mod_sartek_transcendent_learning: "卓越学术"
+ mod_sartek_executive_vigor: "高效行政"
+
+#Utopian Dream - Sartek Merger Compatibility
+ ap_defender_of_the_galaxy_sartek_trust_growth: "所有人的§Y$MOD_COUNTRY_TRUST_GROWTH$§!增加§G+25%§!"
+ mod_damage_vs_country_type_ruined_marauders_mult: "对破碎掠袭者的伤害"
+ mod_damage_vs_country_type_marauder_raiders_mult: "对掠袭者突击队的伤害"
+ mod_country_minor_artifacts_produces_mult: "£minor_artifacts£稀有文物"
+ mod_starbase_buildings_minor_artifacts_cost_mult: "恒星基地建筑£minor_artifacts£稀有文物花费"
+ mod_starbase_modules_minor_artifacts_cost_mult: "恒星基地模块£minor_artifacts£稀有文物花费"
+ mod_planet_priests_consumer_goods_upkeep_mult: "祭司£consumer_goods£消费品维护费"
+ mod_leader_commanders_unity_cost_mult: "指挥官£unity£凝聚力维护费"
+
+#Sartek additional stuff related to Utopian Dream buff.
+ mod_leader_commanders_unity_upkeep_mult: "指挥官£unity£凝聚力维护费"
+
+#Sartek Expanded Pops - Compatibility
+ mod_campaigns_upkeep_mult: "运动维护费"
+
+#Sartek Expanded Pops - Compatibility
+ AAR_ap_ETHIC_gestalt: "$AAR_ap_ETHIC$"
+ AAR_ap_ETHIC_gestalt_desc: "将你的意识向外延伸，超越身体的自我，拥抱群体的自我。群体和更伟大种族的目标是超越性的，拥抱它们就是获得启迪。"
+ #政策
+
+#Sartek Ascensions Bridge
+ ap_our_true_vision_gestalt: "$ap_our_true_vision$"
+ ap_our_true_vision_gestalt_desc: "我们为自己的身体注入了新的使命感，我们清楚地看到了银河系、宇宙的真相。"
+ requires_ap_esap_one_purpose: "$TRIGGER_FAIL$R需要§Y$ap_esap_one_purpose$§!飞升天赋。"
+
+ ap_our_true_vision_tier_2_gestalt: "$ap_our_true_vision_tier_2$"
+ ap_our_true_vision_tier_2_gestalt_desc: "我们人数众多，而你孤身一人。你还指望能战胜我们？"
+ requires_ap_our_true_vision: "$TRIGGER_FAIL$R需要§Y$ap_our_true_vision$§!飞升天赋。"
+
+ ap_our_true_vision_tier_3_gestalt: "$ap_our_true_vision_tier_3$"
+ ap_our_true_vision_tier_3_gestalt_desc: "与暴风雨相比，一滴雨算什么？与心灵相比，思想又算得了什么？我们的团结充满了奇迹，而这是你们渺小的个人主义所无法想象的。"
+ requires_ap_our_true_vision_tier_2: "$TRIGGER_FAIL$R需要§Y$ap_our_true_vision_tier_2$§!飞升天赋。"
+
+ ### CHECK REPLACE FOLDER FOR UAP STELLAR MANIPULATION OVERRIDE ###
+
+ ap_stellar_manipulation_gigas: "掌控太虚"
+ ap_stellar_manipulation_gigas_desc: "通过在更大的尺度上使用聚变抑制器和噬星者所采用的相同方法，我们可以塑造照亮我们天空的恒星。"
+ ap_stellar_manip_gigas_extra_desc: "一旦研究出适当的方法，就可以通过巨型结构改变恒星的类别"
+
+
+# Technologies (For a tidy error log)
+ tech_gigas_stellar_manip_1: "高能等离子体遏制"
+ tech_gigas_stellar_manip_1_desc: "恒星爆炸会喷出大量高能等离子体，这些等离子体可以收集起来，用于各种科学研究。"
+
+ basic_stellar_manip1: "§K解锁决议：§!恒星等离子体收集"
+ basic_stellar_manip1_desc: "从恒星中收集高能等离子体并将其储存起来以备将来使用的能力，将为许多美妙的可能性打开大门。聚变抑制器和噬星者引发的超新星将在研究这项技术后提供恒星等离子体。"
+
+# Better Perks mod - Compatibility
+ ap_archaeoengineers_labs: "§Y解锁建筑：§!考古研究实验室/中心提升 £minor_artifacts£ §G稀有文物§!生产和储存能力。"
+ allow_gaia_and_nuked: "允许我们将世界改造成§G盖亚星球§!或§Y古墓世界§!."
+ ap_technological_ascendancy_orbital: "§Y解锁恒星基地建筑：§!轨道研究站产出 £society_research£ £physics_research£ £engineering_research£ 研究。"
+ ap_galactic_contender_voidworms_ba: "$MOD_DIPLO_WEIGHT_MULT$: §G+25%§!\n对宿敌的伤害：§G+25%§!\n$mod_rivalries_influence_produces_mult$: §G+25%§!\n$mod_rivalries_unity_produces_add$: §G+50§!\n$mod_damage_vs_country_type_fallen_empire_mult$: §G+$@ap_galactic_contender_dmg_mult|0%$§!\n$mod_damage_vs_country_type_awakened_fallen_empire_mult$: §G+$@ap_galactic_contender_dmg_mult|0%$§!\n$mod_damage_vs_country_type_gate_builders_mult$: §G+$@ap_galactic_contender_dmg_mult|0%$§!\n$mod_damage_vs_country_type_voidworms_mult$: §G+$@ap_galactic_contender_dmg_mult|0%$§!\n$mod_damage_vs_country_type_awakened_marauders_mult$: §G+$@ap_galactic_contender_dmg_mult|0%$§!"
+ ap_hive_worlds_bred: "§Y解锁特质：§! §G蜂巢繁殖§! 使得矿工、技工和农夫的基础产出§G+1§！但同时会大幅降低它们在非蜂巢世界中的宜居性。"
+ ap_mechromancy_zombie_machine: "§Y解锁特质：§! §G食尸种§!和§G机械世界偏好§!用于有机物种改造。"
+
+

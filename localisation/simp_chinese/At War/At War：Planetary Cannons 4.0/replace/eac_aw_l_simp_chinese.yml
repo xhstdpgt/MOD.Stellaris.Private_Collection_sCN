@@ -1,0 +1,57 @@
+﻿l_simp_chinese:
+
+###################
+# Decisions
+################### 
+ decision_eac_scattergun_prioity_on: "开启运输目标优先"
+ decision_eac_scattergun_prioity_on_desc: "将线圈枪或轨道炮电池设置为在轨道上优先攻击运输船。 \n\n——[mod]At War：Planetary Cannons 4.0"
+ decision_eac_scattergun_prioity_off: "关闭运输目标优先"
+ decision_eac_scattergun_prioity_off_desc: "将线圈枪或轨道炮电池恢复到正常射击模式（对舰队类型无偏好）。 \n\n——[mod]At War：Planetary Cannons 4.0"
+ 
+ planet_eac_scattergun_transport_targeting: "开启运输目标优先"
+ planet_eac_scattergun_transport_targeting_tooltip: "优先攻击运输船。"
+ planet_eac_scattergun_transport_targeting_desc: "线圈枪或轨道炮电池设置为在轨道上优先攻击运输船。 \n\n——[mod]At War：Planetary Cannons 4.0"
+
+ ###################
+ # Messages
+ ###################
+ EAC_MESSAGE_SHIP_UNDER_FIRE_PLANETARY_CANNON: "舰队遭受行星炮攻击"
+ EAC_MESSAGE_SHIP_UNDER_FIRE_PLANETARY_CANNON_DESC: "飞船 $SHIP|H$§! §W所属舰队§! $FLEET|H$§! 正遭受来自 $PLANET|H$§! 的行星炮攻击。"
+
+ EAC_MESSAGE_SHIP_DESTROYED_PLANETARY_CANNON: "行星炮击毁舰船"
+ EAC_MESSAGE_SHIP_DESTROYED_PLANETARY_CANNON_DESC: "飞船 $SHIP|H$§! §W所属舰队§! $FLEET|H$§! 已被来自 $PLANET|H$§! 的行星炮摧毁。"
+ 
+ EAC_MESSAGE_PLANETARY_CANNON_OPERATIONAL: "行星炮已就绪"
+ EAC_MESSAGE_PLANETARY_CANNON_OPERATIONAL_DESC: "$PLANET|H$§! 上的行星炮已重新启用。舰队 $FLEET|H$§! 处于易受攻击状态。"
+
+ job_eac_military_technician_energy: "能源武器技术员"
+ job_eac_military_technician_energy_plural: "能源武器技术员"
+ job_eac_military_technician_energy_desc: "行星炮的操作需由熟练技工负责设备操控及作业监督。 \n\n——[mod]At War：Planetary Cannons 4.0"
+ job_eac_military_technician_energy_effect_desc: "£job_eac_military_technician_energy£ $job_eac_military_technician_energy_plural$ 生产 £physics£ §Y$physics_research$§!"
+ mod_job_eac_military_technician_energy_add: "$job_eac_military_technician_energy$ 岗位"
+ mod_job_eac_military_technician_energy_per_pop: "每 $VALUE$ £pop£ §G+1§! $job_eac_military_technician_energy$ 岗位"
+ mod_job_eac_military_technician_energy_per_pop_short: "\n每 $VALUE$ £pop£ §G+1§! £mod_job_eac_military_technician_energy_add£"
+
+ job_eac_military_technician_kinetic: "动能武器技术员"
+ job_eac_military_technician_kinetic_plural: "动能武器技术员"
+ job_eac_military_technician_kinetic_desc: "行星炮台需由熟练技工操作设备并监管运行。 \n\n——[mod]At War：Planetary Cannons 4.0"
+ job_eac_military_technician_kinetic_effect_desc: "£job_eac_military_technician_kinetic£ $job_eac_military_technician_kinetic_plural$ 生产 £engineering£ §Y$engineering_research$§!"
+ mod_job_eac_military_technician_kinetic_add: "$job_eac_military_technician_kinetic$ 岗位"
+ mod_job_eac_military_technician_kinetic_per_pop: "每 $VALUE$ £pop£ §G+1§! $job_eac_military_technician_kinetic$ 岗位"
+ mod_job_eac_military_technician_kinetic_per_pop_short: "\n每 $VALUE$ £pop£ §G+1§! £mod_job_eac_military_technician_kinetic_add£"
+
+ job_eac_military_drone_energy: "能量武器无人机"
+ job_eac_military_drone_energy_plural: "能量武器无人机s"
+ job_eac_military_drone_energy_desc: "行星炮台需配备熟练无人机以操控设备并监督运行。 \n\n——[mod]At War：Planetary Cannons 4.0"
+ job_eac_military_drone_energy_effect_desc: "£job_eac_military_drone_energy£ $job_eac_military_drone_energy_plural$ 生产 £physics£ §Y$physics_research$§!"
+ mod_job_eac_military_drone_energy_add: "$job_eac_military_drone_energy$ 岗位"
+ mod_job_eac_military_drone_energy_per_pop: "每 $VALUE$ £pop£ §G+1§! $job_eac_military_drone_energy$ 岗位"
+ mod_job_eac_military_drone_energy_per_pop_short: "\n每 $VALUE$ £pop£ §G+1§! £mod_job_eac_military_drone_energy_add£"
+
+ job_eac_military_drone_kinetic: "动能武器无人机"
+ job_eac_military_drone_kinetic_plural: "动能武器无人机"
+ job_eac_military_drone_kinetic_desc: "行星炮台需配备熟练无人机以操控设备并监督运行。 \n\n——[mod]At War：Planetary Cannons 4.0"
+ job_eac_military_drone_kinetic_effect_desc: "£job_eac_military_drone_kinetic£ $job_eac_military_drone_kinetic_plural$ 生产 £engineering£ §Y$engineering_research$§!"
+ mod_job_eac_military_drone_kinetic_add: "$job_eac_military_drone_kinetic$ 岗位"
+ mod_job_eac_military_drone_kinetic_per_pop: "每 $VALUE$ £pop£ §G+1§! $job_eac_military_drone_kinetic$ 岗位"
+ mod_job_eac_military_drone_kinetic_per_pop_short: "\n每 $VALUE$ £pop£ §G+1§! £mod_job_eac_military_drone_kinetic_add£"

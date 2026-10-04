@@ -1,0 +1,164 @@
+﻿l_simp_chinese:
+ 
+ stargate.11.name: "星门播种"
+ stargate.11.desc: "为每个系统中每个行星有星门的概率选择百分比。\n宜居行星优先，特别是可以进行改造的行星，例如 < Terraforming Candidates > 和 < Guilli's Valuable Worlds >。"
+ stargate.11.a: "全部"
+ stargate.11.b: "75"
+ stargate.11.c: "50"
+ stargate.11.d: "25"
+ stargate.11.e: "0"
+
+ opinion_stargate_access: "星门访问"
+ opinion_stargate_revokation: "星门访问权限已撤销"
+
+ stargate: "星门"
+
+ # 政策
+ policy_stargate_military_security: "军事星门安全"
+ policy_stargate_military_security_desc: "关于我们星门网络的军事安全政策。"
+ stargate_military_open_name: "开放"
+ stargate_military_nap_name: "互不侵犯条约"
+ Nonaggression: "互不侵犯条约"
+ Nonaggression_desc: "我们的星门网络向与我们签订互不侵犯条约的国家开放。"
+ stargate_military_defensive_name: "防御条约"
+ Defensive: "防御条约"
+ Defensive_desc: "我们的星门网络向与我们签订防御条约的国家开放。"
+ stargate_military_allies_name: "联盟"
+ stargate_military_fed_name: "联邦"
+ stargate_military_closed_name: "关闭"
+
+ 
+ policy_stargate_civilian_security: "民用星门安全"
+ policy_stargate_civilian_security_desc: "我们关于星门网络民用安全的政策。"
+ stargate_civilian_open_name: "开放"
+ stargate_civilian_economy_name: "经济"
+ Economic: "经济"
+ Economic_desc: "我们的星门网络向经济合作伙伴开放。"
+ stargate_civilian_science_name: "科学"
+ Scientific: "科学"
+ Scientific_desc: "我们的星门网络向科学合作伙伴开放。"
+ stargate_civilian_allies_name: "联盟"
+ stargate_civilian_fed_name: "联邦"
+ stargate_civilian_closed_name: "关闭"
+
+ Open: "开放"
+ Open_desc: "我们星门网络向与我们保持开放边界的国家开放。"
+ Alliance: "联盟"
+ Alliance_desc: "我们星门网络向重要联盟开放。"
+ Federation: "联邦"
+ Federation_desc: "我们星门网络向联邦成员开放。"
+ Closed: "关闭"
+ Closed_desc: "我们星门网络仅对我们的附属国开放。"
+
+
+ # 特征, 行星决定, 科技, 岗位
+ d_stargate: "星门"
+ d_stargate_desc: "对虫洞定位的研究使得在行星引力井内创建临时虫洞成为可能，从而实现了快速贸易、军事增援、民用运输、政府运输以及更便捷地管理所有连接的世界。"
+ d_stargate_civilian_network: "民用星门网络"
+ d_stargate_civilian_network_desc: "此行星与其他拥有活跃星门的行星相连，为每个连接提供民用加成。"
+ d_stargate_military_network: "军事星门网络"
+ d_stargate_military_network_desc: "此行星与其他拥有活跃星门的行星相连，为每个连接提供军事加成。"
+
+ d_stargate_internal_civilian_network: "内部民用连接"
+ d_stargate_internal_civilian_network_desc: "此连接允许将民用货物传送到我们帝国境内的另一颗行星。"
+ d_stargate_external_civilian_network: "外部民用连接"
+ d_stargate_external_civilian_network_desc: "此连接允许将民用货物传送到另一个帝国境内的行星。"
+ d_stargate_internal_military_network: "内部军事连接"
+ d_stargate_internal_military_network_desc: "此连接允许将军事装备和人员传送到我们帝国境内的另一颗行星。"
+ d_stargate_external_military_network: "外部军事连接"
+ d_stargate_external_military_network_desc: "此连接允许将军事装备和人员传送到另一个帝国境内的行星。"
+ d_stargate_external_research_network: "外部研究连接"
+ d_stargate_external_research_network_desc: "此连接允许将研究材料传送到另一个帝国境内的行星。"
+
+ d_stargate_network: "星门网络"
+ d_stargate_network_desc: "此行星与其他拥有星门的行星相连，为每个连接提供加成。"
+
+ build_stargate: "建造星门"
+ build_stargate_desc: "在这颗行星上建造一个星门，将其连接到我们星门网络。"
+
+ decision_manage_stargate: "星门终端"
+ decision_manage_stargate_desc: "控制星门在这颗行星上的使用方式。"
+
+ tech_stargate: "局部亚空间虫洞"
+ tech_stargate_desc: "通过直接穿越亚空间，可以在正常空间的两个不同点之间建立一个临时的通道。在这些点之间旅行几乎是瞬间的。通过定位这些虫洞，有可能在短时间内在行星的重力井内创建它们。"
+
+ job_stargate_soldier: "星门士兵"
+ job_stargate_soldier_plural: "星门士兵"
+ job_stargate_soldier_desc: "星门的保护者。"
+ mod_job_stargate_soldier_add: "星门士兵"
+ job_stargate_warrior_drone: "星门战斗子个体"
+ job_stargate_warrior_drone_plural: "星门战斗子个体"
+ job_stargate_warrior_drone_desc: "星门的保护者。"
+ mod_job_stargate_warrior_drone_add: "星门战斗子个体"
+ job_stargate_manager: "星门管理者"
+ job_stargate_manager_plural: "星门管理者"
+ job_stargate_manager_desc: "负责管理星门的调度、维护和库存。"
+ mod_job_stargate_manager_add: "星门管理者"
+ job_gestalt_stargate_manager: "格式塔星门管理者"
+ job_gestalt_stargate_manager_plural: "格式塔星门管理者"
+ job_gestalt_stargate_manager_desc: "负责管理星门的调度、维护和库存。"
+ mod_job_gestalt_stargate_manager_add: "格式塔星门管理者"
+
+ 
+ # 修饰符
+ stargate_resettle_1: "10% 星门覆盖率"
+ stargate_resettle_2: "20% 星门覆盖率"
+ stargate_resettle_3: "30% 星门覆盖率"
+ stargate_resettle_4: "40% 星门覆盖率"
+ stargate_resettle_5: "50% 星门覆盖率"
+ stargate_resettle_6: "60% 星门覆盖率"
+ stargate_resettle_7: "70% 星门覆盖率"
+ stargate_resettle_8: "80% 星门覆盖率"
+ stargate_resettle_9: "90%+ 星门覆盖率"
+
+ stargate_connection_cost: "星门连接维护费用"
+
+ mod_stargate_energy_upkeep_mult: "星门能量维护费用"
+
+ # 菜单
+ blank: ""
+ stargate_menu.1.name: "[This.GetName] 星门终端"
+ stargate_menu.1.refresh: "终端刷新"
+ stargate_menu.1.confirm: "确认更改"
+ stargate_menu.1.desc: ""
+ stargate_menu.10.name: "[This.GetName] 星门设施"
+ stargate_menu.10.confirm: "开放国家SGC"
+ stargate_menu.10.desc: "$stargate_mil_con_int$\n\n$stargate_mil_con_ex$\n\n$stargate_econ_con_int$\n\n$stargate_econ_con_ex$\n\n$stargate_res_con_ex$\n\n$stargate_count$"
+
+ stargate_options: "优先级"
+ stargate_stats: "网络数据"
+ country_caps_used: "该行星的星门权限默认为国家设置。您必须先使用窗口顶部的按钮激活此终端，然后才能在此处执行任何操作。"
+ stargate_connection_cap_increase: "增加此连接类型的上限。总连接数限制为 90。"
+ stargate_connection_cap_decrease: "减少此连接类型的上限。将其设置为 0 意味着上限为 0，而不是无限制。"
+ stargate_planet_ui_disabled: "该行星的星门权限默认为国家设置。点击此按钮以启用此终端。"
+
+ stargate_connection_off: "此连接类型当前已关闭。您可以通过点击此按钮将其打开。"
+ stargate_connection_on: "此连接类型当前已打开。此类连接将被用于达到上限，优先级受到尊重。"
+ stargate_connection_priority: "此连接类型相对于其他连接类型的优先级。其上限将在具有较低优先级的连接之前填满。"
+
+ 
+ stargate_count: "£stargate£ 活跃星门: [This.stargatecount]"
+ stargate_mil_con_int: "£mil_con_int£ 可用: [This.accessible_internal_military_stargatecount] 已连接: [This.stargate_military_connections_int_con] 上限: [This.stargate_military_connections_int_cap]"
+ stargate_mil_con_ex: "£mil_con_ex£ 可用: [This.accessible_external_military_stargatecount] 已连接: [This.stargate_military_connections_ex_con] 上限: [This.stargate_military_connections_ex_cap]"
+ stargate_econ_con_int: "£econ_con_int£ 可用: [This.accessible_internal_civilian_stargatecount] 已连接: [This.stargate_economic_connections_int_con] 上限: [This.stargate_economic_connections_int_cap]"
+ stargate_econ_con_ex: "£econ_con_ex£ 可用: [This.accessible_external_civilian_stargatecount] 已连接: [This.stargate_economic_connections_ex_con] 上限: [This.stargate_economic_connections_ex_cap]"
+ stargate_res_con_ex: "£res_con_ex£ 可用: [This.accessible_external_research_stargatecount] 已连接: [This.stargate_research_connections_ex_con] 上限: [This.stargate_research_connections_ex_cap]"
+
+ increase_connection_priority: "增加此连接类型的优先级。"
+ decrease_connection_priority: "降低此连接类型的优先级。"
+
+ already_maximum_priority: "此连接类型已经是最高优先级。"
+ already_minimum_priority: "此连接类型已经是最低优先级。"
+
+ stargate_military_connections_int: "内部军事连接。提供军队和军队建造速度的加成。这些连接形成在您拥有的星球之间。"
+ stargate_military_connections_ex: "外部军事连接。提供海军加成。通过降低我们的军事星门安全政策或进行更多军事交易来获得更多此类连接。"
+ stargate_economic_connections_int: "内部经济连接。提供基础资源岗位产出的加成。这些连接形成在您拥有的星球之间。"
+ stargate_economic_connections_ex: "外部经济连接。提供贸易额的加成，或者如果格式塔则直接提供能量币。通过降低我们的民用星门安全政策或进行更多民用交易来获得更多此类连接。"
+ stargate_research_connections_ex: "外部研究连接。为相应的研究岗位提供研究加成。通过建立研究协议来获得更多此类连接。"
+
+ at_max_connections: "您已经拥有最大连接数。"
+ at_min_connections: "您已经拥有最小连接数。"
+ connection_type_disabled: "此连接类型已禁用。"
+
+ edict_stargate_manage: "星门终端"
+ edict_stargate_manage_desc: "在没有具体命令的情况下，制定帝国范围内星门使用的准则。"

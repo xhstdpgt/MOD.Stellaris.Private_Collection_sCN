@@ -1,0 +1,88 @@
+﻿l_simp_chinese:
+
+ SBF_SHIP_BB_CA_BOW_1: "[SBF]航母舰艏"
+ SBF_SHIP_BB_CA_MID_1: "[SBF]指挥核心"
+ SBF_SHIP_BB_CA_STN_1: "[SBF]航母舰艉"
+ 
+ SBF_SHIP_BB_EX_BOW_1: "[SBF]导弹舰艏"
+ SBF_SHIP_BB_EX_MID_1: "[SBF]毁灭者核心"
+ SBF_SHIP_BB_EX_STN_1: "[SBF]导弹舰艉"
+ 
+ SBF_SHIP_BB_GA_MID_1: "[SBF]$SBF_SHIP_BB_GA$"
+ 
+ SBF_SHIP_BB_ID_MID_1: "[SBF]$SBF_SHIP_BB_ID$"
+ 
+ SBF_SHIP_BB_MR_BOW_1: "[SBF]强袭舰艏"
+ SBF_SHIP_BB_MR_MID_1: "[SBF]陆战队营房核心"
+ SBF_SHIP_BB_MR_STN_1: "[SBF]强袭舰艉"
+ 
+ SBF_SHIP_BB_SF_BOW_1: "[SBF]火控舰艏"
+ SBF_SHIP_BB_SF_MID_1: "[SBF]火控核心"
+ SBF_SHIP_BB_SF_STN_1: "[SBF]MWD舰艉"
+ 
+ SBF_SHIP_BB_X2_MID_1: "[SBF]轴基炮塔区段"
+ 
+ SBF_SHIP_CC_CA_BOW_1: "[SBF]航母舰艏"
+ SBF_SHIP_CC_CA_MID_1: "[SBF]轻量化核心"
+ SBF_SHIP_CC_CA_STN_1: "[SBF]航母舰艉"
+ 
+ SBF_SHIP_CC_DR_BOW_1: "[SBF]无人机舱舰艏"
+ SBF_SHIP_CC_DR_STN_1: "[SBF]无人机作战链接舰艉"
+ 
+ SBF_SHIP_CC_EX_BOW_1: "[SBF]武库舰艏"
+ SBF_SHIP_CC_EX_MID_1: "[SBF]武库核心"
+ SBF_SHIP_CC_EX_STN_1: "[SBF]火控舰艉"
+ 
+ SBF_SHIP_CC_MR_BOW_1: "[SBF]强袭舰艏"
+ SBF_SHIP_CC_MR_STN_1: "[SBF]陆战队营房舰艉"
+ 
+ SBF_SHIP_CC_PD_BOW_1: "[SBF]点防御舰艏"
+ SBF_SHIP_CC_PD_MID_1: "[SBF]点防御核心"
+ SBF_SHIP_CC_PD_STN_1: "[SBF]点防御舰艉"
+ 
+ SBF_SHIP_CC_RP_MID_1: "[SBF]$SBF_SHIP_CC_RP$"
+ 
+ SBF_SHIP_CC_HL_BOW_1: "[SBF]幻象模块"
+ SBF_SHIP_CC_HL_MID_1: "[SBF]线性核心"
+ SBF_SHIP_CC_HL_STN_1: "[SBF]引擎舰艉"
+ 
+ SBF_SHIP_HL_HL_BOW_1: "[SBF]幻影舰艏"
+ SBF_SHIP_HL_HL_MID_1: "[SBF]矩阵核心"
+ SBF_SHIP_HL_HL_STN_1: "[SBF]幻影舰艉"
+ 
+ SBF_SHIP_CO_AS_MID_1: "[SBF]$SBF_SHIP_CO_AS$"
+ 
+ SBF_SHIP_CO_WB_MID_1: "[SBF]$SBF_SHIP_CO_WB$"
+ 
+ SBF_SHIP_DD_AP_BOW_1: "[SBF]干扰舰艏"
+ SBF_SHIP_DD_AP_STN_1: "[SBF]辅助舰艉"
+ 
+ SBF_SHIP_DD_EX_BOW_1: "[SBF]LRM舰艏"
+ SBF_SHIP_DD_EX_STN_1: "[SBF]LRM舰艉"
+ 
+ SBF_SHIP_DD_MR_MID_1: "[SBF]$SBF_SHIP_DD_MR$"
+ 
+ SBF_SHIP_DD_XL_BOW_1: "[SBF]轴基舰艏"
+ SBF_SHIP_DD_XL_STN_1: "[SBF]稳定器舰艉"
+ 
+ SBF_SHIP_DN_DN_MID_1: "[SBF]$SBF_SHIP_DN_DN$"
+ 
+ SBF_SHIP_JG_MR_MID_1: "[SBF]$SBF_SHIP_JG_MR$"
+ 
+ SBF_SHIP_MN_MN_MID_1: "[SBF]$SBF_SHIP_MN_MN$"
+ 
+ SBF_SHIP_SB_MF_CORE: "[SBF]机动要塞"
+ SBF_SHIP_SB_MF_L4: "[SBF]要塞火炮区段"
+ SBF_SHIP_SB_MF_X2: "[SBF]要塞火炮区段n"
+ SBF_SHIP_SB_MF_G8: "[SBF]要塞鱼雷区段"
+ SBF_SHIP_SB_MF_H4: "[SBF]要塞机库区段"
+ SBF_SHIP_SB_MF_P8: "[SBF]要塞重装区段"
+ 
+ SBF_SHIP_SB_NC_CORE: "[SBF]$SBF_SHIP_SB_NC$"
+ 
+ SBF_SHIP_ST_MN_CORE: "[SBF]$SBF_SHIP_ST_MN$"
+ 
+ SBF_SHIP_TI_CA_BOW_1: "[SBF]航母舰艏"
+ SBF_SHIP_TI_CA_MID_1: "[SBF]指挥核心"
+ SBF_SHIP_TI_CA_STN_1: "[SBF]航母舰艉"
+ 

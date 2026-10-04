@@ -1,0 +1,88 @@
+﻿l_simp_chinese:
+ 
+ concept_SBF_SHIP_CC_CA: "$SBF_SHIP_CC_CA_plural$"
+ concept_SBF_SHIP_CC_CA_desc: "$SBF_SHIP_CC_CA_desc$\n\n$ship_size_SBF_SHIP_CC_CA$$SBF_SLOT$: §G$SBF_SHIP_CC_CA_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_CC_CA$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_CC_CA$\n"
+
+ concept_SBF_SHIP_BB_CA: "$SBF_SHIP_BB_CA_plural$"
+ concept_SBF_SHIP_BB_CA_desc: "$SBF_SHIP_BB_CA_desc$\n\n$ship_size_SBF_SHIP_BB_CA$$SBF_SLOT$: §G$SBF_SHIP_BB_CA_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_BB_CA$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_BB_CA$\n"
+
+ concept_SBF_SHIP_TI_CA: "$SBF_SHIP_TI_CA_plural$"
+ concept_SBF_SHIP_TI_CA_desc: "$SBF_SHIP_TI_CA_desc$\n\n$ship_size_SBF_SHIP_TI_CA$$SBF_SLOT$: §G$SBF_SHIP_TI_CA_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_TI_CA$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_TI_CA$\n"
+
+ concept_SBF_SHIP_DD_EX: "$SBF_SHIP_DD_EX_plural$"
+ concept_SBF_SHIP_DD_EX_desc: "$SBF_SHIP_DD_EX_desc$\n\n$ship_size_SBF_SHIP_DD_EX$$SBF_SLOT$: §G$SBF_SHIP_DD_EX_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_DD_EX$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_DD_EX$\n"
+
+ concept_SBF_SHIP_DD_AP: "$SBF_SHIP_DD_AP_plural$"
+ concept_SBF_SHIP_DD_AP_desc: "$SBF_SHIP_DD_AP_desc$\n\n$ship_size_SBF_SHIP_DD_AP$$SBF_SLOT$: §G$SBF_SHIP_DD_AP_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_DD_AP$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_DD_AP$\n"
+
+ concept_SBF_SHIP_CC_EX: "$SBF_SHIP_CC_EX_plural$"
+ concept_SBF_SHIP_CC_EX_desc: "$SBF_SHIP_CC_EX_desc$\n\n$ship_size_SBF_SHIP_CC_EX$$SBF_SLOT$: §G$SBF_SHIP_CC_EX_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_CC_EX$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_CC_EX$\n"
+
+ concept_SBF_SHIP_BB_EX: "$SBF_SHIP_BB_EX_plural$"
+ concept_SBF_SHIP_BB_EX_desc: "$SBF_SHIP_BB_EX_desc$\n\n$ship_size_SBF_SHIP_BB_EX$$SBF_SLOT$: §G$SBF_SHIP_BB_EX_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_BB_EX$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_BB_EX$\n"
+
+ concept_SBF_SHIP_CC_PD: "$SBF_SHIP_CC_PD_plural$"
+ concept_SBF_SHIP_CC_PD_desc: "$SBF_SHIP_CC_PD_desc$\n\n$ship_size_SBF_SHIP_CC_PD$$SBF_SLOT$: §G$SBF_SHIP_CC_PD_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_CC_PD$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_CC_PD$\n"
+
+ concept_SBF_SHIP_CC_RP: "$SBF_SHIP_CC_RP_plural$"
+ concept_SBF_SHIP_CC_RP_desc: "$SBF_SHIP_CC_RP_desc$\n\n$ship_size_SBF_SHIP_CC_RP$$SBF_SLOT$: §G$SBF_SHIP_CC_RP_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_CC_RP$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_CC_RP$\n"
+
+ concept_SBF_SHIP_CC_HL: "$SBF_SHIP_CC_HL_plural$"
+ concept_SBF_SHIP_CC_HL_desc: "$SBF_SHIP_CC_HL_desc$\n\n$ship_size_SBF_SHIP_CC_HL$$SBF_SLOT$: §G$SBF_SHIP_CC_HL_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_CC_HL$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_CC_HL$\n"
+
+ concept_SBF_SHIP_HL_HL: "$SBF_SHIP_HL_HL_plural$"
+ concept_SBF_SHIP_HL_HL_desc: "$SBF_SHIP_HL_HL_desc$\n\n$ship_size_SBF_SHIP_HL_HL$$SBF_SLOT$: §G$SBF_SHIP_HL_HL_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_HL_HL$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_HL_HL$\n"
+
+ concept_SBF_SHIP_BB_SF: "$SBF_SHIP_BB_SF_plural$"
+ concept_SBF_SHIP_BB_SF_desc: "$SBF_SHIP_BB_SF_desc$\n\n$ship_size_SBF_SHIP_BB_SF$$SBF_SLOT$: §G$SBF_SHIP_BB_SF_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_BB_SF$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_BB_SF$\n"
+
+ concept_SBF_SHIP_CO_AS: "$SBF_SHIP_CO_AS_plural$"
+ concept_SBF_SHIP_CO_AS_desc: "$SBF_SHIP_CO_AS_desc$\n\n$ship_size_SBF_SHIP_CO_AS$$SBF_SLOT$: §G$SBF_SHIP_CO_AS_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_CO_AS$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_CO_AS$\n"
+
+ concept_SBF_SHIP_CO_WB: "$SBF_SHIP_CO_WB_plural$"
+ concept_SBF_SHIP_CO_WB_desc: "$SBF_SHIP_CO_WB_desc$\n\n$ship_size_SBF_SHIP_CO_WB$$SBF_SLOT$: §G$SBF_SHIP_CO_WB_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_CO_WB$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_CO_WB$\n"
+
+ concept_SBF_SHIP_DD_XL: "$SBF_SHIP_DD_XL_plural$"
+ concept_SBF_SHIP_DD_XL_desc: "$SBF_SHIP_DD_XL_desc$\n\n$ship_size_SBF_SHIP_DD_XL$$SBF_SLOT$: §G$SBF_SHIP_DD_XL_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_DD_XL$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_DD_XL$\n"
+
+ concept_SBF_SHIP_CC_DR: "$SBF_SHIP_CC_DR_plural$"
+ concept_SBF_SHIP_CC_DR_desc: "$SBF_SHIP_CC_DR_desc$\n\n$ship_size_SBF_SHIP_CC_DR$$SBF_SLOT$: §G$SBF_SHIP_CC_DR_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_CC_DR$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_CC_DR$\n"
+
+ concept_SBF_SHIP_BB_GA: "$SBF_SHIP_BB_GA_plural$"
+ concept_SBF_SHIP_BB_GA_desc: "$SBF_SHIP_BB_GA_desc$\n\n$ship_size_SBF_SHIP_BB_GA$$SBF_SLOT$: §G$SBF_SHIP_BB_GA_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_BB_GA$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_BB_GA$\n"
+
+ concept_SBF_SHIP_BB_X2: "$SBF_SHIP_BB_X2_plural$"
+ concept_SBF_SHIP_BB_X2_desc: "$SBF_SHIP_BB_X2_desc$\n\n$ship_size_SBF_SHIP_BB_X2$$SBF_SLOT$: §G$SBF_SHIP_BB_X2_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_BB_X2$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_BB_X2$\n"
+
+ concept_SBF_SHIP_BB_ID: "$SBF_SHIP_BB_ID_plural$"
+ concept_SBF_SHIP_BB_ID_desc: "$SBF_SHIP_BB_ID_desc$\n\n$ship_size_SBF_SHIP_BB_ID$$SBF_SLOT$: §G$SBF_SHIP_BB_ID_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_BB_ID$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_BB_ID$\n"
+
+ concept_SBF_SHIP_DN_DN: "$SBF_SHIP_DN_DN_plural$"
+ concept_SBF_SHIP_DN_DN_desc: "$SBF_SHIP_DN_DN_desc$\n\n$ship_size_SBF_SHIP_DN_DN$$SBF_SLOT$: §G$SBF_SHIP_DN_DN_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_DN_DN$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_DN_DN$\n"
+
+ concept_SBF_SHIP_DD_MR: "$SBF_SHIP_DD_MR_plural$"
+ concept_SBF_SHIP_DD_MR_desc: "$SBF_SHIP_DD_MR_desc$\n\n$ship_size_SBF_SHIP_DD_MR$$SBF_SLOT$: §G$SBF_SHIP_DD_MR_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_DD_MR$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_DD_MR$\n"
+
+ concept_SBF_SHIP_CC_MR: "$SBF_SHIP_CC_MR_plural$"
+ concept_SBF_SHIP_CC_MR_desc: "$SBF_SHIP_CC_MR_desc$\n\n$ship_size_SBF_SHIP_CC_MR$$SBF_SLOT$: §G$SBF_SHIP_CC_MR_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_CC_MR$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_CC_MR$\n"
+
+ concept_SBF_SHIP_BB_MR: "$SBF_SHIP_BB_MR_plural$"
+ concept_SBF_SHIP_BB_MR_desc: "$SBF_SHIP_BB_MR_desc$\n\n$ship_size_SBF_SHIP_BB_MR$$SBF_SLOT$: §G$SBF_SHIP_BB_MR_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_BB_MR$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_BB_MR$\n"
+
+ concept_SBF_SHIP_JG_MR: "$SBF_SHIP_JG_MR_plural$"
+ concept_SBF_SHIP_JG_MR_desc: "$SBF_SHIP_JG_MR_desc$\n\n$ship_size_SBF_SHIP_JG_MR$$SBF_SLOT$: §G$SBF_SHIP_JG_MR_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_JG_MR$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_JG_MR$\n"
+
+ concept_SBF_SHIP_JG_MN: "$SBF_SHIP_JG_MN_plural$"
+ concept_SBF_SHIP_JG_MN_desc: "$SBF_SHIP_JG_MN_desc$\n\n$ship_size_SBF_SHIP_JG_MN$$SBF_SLOT$: §G$SBF_SHIP_JG_MN_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_JG_MN$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_JG_MN$\n"
+
+ concept_SBF_SHIP_MN_MN: "$SBF_SHIP_MN_MN_plural$"
+ concept_SBF_SHIP_MN_MN_desc: "$SBF_SHIP_MN_MN_desc$\n\n$ship_size_SBF_SHIP_MN_MN$$SBF_SLOT$: §G$SBF_SHIP_MN_MN_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_MN_MN$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_MN_MN$\n"
+
+ concept_SBF_SHIP_ST_MN: "$SBF_SHIP_ST_MN_plural$"
+ concept_SBF_SHIP_ST_MN_desc: "$SBF_SHIP_ST_MN_desc$\n\n$ship_size_SBF_SHIP_ST_MN$$SBF_SLOT$: §G$SBF_SHIP_ST_MN_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_ST_MN$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_ST_MN$\n"
+
+ concept_SBF_SHIP_SB_MF: "$SBF_SHIP_SB_MF_plural$"
+ concept_SBF_SHIP_SB_MF_desc: "$SBF_SHIP_SB_MF_desc$\n\n$ship_size_SBF_SHIP_SB_MF$$SBF_SLOT$: §G$SBF_SHIP_SB_MF_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_SB_MF$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_SB_MF$\n"
+
+ concept_SBF_SHIP_SB_NC: "$SBF_SHIP_SB_NC_plural$"
+ concept_SBF_SHIP_SB_NC_desc: "$SBF_SHIP_SB_NC_desc$\n\n$ship_size_SBF_SHIP_SB_NC$$SBF_SLOT$: §G$SBF_SHIP_SB_NC_slots$§!\n\n$SBF_TECH_REQ$\n$tech_req_SBF_SHIP_SB_NC$\n\n$SBF_SPEC_COMPO$\n$compo_SBF_SHIP_SB_NC$\n"

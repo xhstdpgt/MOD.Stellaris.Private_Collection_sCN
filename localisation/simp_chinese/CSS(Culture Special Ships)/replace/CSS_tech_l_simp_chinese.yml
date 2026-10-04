@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+
+ TECH_UNLOCK_CSS_COMPONENT: "$TECH_UNLOCK_COMPONENT_LINE$ "
+ TECH_UNLOCK_CSS_SHIP: "§H解锁舰船类型:§! "
+
+ tech_CSS_tech: "[ CSS 科技 ]"
+ tech_CSS_dummy_desc: "这项技术适用于 CSS 模组的船舶"
+ 
+ tech_COMPATIBILITY_tech: "[ Mod 兼容性检查 ]"
+ tech_COMPATIBILITY_dummy_desc: "这项技术用于mod兼容性检查。"

@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+
+ modifier_ship_build_speed: "建造速度"
+ modifier_ship_hull: "船体耐久"
+ 
+ mod_CSSms_SHIP_LRM_GUIDE_other_weapon_damage_mult: "武器伤害（爆炸性武器除外）"
+ mod_CSSms_SHIP_LRM_GUIDE_other_weapon_fire_rate_mult: "攻击速度（爆炸性武器除外）"
+ 
+ CSS_COUNTRY_FLAG_TITLE: " 条件满足"
+ CSS_COUNTRY_FLAG_PRE: "现在技术条件已满足于 "
+ CSS_COUNTRY_FLAG_POST: " 技术已满足。如果你满足所需的技术条件，你将获得技术。"
+

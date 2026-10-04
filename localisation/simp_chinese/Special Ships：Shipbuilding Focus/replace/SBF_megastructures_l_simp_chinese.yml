@@ -1,0 +1,41 @@
+﻿l_simp_chinese:
+
+ SBF_SHIP_ST_MN_BUILD_0: "$SBF_SHIP_ST_MN$"
+ SBF_SHIP_ST_MN_BUILD_0_MEGASTRUCTURE_DETAILS: "§Y$SBF_SHIP_ST_MN$§!是一座深空空间站，能够自动在星系内部署太空雷。"
+ SBF_SHIP_ST_MN_BUILD_0_CONSTRUCTION_INFO_DELAYED: "$SBF_SHIP_ST_MN$可由工程船在行星轨道上建造。"
+ 
+ only_one_SBF_SHIP_ST_MN_per_system: "$TRIGGER_FAIL$本太阳系已有一座§Y$SBF_SHIP_ST_MN$§!在运行。每个太阳系仅允许存在一座§Y$SBF_SHIP_ST_MN$§!。"
+ 
+ SBF_SHIP_SB_MF_BUILD_0: "$SBF_SHIP_SB_MF$框架"
+ SBF_SHIP_SB_MF_BUILD_0_DESC: "该建造场地将作为未来构建$SBF_SHIP_SB_MF$的基础。"
+ SBF_SHIP_SB_MF_BUILD_0_MEGASTRUCTURE_DETAILS: "§Y$SBF_SHIP_SB_MF$§!是一座专为星系防御和战略进攻设计的巨型要塞。"
+ SBF_SHIP_SB_MF_BUILD_0_CONSTRUCTION_INFO_DELAYED: "由于体积庞大，$SBF_SHIP_SB_MF$无法在星际基地船坞建造，必须由工程船在行星或恒星轨道上施工。"
+ 
+ SBF_SHIP_SB_MF_BUILD_1: "$SBF_SHIP_SB_MF$激活"
+ SBF_SHIP_SB_MF_BUILD_1_DESC: "完成§Y$SBF_SHIP_SB_MF$§!的最终建造，使其立即具备作战能力。"
+ 
+ only_one_SBF_SHIP_SB_MF: "$TRIGGER_FAIL$您已拥有一座§Y$SBF_SHIP_SB_MF$§!。同一时间仅能持有一座§Y$SBF_SHIP_SB_MF$§!。"
+ other_SBF_SHIP_SB_MF_under_construction: "$TRIGGER_FAIL$另一座§Y$SBF_SHIP_SB_MF$§!正在其他区域建造中。同一时间仅能持有一座§Y$SBF_SHIP_SB_MF$§!。"
+ 
+ SBF_SHIP_SB_NC_BUILD_0: "$SBF_SHIP_SB_NC$框架"
+ SBF_SHIP_SB_NC_BUILD_0_DESC: "该建造场地将作为未来构建$SBF_SHIP_SB_NC$的基础。"
+ SBF_SHIP_SB_NC_BUILD_0_MEGASTRUCTURE_DETAILS: "§Y$SBF_SHIP_SB_NC$§!是一门专为星际打击设计的巨型轨道炮。"
+ SBF_SHIP_SB_NC_BUILD_0_CONSTRUCTION_INFO_DELAYED: "由于体积庞大，$SBF_SHIP_SB_NC$无法在星际基地船坞建造，必须由工程船在行星或恒星轨道上施工。"
+ 
+ SBF_SHIP_SB_NC_BUILD_1: "$SBF_SHIP_SB_NC$激活"
+ SBF_SHIP_SB_NC_BUILD_1_DESC: "完成§Y$SBF_SHIP_SB_NC$§!的最终建造，使其立即具备作战能力。"
+ 
+ only_one_SBF_SHIP_SB_NC: "$TRIGGER_FAIL$您已拥有一艘§Y$SBF_SHIP_SB_NC$§!。同一时间只能拥有一艘§Y$SBF_SHIP_SB_NC$§!。"
+ other_SBF_SHIP_SB_NC_under_construction: "$TRIGGER_FAIL$另一艘§Y$SBF_SHIP_SB_NC$§!正在其他地点建造中。同一时间只能拥有一艘§Y$SBF_SHIP_SB_NC$§!。"
+ 
+ nova_cannon_fire_button: "§H$nova_cannon_fire_menu_title$§!\n$nova_cannon_fire_effect$"
+ nova_cannon_fire_effect: "§T科研船将指定行星作为§Y$SBF_SHIP_SB_NC$§!的目标。\n毁灭性的§Y$SBF_SHIP_SB_NC$§!弹头将摧毁地表 £building£ §Y$BUILDING$§!、£district£ §Y$DISTRICTS$§!、£pop£ §Y人口§!和£army_ship£ §Y$armies$§!，并形成 £blocker£ §R$BLOCKER_DEPOSITS$§!障碍，同时施加 §R$planet_devastation$§!。\n该炮需§Y180§!天重新装填后方可再次发射。§!"
+ nova_cannon_fire_menu_title: "§Y$SBF_SHIP_SB_NC$§!目标锁定"
+ nova_cannon_activity_key: "§Y$SBF_SHIP_SB_NC$§!目标锁定进行中……"
+ 
+ SBF_SHIP_SB_NC_should_enabled_SBF_FT: "必须启用§Y$edict_SBF_edict_SBF_FT$§!。"
+ SBF_SHIP_SB_NC_should_has_NC: "您必须拥有一艘§Y$SBF_SHIP_SB_NC$§!。"
+ SBF_SHIP_SB_NC_should_has_leader: "科研船上必须配备一名科学家。"
+ SBF_SHIP_SB_NC_cooldown: "§Y$SBF_SHIP_SB_NC$§!正在重新装填。"
+ 
+ SBFm_nova_cannon_cooldown: "§Y$SBF_SHIP_SB_NC$§!重新装填中……"

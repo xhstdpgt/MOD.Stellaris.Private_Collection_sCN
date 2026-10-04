@@ -1,0 +1,106 @@
+﻿l_simp_chinese:
+
+ mod_shipsize_SBF_SHIP_CC_CA_build_speed_mult: "$SBF_SHIP_CC_CA$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_CC_CA_hull_mult: "$SBF_SHIP_CC_CA$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_CC_CA_hull_add: "$SBF_SHIP_CC_CA$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_BB_CA_build_speed_mult: "$SBF_SHIP_BB_CA$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_BB_CA_hull_mult: "$SBF_SHIP_BB_CA$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_BB_CA_hull_add: "$SBF_SHIP_BB_CA$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_TI_CA_build_speed_mult: "$SBF_SHIP_TI_CA$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_TI_CA_hull_mult: "$SBF_SHIP_TI_CA$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_TI_CA_hull_add: "$SBF_SHIP_TI_CA$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_DD_EX_build_speed_mult: "$SBF_SHIP_DD_EX$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_DD_EX_hull_mult: "$SBF_SHIP_DD_EX$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_DD_EX_hull_add: "$SBF_SHIP_DD_EX$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_DD_AP_build_speed_mult: "$SBF_SHIP_DD_AP$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_DD_AP_hull_mult: "$SBF_SHIP_DD_AP$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_DD_AP_hull_add: "$SBF_SHIP_DD_AP$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_CC_EX_build_speed_mult: "$SBF_SHIP_CC_EX$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_CC_EX_hull_mult: "$SBF_SHIP_CC_EX$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_CC_EX_hull_add: "$SBF_SHIP_CC_EX$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_BB_EX_build_speed_mult: "$SBF_SHIP_BB_EX$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_BB_EX_hull_mult: "$SBF_SHIP_BB_EX$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_BB_EX_hull_add: "$SBF_SHIP_BB_EX$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_CC_PD_build_speed_mult: "$SBF_SHIP_CC_PD$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_CC_PD_hull_mult: "$SBF_SHIP_CC_PD$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_CC_PD_hull_add: "$SBF_SHIP_CC_PD$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_CC_RP_build_speed_mult: "$SBF_SHIP_CC_RP$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_CC_RP_hull_mult: "$SBF_SHIP_CC_RP$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_CC_RP_hull_add: "$SBF_SHIP_CC_RP$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_CC_HL_build_speed_mult: "$SBF_SHIP_CC_HL$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_CC_HL_hull_mult: "$SBF_SHIP_CC_HL$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_CC_HL_hull_add: "$SBF_SHIP_CC_HL$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_HL_HL_build_speed_mult: "$SBF_SHIP_HL_HL$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_HL_HL_hull_mult: "$SBF_SHIP_HL_HL$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_HL_HL_hull_add: "$SBF_SHIP_HL_HL$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_BB_SF_build_speed_mult: "$SBF_SHIP_BB_SF$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_BB_SF_hull_mult: "$SBF_SHIP_BB_SF$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_BB_SF_hull_add: "$SBF_SHIP_BB_SF$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_CO_AS_build_speed_mult: "$SBF_SHIP_CO_AS$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_CO_AS_hull_mult: "$SBF_SHIP_CO_AS$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_CO_AS_hull_add: "$SBF_SHIP_CO_AS$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_CO_WB_build_speed_mult: "$SBF_SHIP_CO_WB$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_CO_WB_hull_mult: "$SBF_SHIP_CO_WB$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_CO_WB_hull_add: "$SBF_SHIP_CO_WB$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_DD_XL_build_speed_mult: "$SBF_SHIP_DD_XL$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_DD_XL_hull_mult: "$SBF_SHIP_DD_XL$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_DD_XL_hull_add: "$SBF_SHIP_DD_XL$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_CC_DR_build_speed_mult: "$SBF_SHIP_CC_DR$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_CC_DR_hull_mult: "$SBF_SHIP_CC_DR$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_CC_DR_hull_add: "$SBF_SHIP_CC_DR$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_BB_GA_build_speed_mult: "$SBF_SHIP_BB_GA$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_BB_GA_hull_mult: "$SBF_SHIP_BB_GA$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_BB_GA_hull_add: "$SBF_SHIP_BB_GA$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_BB_X2_build_speed_mult: "$SBF_SHIP_BB_X2$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_BB_X2_hull_mult: "$SBF_SHIP_BB_X2$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_BB_X2_hull_add: "$SBF_SHIP_BB_X2$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_BB_ID_build_speed_mult: "$SBF_SHIP_BB_ID$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_BB_ID_hull_mult: "$SBF_SHIP_BB_ID$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_BB_ID_hull_add: "$SBF_SHIP_BB_ID$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_DN_DN_build_speed_mult: "$SBF_SHIP_DN_DN$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_DN_DN_hull_mult: "$SBF_SHIP_DN_DN$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_DN_DN_hull_add: "$SBF_SHIP_DN_DN$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_DD_MR_build_speed_mult: "$SBF_SHIP_DD_MR$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_DD_MR_hull_mult: "$SBF_SHIP_DD_MR$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_DD_MR_hull_add: "$SBF_SHIP_DD_MR$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_CC_MR_build_speed_mult: "$SBF_SHIP_CC_MR$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_CC_MR_hull_mult: "$SBF_SHIP_CC_MR$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_CC_MR_hull_add: "$SBF_SHIP_CC_MR$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_BB_MR_build_speed_mult: "$SBF_SHIP_BB_MR$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_BB_MR_hull_mult: "$SBF_SHIP_BB_MR$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_BB_MR_hull_add: "$SBF_SHIP_BB_MR$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_JG_MR_build_speed_mult: "$SBF_SHIP_JG_MR$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_JG_MR_hull_mult: "$SBF_SHIP_JG_MR$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_JG_MR_hull_add: "$SBF_SHIP_JG_MR$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_JG_MN_build_speed_mult: "$SBF_SHIP_JG_MN$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_JG_MN_hull_mult: "$SBF_SHIP_JG_MN$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_JG_MN_hull_add: "$SBF_SHIP_JG_MN$ $MOD_SHIP_HITPOINTS_MULT$"
+
+ mod_shipsize_SBF_SHIP_SB_MF_build_speed_mult: "$SBF_SHIP_SB_MF$ $MOD_SHIP_BUILD_SPEED_MULT$"
+ mod_shipsize_SBF_SHIP_SB_MF_hull_mult: "$SBF_SHIP_SB_MF$ $MOD_SHIP_HITPOINTS_MULT$"
+ mod_shipsize_SBF_SHIP_SB_MF_hull_add: "$SBF_SHIP_SB_MF$ $MOD_SHIP_HITPOINTS_MULT$"
+ 

@@ -1,0 +1,21 @@
+﻿l_simp_chinese:
+ 
+ SBF_event_nova_cannon.102.name:				"$SBF_SHIP_SB_NC$成功发射"
+ SBF_event_nova_cannon.102.desc:				"我国发射的$SBF_SHIP_SB_NC$ 弹头已成功命中[event_target:victim_country.GetName]的[event_target:victim_planet.GetName]。如今我们掌握着令敌人胆寒的力量。"
+ 
+ SBF_event_nova_cannon.103.name:				"遭受$SBF_SHIP_SB_NC$打击"
+ SBF_event_nova_cannon.103.desc:				"[event_target:shooter_country.GetName]使用名为$SBF_SHIP_SB_NC$的恐怖星际武器袭击我国领土。经确认，该弹头已击中[event_target:victim_planet.GetName]，正在评估损失情况。"
+ 
+ SBF_event_nova_cannon.104.name:				"遭受$SBF_SHIP_SB_NC$打击"
+ SBF_event_nova_cannon.104.desc:				"[event_target:shooter_country.GetName]发射的$SBF_SHIP_SB_NC$弹头已命中[event_target:victim_planet.GetName]，当前正在研判损害规模。"
+ SBF_event_nova_cannon.104.no_more_notify:		"无需后续通知。"
+ 
+ SBF_event_nova_cannon.105.name:				"[event_target:victim_planet.GetName]毁灭"
+ SBF_event_nova_cannon.105.desc:				"[event_target:shooter_country.GetName]发射的$SBF_SHIP_SB_NC$弹头击中[event_target:victim_planet.GetName]，导致该星球彻底毁灭。"
+ 
+ SBF_event_nova_cannon.106.name:				"摧毁[event_target:victim_planet.GetName]"
+ SBF_event_nova_cannon.106.desc:				"$SBF_SHIP_SB_NC$弹头已命中[event_target:victim_country.GetName]所属的[event_target:victim_planet.GetName]，该星球已完全湮灭。"
+ 
+ SBF_event_nova_cannon.107.name:				"$SBF_SHIP_SB_NC$重新装填"
+ SBF_event_nova_cannon.107.desc:				"$SBF_SHIP_SB_NC$已完成装填，待科研船指定目标后即可再次发射。"
+ SBF_event_nova_cannon.107.no_more_notify:		"无需后续通知。"

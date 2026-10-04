@@ -1,0 +1,82 @@
+﻿l_simp_chinese:
+
+ mod_shipsize_CSS_BB_CARRIER_build_speed_mult: "$CSS_BB_CARRIER$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_BB_CARRIER_hull_mult: "$CSS_BB_CARRIER$ $modifier_ship_hull$"
+ mod_shipsize_CSS_BB_CARRIER_hull_add: "$CSS_BB_CARRIER$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_CC_EXPLOSIVE_build_speed_mult: "$CSS_CC_EXPLOSIVE$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_CC_EXPLOSIVE_hull_mult: "$CSS_CC_EXPLOSIVE$ $modifier_ship_hull$"
+ mod_shipsize_CSS_CC_EXPLOSIVE_hull_add: "$CSS_CC_EXPLOSIVE$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_CC_DEFENDER_build_speed_mult: "$CSS_CC_DEFENDER$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_CC_DEFENDER_hull_mult: "$CSS_CC_DEFENDER$ $modifier_ship_hull$"
+ mod_shipsize_CSS_CC_DEFENDER_hull_add: "$CSS_CC_DEFENDER$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_CO_ASSAULT_build_speed_mult: "$CSS_CO_ASSAULT$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_CO_ASSAULT_hull_mult: "$CSS_CO_ASSAULT$ $modifier_ship_hull$"
+ mod_shipsize_CSS_CO_ASSAULT_hull_add: "$CSS_CO_ASSAULT$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_BB_MONITOR_build_speed_mult: "$CSS_BB_MONITOR$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_BB_MONITOR_hull_mult: "$CSS_BB_MONITOR$ $modifier_ship_hull$"
+ mod_shipsize_CSS_BB_MONITOR_hull_add: "$CSS_BB_MONITOR$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_CC_CARRIER_build_speed_mult: "$CSS_CC_CARRIER$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_CC_CARRIER_hull_mult: "$CSS_CC_CARRIER$ $modifier_ship_hull$"
+ mod_shipsize_CSS_CC_CARRIER_hull_add: "$CSS_CC_CARRIER$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_BB_INTERDICTOR_build_speed_mult: "$CSS_BB_INTERDICTOR$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_BB_INTERDICTOR_hull_mult: "$CSS_BB_INTERDICTOR$ $modifier_ship_hull$"
+ mod_shipsize_CSS_BB_INTERDICTOR_hull_add: "$CSS_BB_INTERDICTOR$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_JG_WARFLOWER_build_speed_mult: "$CSS_JG_WARFLOWER$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_JG_WARFLOWER_hull_mult: "$CSS_JG_WARFLOWER$ $modifier_ship_hull$"
+ mod_shipsize_CSS_JG_WARFLOWER_hull_add: "$CSS_JG_WARFLOWER$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_CC_GUARDIAN_build_speed_mult: "$CSS_CC_GUARDIAN$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_CC_GUARDIAN_hull_mult: "$CSS_CC_GUARDIAN$ $modifier_ship_hull$"
+ mod_shipsize_CSS_CC_GUARDIAN_hull_add: "$CSS_CC_GUARDIAN$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_TI_REJUVENATOR_build_speed_mult: "$CSS_TI_REJUVENATOR$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_TI_REJUVENATOR_hull_mult: "$CSS_TI_REJUVENATOR$ $modifier_ship_hull$"
+ mod_shipsize_CSS_TI_REJUVENATOR_hull_add: "$CSS_TI_REJUVENATOR$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_DD_SNIPER_build_speed_mult: "$CSS_DD_SNIPER$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_DD_SNIPER_hull_mult: "$CSS_DD_SNIPER$ $modifier_ship_hull$"
+ mod_shipsize_CSS_DD_SNIPER_hull_add: "$CSS_DD_SNIPER$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_DD_TORPEDO_build_speed_mult: "$CSS_DD_TORPEDO$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_DD_TORPEDO_hull_mult: "$CSS_DD_TORPEDO$ $modifier_ship_hull$"
+ mod_shipsize_CSS_DD_TORPEDO_hull_add: "$CSS_DD_TORPEDO$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_CC_DRONE_build_speed_mult: "$CSS_CC_DRONE$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_CC_DRONE_hull_mult: "$CSS_CC_DRONE$ $modifier_ship_hull$"
+ mod_shipsize_CSS_CC_DRONE_hull_add: "$CSS_CC_DRONE$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_JG_DREADNOUGHT_build_speed_mult: "$CSS_JG_DREADNOUGHT$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_JG_DREADNOUGHT_hull_mult: "$CSS_JG_DREADNOUGHT$ $modifier_ship_hull$"
+ mod_shipsize_CSS_JG_DREADNOUGHT_hull_add: "$CSS_JG_DREADNOUGHT$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_CO_SWARMLING_build_speed_mult: "$CSS_CO_SWARMLING$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_CO_SWARMLING_hull_mult: "$CSS_CO_SWARMLING$ $modifier_ship_hull$"
+ mod_shipsize_CSS_CO_SWARMLING_hull_add: "$CSS_CO_SWARMLING$ $modifier_ship_hull$"
+
+ mod_shipsize_CSS_JG_MONSTER_build_speed_mult: "$CSS_JG_MONSTER$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_JG_MONSTER_hull_mult: "$CSS_JG_MONSTER$ $modifier_ship_hull$"
+ mod_shipsize_CSS_JG_MONSTER_hull_add: "$CSS_JG_MONSTER$ $modifier_ship_hull$"
+ 
+ mod_shipsize_CSS_BB_BROADSIDER_build_speed_mult: "$CSS_BB_BROADSIDER$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_BB_BROADSIDER_hull_mult: "$CSS_BB_BROADSIDER$ $modifier_ship_hull$"
+ mod_shipsize_CSS_BB_BROADSIDER_hull_add: "$CSS_BB_BROADSIDER$ $modifier_ship_hull$"
+ 
+ mod_shipsize_CSS_BB_GALLEON_build_speed_mult: "$CSS_BB_GALLEON$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_BB_GALLEON_hull_mult: "$CSS_BB_GALLEON$ $modifier_ship_hull$"
+ mod_shipsize_CSS_BB_GALLEON_hull_add: "$CSS_BB_GALLEON$ $modifier_ship_hull$"
+ 
+ mod_shipsize_CSS_BB_EXPLOSIVE_build_speed_mult: "$CSS_BB_EXPLOSIVE$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_BB_EXPLOSIVE_hull_mult: "$CSS_BB_EXPLOSIVE$ $modifier_ship_hull$"
+ mod_shipsize_CSS_BB_EXPLOSIVE_hull_add: "$CSS_BB_EXPLOSIVE$ $modifier_ship_hull$"
+ 
+ mod_shipsize_CSS_CC_SIEGE_build_speed_mult: "$CSS_CC_SIEGE$ $modifier_ship_build_speed$"
+ mod_shipsize_CSS_CC_SIEGE_hull_mult: "$CSS_CC_SIEGE$ $modifier_ship_hull$"
+ mod_shipsize_CSS_CC_SIEGE_hull_add: "$CSS_CC_SIEGE$ $modifier_ship_hull$"
+ 

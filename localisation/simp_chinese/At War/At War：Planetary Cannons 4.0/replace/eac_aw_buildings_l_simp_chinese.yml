@@ -1,0 +1,16 @@
+﻿l_simp_chinese:
+
+ eac_building_planetary_proton_cannon: "行星质子炮"
+ eac_building_planetary_proton_cannon_desc: "该炮台发射由高度凝聚质子构成的能量弹，能对敌舰船体造成巨大伤害。\n§H属性§!\n命中率：§Y50%§!\n预期船体毁伤：§Y100 - 500§!\n冷却时间：§Y5§! £resource_time£ \n平均伤害：§Y30.00§! / £resource_time£ \n\n——[mod]At War：Planetary Cannons 4.0"
+
+ eac_building_planetary_neutron_cannon: "行星中子炮"
+ eac_building_planetary_neutron_cannon_desc: "该炮台发射由高度凝聚中子构成的能量弹，能对敌舰船体造成巨大伤害。\n§H属性§!\n命中率：§Y60%§!\n预期船体毁伤：§Y500 - 1,500§!\n冷却时间：§Y7§! £resource_time£ \n平均伤害：§Y85.71§! / £resource_time£ \n\n——[mod]At War：Planetary Cannons 4.0"
+ 
+ eac_building_planetary_tachyon_cannon: "行星快子炮"
+ eac_building_planetary_tachyon_cannon_desc: "该炮台可发射威力巨大的快子光束。\n§H属性§!\n §W 命中率：§! §Y65%§!\n预期船体毁伤：§Y1,000 - 5,000§!\n冷却时间：§Y10§! £resource_time£ \n平均伤害：§Y195.00§! / £resource_time£ \n\n——[mod]At War：Planetary Cannons 4.0"
+
+ eac_building_planetary_coil_scattergun: "行星线圈炮阵列"
+ eac_building_planetary_coil_scattergun_desc: "该炮台电磁线圈加速发射20枚弹丸组成的弹幕。\n§H属性§!\n命中率：§Y35%§!\n预期船体毁伤/投射物：§Y10 - 25§!\n冷却时间：§Y3§! £resource_time£ \n平均伤害/投射物：§Y2.00§! / £resource_time£ \n\n——[mod]At War：Planetary Cannons 4.0"
+
+ eac_building_planetary_rail_scattergun: "行星轨道炮阵列"
+ eac_building_planetary_rail_scattergun_desc: "该炮台通过双轨电磁加速发射20枚弹丸组成的弹幕。\n§H属性§!\n命中率：§Y40%§!\n预期船体毁伤/投射物：§Y20 - 35§!\n冷却时间：§Y4§! £resource_time£ \n平均伤害/投射物：§Y2.75§! / £resource_time£ \n\n——[mod]At War：Planetary Cannons 4.0"

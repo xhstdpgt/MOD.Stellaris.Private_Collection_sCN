@@ -1,0 +1,19 @@
+﻿l_simp_chinese:
+
+ CSS_JG_WARFLOWER_BUILD_0_MEGASTRUCTURE_DETAILS: "§Y$CSS_JG_WARFLOWER$§! 是一个用于星际防御和战略攻击的巨大要塞。"
+ CSS_JG_WARFLOWER_BUILD_0_CONSTRUCTION_INFO_DELAYED: "$CSS_JG_WARFLOWER$ 由于其巨大的体积，无法在恒星基地的船坞中建造，只能由工程舰在行星或恒星轨道上建造。"
+
+ CSS_JG_WARFLOWER_BUILD_0: "§Y$CSS_JG_WARFLOWER$§! 桁架"
+ CSS_JG_WARFLOWER_BUILD_0_DESC: "这个建筑框架将成为§Y$CSS_JG_WARFLOWER$§!未来建造的基础。"
+ CSS_JG_WARFLOWER_BUILD_1: "§Y$CSS_JG_WARFLOWER$§! 激活"
+ CSS_JG_WARFLOWER_BUILD_1_DESC: "§Y$CSS_JG_WARFLOWER$§! 的出产检查，完工后即可立即参与战斗。"
+
+ only_one_warflower: "$TRIGGER_FAIL$已经拥有§Y$CSS_JG_WARFLOWER$§!。你只能拥有一个§Y$CSS_JG_WARFLOWER$§!。"
+ other_warflower_under_construction: "$TRIGGER_FAIL$§Y$CSS_JG_WARFLOWER$§! 正在其他地方建造。你只能拥有一个§Y$CSS_JG_WARFLOWER$§!。"
+
+ decision_CSS_JG_MONSTER: "建造§Y$CSS_JG_MONSTER$§! 茧"
+ decision_CSS_JG_MONSTER_DESC: "在这个星球上创建一个巨大的茧， §Y$CSS_JG_MONSTER$§! 可以在其中生长。"
+ decision_CSS_JG_MONSTER_desc: "§Y$CSS_JG_MONSTER$§! 是一种生物。它们无法在恒星基地的船坞建造，只能在蜂巢首都行星上的茧中生长。"
+
+ only_one_monster: "$TRIGGER_FAIL$已经拥有§Y$CSS_JG_MONSTER$§!。你只能拥有一个§Y$CSS_JG_MONSTER$§!。"
+

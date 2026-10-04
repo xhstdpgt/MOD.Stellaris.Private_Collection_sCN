@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+
+ SBF_COMP_W_BB_BSTR_tt: "§H自我施加修正§!(£time£ §Y10§! 天)：\n   $MOD_SHIP_SPEED_MULT$: §G+900%§! \n   $MOD_SHIP_EVASION_ADD$: §G+100§!"
+ SBF_COMP_W_HALUC_W_tt: "生成1个§Y幻象§!\n持续时间：£time£ §Y30§! 天"
+ SBF_COMP_W_MN_FUSE_tt: "§R执行自杀式攻击!§!"
+ SBF_COMP_W_MN_SW_X_tt: "移除§Y太空地雷§!。"
+ 

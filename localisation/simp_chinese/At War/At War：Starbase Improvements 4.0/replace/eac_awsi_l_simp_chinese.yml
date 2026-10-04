@@ -1,0 +1,102 @@
+﻿l_simp_chinese:
+
+###################
+ # Station Defense
+ ###################
+ shipsize_eac_military_station_heavy_small_upkeep_mult: "重型$shipsize_military_station_small_upkeep_mult$"
+ shipsize_eac_military_station_heavy_small_build_cost_mult: "重型$shipsize_military_station_small_build_cost_mult$"
+ shipsize_eac_military_station_heavy_small_construction_speed_mult: "重型$military_station_small$建造速度"
+ mod_shipsize_eac_military_station_heavy_small_hull_add: "重型$military_station_small$船体值"
+ eac_military_station_heavy_small_plural: "重型$military_station_small_plural$"
+ eac_military_station_heavy_small: "重型$military_station_small$"
+ eac_military_station_heavy_small_cap_plural: "$eac_military_station_heavy_small_plural$"
+ eac_military_station_heavy_small_cap: "$eac_military_station_heavy_small$"
+ EAC_PLATFORM_FISSION_REACTOR: "$PLATFORM_FISSION_REACTOR$"
+ EAC_PLATFORM_FUSION_REACTOR: "$PLATFORM_FUSION_REACTOR$"
+ EAC_PLATFORM_COLD_FUSION_REACTOR: "$PLATFORM_COLD_FUSION_REACTOR$"
+ EAC_PLATFORM_ANTIMATTER_REACTOR: "$PLATFORM_ANTIMATTER_REACTOR$"
+ EAC_PLATFORM_ZERO_POINT_REACTOR: "$PLATFORM_ZERO_POINT_REACTOR$"
+ EAC_PLATFORM_DARK_MATTER_REACTOR: "$PLATFORM_DARK_MATTER_REACTOR$"
+ EAC_STARBASE_FISSION_REACTOR: "$STARBASE_FISSION_REACTOR$"
+ EAC_STARBASE_FUSION_REACTOR: "$STARBASE_FUSION_REACTOR$"
+ EAC_STARBASE_COLD_FUSION_REACTOR: "$STARBASE_COLD_FUSION_REACTOR$"
+ EAC_STARBASE_ANTIMATTER_REACTOR: "$STARBASE_ANTIMATTER_REACTOR$"
+ EAC_STARBASE_ZERO_POINT_REACTOR: "$STARBASE_ZERO_POINT_REACTOR$"
+ EAC_STARBASE_DARK_MATTER_REACTOR: "$STARBASE_DARK_MATTER_REACTOR$"
+ EAC_ORBITAL_RING_FISSION_REACTOR: "$STARBASE_FISSION_REACTOR$"
+ EAC_ORBITAL_RING_FUSION_REACTOR: "$STARBASE_FUSION_REACTOR$"
+ EAC_ORBITAL_RING_COLD_FUSION_REACTOR: "$STARBASE_COLD_FUSION_REACTOR$"
+ EAC_ORBITAL_RING_ANTIMATTER_REACTOR: "$STARBASE_ANTIMATTER_REACTOR$"
+ EAC_ORBITAL_RING_ZERO_POINT_REACTOR: "$STARBASE_ZERO_POINT_REACTOR$"
+ EAC_ORBITAL_RING_DARK_MATTER_REACTOR: "$STARBASE_DARK_MATTER_REACTOR$"
+
+###################
+ # Weapons
+ ###################
+ EAC_PERDITION_BEAM_STARBASE: "$PERDITION_BEAM$"
+ EAC_PERDITION_BEAM_STARBASE_DESC: "$PERDITION_BEAM_DESC$\n[mod] At War：Starbase Improvements"
+ EAC_ARCHAEO_TITAN_BEAM_STARBASE: "$ARCHAEO_TITAN$"
+ EAC_ARCHAEO_TITAN_BEAM_STARBASE_DESC: "$ARCHAEO_TITAN_DESC$\n[mod] At War：Starbase Improvements"
+
+###################
+ # Starbase
+ ###################
+ sm_eac_gun_battery: "重型综合炮组"
+ sm_eac_gun_battery_desc: "为恒星基地添加4个大型武器槽、2个中型武器槽以及2个点防御武器槽。\n[mod] At War：Starbase Improvements"
+
+ sm_eac_missile_battery: "重型鱼雷发射组"
+ sm_eac_missile_battery_desc: "为恒星基地添加6个鱼雷武器槽和2个小型武器槽。\n[mod] At War：Starbase Improvements"
+
+ sm_eac_hangar_bay: "大型机库"
+ sm_eac_hangar_bay_desc: "为恒星基地添加6个舰载机库和2个小型武器槽。\n[mod] At War：Starbase Improvements"
+
+ sm_eac_extra_large: "重型超大型炮组"
+ sm_eac_extra_large_desc: "为恒星基地添加4个超大型武器槽。\n[mod] At War：Starbase Improvements"
+ 
+ sm_eac_titanic: "重型泰坦级炮组"
+ sm_eac_titanic_desc: "为恒星基地添加2个泰坦武器槽。\n[mod] At War：Starbase Improvements"
+
+ # 3.14 旧版兼容
+ sm_eac_heavy_gun_battery: "额外重型炮组"
+ sm_eac_heavy_gun_battery_desc: "为恒星基地添加2个X武器槽。\n[mod] At War：Starbase Improvements"
+ starbase_heavy_gun_battery_limit.tooltip.fail: "不能设置2个以上的$sm_eac_heavy_gun_battery$"
+
+
+ ###################
+ # Orbital Ring
+ ###################
+ sm_eac_orbital_ring_gun_battery: "重型行星防御炮组"
+ sm_eac_orbital_ring_gun_battery_desc: "向星环基地添加4个大型武器槽、2个中型武器槽和2个点防御武器槽。\n[mod] At War：Starbase Improvements"
+
+ sm_eac_orbital_ring_missile_battery: "重型行星防御鱼雷发射组"
+ sm_eac_orbital_ring_missile_battery_desc: "向星环基地添加6个鱼雷武器槽和2个小型武器槽。\n[mod] At War：Starbase Improvements"
+
+ sm_eac_orbital_ring_hangar_bay: "重型行星防御机库"
+ sm_eac_orbital_ring_hangar_bay_desc: "为星环添加6个机库和2个小型武器槽。\n[mod] At War：Starbase Improvements"
+
+ sm_eac_orbital_ring_extra_large: "重型行星防御超大型武器"
+ sm_eac_orbital_ring_extra_large_desc: "为星环添加4个超大型武器槽。\n[mod] At War：Starbase Improvements"
+
+ sm_eac_orbital_ring_titanic: "重型行星防御泰坦级武器"
+ sm_eac_orbital_ring_titanic_desc: "为星环添加2个泰坦武器槽。\n[mod] At War：Starbase Improvements"
+
+ ###################
+ # Starbase Type
+ ###################
+ hfortress: "重型堡垒"
+ 
+  ###################
+ # Components
+ # 4.0 新增 ↓
+ ###################
+ eac_platform_computer_default: "平台标准作战电脑"
+ eac_platform_computer_basic: "作战电脑（平台型）"
+ eac_platform_computer_advanced: "高级作战电脑（平台型）"
+ eac_platform_computer_sapient: "智能作战电脑（平台型）"
+ eac_platform_computer_precog: "预知接口系统（平台型）"
+
+ eac_platform_computer_default_desc: "专为静态防御平台适配的标准作战计算机系统。\n[mod] At War：Starbase Improvements"
+ eac_platform_computer_basic_desc: "适用于静态防御平台的基础型作战计算机。\n[mod] At War：Starbase Improvements"
+ eac_platform_computer_advanced_desc: "改进版本，提供更优化的目标锁定运算程序。\n[mod] At War：Starbase Improvements"
+ eac_platform_computer_sapient_desc: "具备完全自主决策能力的智能作战系统。\n[mod] At War：Starbase Improvements"
+ eac_platform_computer_precog_desc: "运用预知算法实现敌方战术预判的先进系统。\n[mod] At War：Starbase Improvements"

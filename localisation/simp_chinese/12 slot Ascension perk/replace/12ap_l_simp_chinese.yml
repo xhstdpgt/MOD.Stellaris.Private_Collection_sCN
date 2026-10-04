@@ -1,0 +1,6 @@
+﻿l_simp_chinese:
+ 
+ tech_repeatable_ascension_perks: "宇宙洞见"
+ tech_repeatable_ascension_perks_apoc: "$tech_repeatable_ascension_perks$\n\n——[mod]12 slot Ascension perk"
+ tech_repeatable_ascension_perks_desc: "行政管理技术的进步使我们对星际国家运作有了更深刻的理解。"
+ tech_repeatable_ascension_perks_apoc_desc: "$tech_repeatable_ascension_perks_desc$\n\n——[mod]12 slot Ascension perk"

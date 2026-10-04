@@ -1,0 +1,15 @@
+﻿l_simp_chinese:
+
+ ###################
+ # Ship Parts
+ ###################
+ EAC_ARTILLERY_120_BEHAVIOR_DESC: "§H炮击战术：§!舰船将保持远（§Y120§!）距离，并使用远程武器攻击目标。\n\n——[mod]At War：Advanced Ship Sections 4.0"
+ EAC_ARTILLERY_MAX_BEHAVIOR_DESC: "§H炮击战术：§!舰船将保持在武器最大射程，并使用远程武器攻击目标。\n\n——[mod]At War：Advanced Ship Sections 4.0"
+
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_ADVANCED: "先进作战电脑（炮击+）"
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_SAPIENT: "智慧作战电脑 （炮击+）"
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_PRECOG: "预知接口（炮击+）"
+
+ EAC_COMBAT_COMPUTER_ARTILLERY_MAX_ADVANCED: "先进作战电脑（炮击++）"
+ EAC_COMBAT_COMPUTER_ARTILLERY_MAX_SAPIENT: "智慧作战电脑（炮击++）"
+ EAC_COMBAT_COMPUTER_ARTILLERY_MAX_PRECOG: "预知接口（炮击++）"

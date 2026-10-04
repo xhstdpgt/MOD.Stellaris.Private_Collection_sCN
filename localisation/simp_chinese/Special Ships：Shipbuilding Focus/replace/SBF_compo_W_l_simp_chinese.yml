@@ -1,0 +1,82 @@
+﻿l_simp_chinese:
+
+ SBF_COMP_W_PD_MS_X: "点防御导弹"
+ SBF_COMP_W_PD_MS_X_DESC: "射程比标准防空系统更远的点防御导弹。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_W_PD_MS_1: "飞镖导弹（基础型）"
+ SBF_COMP_W_PD_MS_1_DESC: "基础型点防御导弹，射程优于常规防空系统。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_PD_MS_2: "箭式导弹（改进型）"
+ SBF_COMP_W_PD_MS_2_DESC: "对飞镖导弹进行升级后的点防御导弹。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_PD_MS_3: "标枪导弹（先进型）"
+ SBF_COMP_W_PD_MS_3_DESC: "配备先进制导系统且破坏力极强的尖端点防御导弹。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_BMBER_X: "轰炸机编队"
+ SBF_COMP_W_BMBER_X_DESC: "专精反舰作战的轰炸机，可对敌舰造成毁灭性打击。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+ 
+ SBF_COMP_W_BMBER_1: "$BOMBERS_HANGAR_1$"
+ SBF_COMP_W_BMBER_1_DESC: "$BOMBERS_HANGAR_1_DESC$ \n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+ 
+ SBF_COMP_W_BMBER_2: "$BOMBERS_HANGAR_2$"
+ SBF_COMP_W_BMBER_2_DESC: "$BOMBERS_HANGAR_2_DESC$ \n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+ 
+ SBF_COMP_W_BMBER_3: "$BOMBERS_HANGAR_3$"
+ SBF_COMP_W_BMBER_3_DESC: "$BOMBERS_HANGAR_3_DESC$ \n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+ 
+ SBF_COMP_W_BMBER_I: "离子炮轰炸机"
+ SBF_COMP_W_BMBER_I_DESC: "配备离子炮的重型轰炸机，能够从远距离高效猎杀主力舰。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_ANTI_PD: "干扰射线"
+ SBF_COMP_W_ANTI_PD_DESC: "一种简单实用的干扰光束，可削弱敌方点防御能力并扰乱其攻击。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_DEV_MSL: "毁灭者导弹"
+ SBF_COMP_W_DEV_MSL_DESC: "一种具备远程打击能力的大型巡航导弹，可对敌方舰队实施毁灭性火力覆盖。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_REPAR_D: "战斗维修无人机"
+ SBF_COMP_W_REPAR_D_DESC: "可在战斗中为友方舰船执行紧急维修的无人机。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_HALUC_W: "幻象模块"
+ SBF_COMP_W_HALUC_W_DESC: "在敌方舰队视角内，该模块生成的幻象即是最真实最重要的。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+ 
+ SBF_COMP_W_HALUC_D: "幻影矩阵"
+ SBF_COMP_W_HALUC_D_DESC: "一整套散布在作战星系的装置用于疏导我方舰队的逸散信息态，被敌方舰队识别为幻象——关键核心战舰。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_BB_BSTR: "微型曲速推进器"
+ SBF_COMP_W_BB_BSTR_DESC: "辅助推进系统，专门为战术机动而设计，可快速缩短与敌方的距离。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_STA_WEB: "静滞力场"
+ SBF_COMP_W_STA_WEB_DESC: "通过扭曲敌舰周围时空使其丧失机动能力的装置。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_XLC_ENE: "离子长矛"
+ SBF_COMP_W_XLC_ENE_DESC: "集束能量武器的初级形态，其破坏力远不及真正的(X)轴基武器。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_ART_DRO: "炮击无人机"
+ SBF_COMP_W_ART_DRO_DESC: "这种超紧凑的移动炮台拥有惊人的射程和火力，是无人机母舰上“独一无二的”最致命的矛。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_XLC_KIN: "千吨炮"
+ SBF_COMP_W_XLC_KIN_DESC: "朴实无华的大口径主炮，虽强于标准动能武器，但与真正的(X)轴基武器相去甚远。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_DN_CNON: "无畏舰主炮"
+ SBF_COMP_W_DN_CNON_DESC: "无畏级战舰的主武器，能以超高速度发射巨型弹体。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_AST_POD: "陆战队突袭舱"
+ SBF_COMP_W_AST_POD_DESC: "不仅用于向地表部署太空陆战队，还可用于登舰并俘获敌舰的舱体。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+ 
+ SBF_COMP_W_MN_FUSE: "引力子水雷引信"
+ SBF_COMP_W_MN_FUSE_DESC: "采用引力传感器和先进隐秘系统的近炸水雷引信系统。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_MF_CNON: "要塞光束炮"
+ SBF_COMP_W_MF_CNON_DESC: "直接从移动要塞核心汲取能量的强力能量武器。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_MN_SW_X: "扫雷装置"
+ SBF_COMP_W_MN_SW_X_DESC: "用于清除敌方部署在星系内的太空水雷。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_MN_SW_1: "基础型扫雷装置"
+ SBF_COMP_W_MN_SW_1_DESC: "基础型扫雷装置。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_MN_SW_2: "改良型扫雷装置"
+ SBF_COMP_W_MN_SW_2_DESC: "在基础型扫雷装置上改良而来，扩大探测范围的扫雷装置。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"
+
+ SBF_COMP_W_MN_SW_3: "先进型扫雷装置"
+ SBF_COMP_W_MN_SW_3_DESC: "具备远距离探测与高效作业能力的扫雷装置。\n\n——[mod]SPECIAL SHIPS：SHIPBUILDING FOCUS"

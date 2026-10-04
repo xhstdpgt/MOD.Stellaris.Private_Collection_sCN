@@ -1,0 +1,76 @@
+﻿l_simp_chinese:
+
+# DMM register
+ dmm_sartek_menu_name: "Sartek-TAP合并菜单"
+
+# Edict
+ edict_sartek_merger: "$dmm_sartek_menu_name$"
+ edict_sartek_merger_desc: "该菜单用于更改有关传统或飞升天赋的各种选项"
+
+
+# User Interface
+ # Block 1
+ dmm_sartek.0.name: "Sartek-TAP合并"
+ dmm_sartek.0.desc: "Sartek-传统与飞升天赋的合并"
+ dmm_sartek.0.submenu_0: "通用设置"
+ dmm_sartek.0.submenu_0_fail: "$dmm_sartek.0.submenu_0$"
+ dmm_sartek.0.submenu_1: "飞升路径"
+ dmm_sartek.0.submenu_1_fail: "$dmm_sartek.0.submenu_1$"
+ dmm_sartek.0.submenu_2: "飞升天赋"
+ dmm_sartek.0.submenu_2_fail: "$dmm_sartek.0.submenu_2$"
+ dmm_sartek.0.submenu_3: "传统"
+ dmm_sartek.0.submenu_3_fail: "$dmm_sartek.0.submenu_3$"
+ dmm_sartek.0.0.left_text: "£blocker£正在开发中。等待3.6传统和飞升大修。"
+ dmm_sartek.0.0.left_button: ""
+ dmm_sartek.0.1.left_text: "激活/停用法令"
+ dmm_sartek.0.1.left_button: "法令菜单：§G打开§!"
+ dmm_sartek.0.1.left_button_var: "法令菜单：§R关闭§!"
+ dmm_sartek.0.dummy: "dmm_sartek.0.dummy"
+ dmm_sartek.0.2.left_text: "允许飞升数值超模"
+ dmm_sartek.0.2.left_checkbox_checked: ""
+ dmm_sartek.0.3.left_text: "这是一个测试菜单"
+ dmm_sartek.0.3.left_button: "仅限玩家"
+ dmm_sartek.0.0.right_text_var_1: "预设飞升修改器：§GSartek合并§!"
+ dmm_sartek.0.0.right_text_var_2: "预设飞升修改器：§G原版§!"
+ dmm_sartek.0.0.right_text_var_3: "预设飞升修改器：§GWorthy Ascension Perk§! £blocker£ §R(暂无影响)§!"
+ dmm_sartek.0.0.right_text_var_4: "预设飞升修改器：§GUtopian Dream§! £blocker£ §R(暂无影响)§!"
+ dmm_sartek.0.0.right_text_var_5: "预设飞升修改器：§GStellaris Evolved§! £blocker£ §R(暂无影响)§!"
+ dmm_sartek.0.0.right_button: ""
+ dmm_sartek.0.1.right_text: "Sartek合并选项-1"
+ dmm_sartek.0.1.right_button: "选择"
+ dmm_sartek.0.1.right_button_fail: "£blocker£ §R关闭§!"
+ dmm_sartek.0.2.right_text: "Sartek合并选项-2"
+ dmm_sartek.0.2.right_button: "选择"
+ dmm_sartek.0.2.right_button_fail: "£blocker£ §R关闭§!"
+ dmm_sartek.0.3.right_text: "Sartek合并选项-3"
+ dmm_sartek.0.3.right_button: "选择"
+ dmm_sartek.0.3.right_button_fail: "£blocker£ §R关闭§!"
+ dmm_sartek.0.4.right_text: "Sartek合并选项-4"
+ dmm_sartek.0.4.right_button: "选择"
+ dmm_sartek.0.4.right_button_fail: "£blocker£ §R关闭§!"
+ dmm_sartek.0.5.right_text: "Sartek合并选项-5"
+ dmm_sartek.0.5.right_button: "选择"
+ dmm_sartek.0.5.right_button_fail: "£blocker£ §R关闭§!"
+ dmm_sartek.0.3.close: ""
+
+ #Block 2
+ dmm_sartek.1.0.left_text: "£blocker£开发中。等待3.6传统和飞升大修。"
+
+ #Block 3
+ dmm_sartek.2.0.left_text: "£blocker£开发中。等待3.6传统和飞升大修。"
+
+# Tooltip - Failure
+ dmm_sartek_under_development: "£blocker£此功能正在开发中。\n\n 可选的："
+ dmm_sartek_already_selected: "$TRIGGER_PASS$此选项已被选中。\n\n 可选的："
+ dmm_sartek_already_expired: "$TRIGGER_FAIL$此选项已过期或被选中。\n查看上文的§G绿色§!文本以获取结果。\n\n 可选的："
+
+# Tooltip - Explain
+ dmm_sartek_submenu_0_tootlip: ""
+ dmm_sartek_submenu_1_tootlip: ""
+ dmm_sartek_submenu_2_tootlip: ""
+ dmm_sartek_right_button_1_tooltip: ""
+ dmm_sartek_right_button_2_tooltip: "此选项将在游戏开始后的§Y15个游戏内天数§!后默认选择。\n如果要更改，请选择以下选项之一。\n\n该预设将所有审核过的模块的所有修改器捆绑在一起，可能会不平衡。"
+ dmm_sartek_right_button_3_tooltip: "§限时选项§!从游戏开始算起，你有15天的时间来选择这个选项。\n此选项在游戏的剩余时间内为§R永久§!。\n\n此预设提供了原版体验的乐趣（至少对于所有原版飞升天赋）。\n来自其他 Mod 的触发事件仍然会被触发，并且会考虑兼容性。"
+ dmm_sartek_right_button_4_tooltip: ""
+ dmm_sartek_right_button_5_tooltip: ""
+ dmm_sartek_right_button_6_tooltip: ""

@@ -1,0 +1,38 @@
+﻿l_simp_chinese:
+
+ # ###################################
+ # 分类描述
+ # ###################################
+
+ materials: "材料科学"
+ materials_desc: "创造并处理材料，以提高其实用性和耐用性。"
+ propulsion: "推进力学"
+ propulsion_desc: "一项关于推进技术和弹道技术的研究"
+ voidcraft: "宇航技术"
+ voidcraft_desc: "太空是终极边界，掌握它就掌握了未来。"
+ robotics: "机器人学"
+ robotics_desc: "全方位机械化"
+ industry: "工业技术"
+ industry_desc: "创造与生产。"
+ field_manipulation: "力场操控"
+ field_manipulation_desc: "迫使基本力遵从我们的意志。"
+ particles: "粒子物理"
+ particles_desc: "隔绝并利用微粒物质和现象。"
+ computing: "计算技术"
+ computing_desc: "应用算法的科学研究。"
+ metaphysics: "形而上学"
+ metaphysics_desc: "大道无止。"
+ statecraft: "治国术"
+ statecraft_desc: "打造一个成功社会的艺术。"
+ biology: "生物学"
+ biology_desc: "研究纷繁的形式与复杂性生命的科学"
+ military_theory: "军事理论"
+ military_theory_desc: "战争的艺术及其诸重要方面。"
+ new_worlds: "新世界理论"
+ new_worlds_desc: "殖民协议和拓荒训练。"
+ psionics: "灵能理论"
+ psionics_desc: "心胜于物。"
+
+ # 恒星基地
+ tech_defense_platform_hull_2: "结构完整性重构"
+ tech_defense_platform_hull_2_desc: "使用先进的构架对蓝图进行彻底重制，进一步确保平台的结构完整性。\n[mod] Reinforced Stations"

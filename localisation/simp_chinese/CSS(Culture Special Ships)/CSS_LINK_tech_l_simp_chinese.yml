@@ -1,0 +1,58 @@
+﻿l_simp_chinese:
+
+ tech_CSS_CO_build_speed: "$tech_corvette_build_speed$$tech_CSS_tech$"
+ tech_CSS_CO_build_speed_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_CO_hull_1: "$tech_corvette_hull_1$$tech_CSS_tech$"
+ tech_CSS_CO_hull_1_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_CO_hull_2: "$tech_corvette_hull_2$$tech_CSS_tech$"
+ tech_CSS_CO_hull_2_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_DD_build_speed: "$tech_destroyer_build_speed$$tech_CSS_tech$"
+ tech_CSS_DD_build_speed_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_DD_hull_1: "$tech_destroyer_hull_1$$tech_CSS_tech$"
+ tech_CSS_DD_hull_1_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_DD_hull_2: "$tech_destroyer_hull_2$$tech_CSS_tech$"
+ tech_CSS_DD_hull_2_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_CC_build_speed: "$tech_cruiser_build_speed$$tech_CSS_tech$"
+ tech_CSS_CC_build_speed_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_CC_hull_1: "$tech_cruiser_hull_1$$tech_CSS_tech$"
+ tech_CSS_CC_hull_1_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_CC_hull_2: "$tech_cruiser_hull_2$$tech_CSS_tech$"
+ tech_CSS_CC_hull_2_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_BB_build_speed: "$tech_battleship_build_speed$$tech_CSS_tech$"
+ tech_CSS_BB_build_speed_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_BB_hull_1: "$tech_battleship_hull_1$$tech_CSS_tech$"
+ tech_CSS_BB_hull_1_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_BB_hull_2: "$tech_battleship_hull_2$$tech_CSS_tech$"
+ tech_CSS_BB_hull_2_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_TI_hull_1: "$tech_titan_hull_1$$tech_CSS_tech$"
+ tech_CSS_TI_hull_1_desc: "$tech_CSS_dummy_desc$"
+
+ tech_CSS_TI_hull_2: "$tech_titan_hull_2$$tech_CSS_tech$"
+ tech_CSS_TI_hull_2_desc: "$tech_CSS_dummy_desc$"
+
+ tech_strike_craft_1_CSS: "$tech_strike_craft_1$$tech_CSS_tech$"
+ tech_strike_craft_1_CSS_desc: "$tech_CSS_dummy_desc$"
+
+ tech_strike_craft_2_CSS: "$tech_strike_craft_2$$tech_CSS_tech$"
+ tech_strike_craft_2_CSS_desc: "$tech_CSS_dummy_desc$"
+
+ tech_strike_craft_3_CSS: "$tech_strike_craft_3$$tech_CSS_tech$"
+ tech_strike_craft_3_CSS_desc: "$tech_CSS_dummy_desc$"
+ 
+ tech_NSC_activated: "$tech_COMPATIBILITY_tech$"
+ tech_NSC_activated_desc: "$tech_COMPATIBILITY_dummy_desc$"
+
+ tech_ESC_activated: "$tech_COMPATIBILITY_tech$"
+ tech_ESC_activated_desc: "$tech_COMPATIBILITY_dummy_desc$"

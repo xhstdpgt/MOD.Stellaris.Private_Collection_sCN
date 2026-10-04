@@ -1,0 +1,82 @@
+﻿l_simp_chinese:
+ ####################################
+ # Alpha Naming Convention - WILL LIKELY BE CHANGED IF SECTIONS ARE REDESIGNED
+ #
+ # Mid sections have a flavor-name fitting to number of weapon/utility slots followed by the key-word "Core"
+ # Front sections have a flavor-name followed by the key-word "Breaker"
+ # Rear sections have a flavor-name followed by the key-word "Bulwark"
+ #
+ ####################################
+ 
+ EAC_TITAN_BOW: "[AtWar]泰坦级航母舰艏"
+ EAC_TITAN_MID: "[AtWar]泰坦级航母核心"
+ EAC_TITAN_STERN: "[AtWar]泰坦级航母舰艉"
+
+ EAC_TITAN_BOW_2XL: "[AtWar]泰坦级轴基舰艏"
+ EAC_TITAN_BOW_1XL_4G: "[AtWar]泰坦级鱼雷舰艏"
+ EAC_TITAN_MID_1L_4G_4P: "[AtWar]泰坦级鱼雷核心"
+ EAC_TITAN_MID_6G_2S: "[AtWar]泰坦级鱼雷核心"
+ EAC_TITAN_MID_2L_2M_4S: "[AtWar]泰坦级均衡型核心"
+ EAC_TITAN_MID_2H_2M_2S_2P: "[AtWar]泰坦级机库核心"
+ EAC_TITAN_STERN_2G_4P: "[AtWar]泰坦级鱼雷舰艉"
+ EAC_TITAN_STERN_8S: "[AtWar]泰坦级炮艇舰艉"
+
+ ####################################
+ # Battleship - 战列舰
+ ####################################
+ EAC_BATTLESHIP_BOW_AC: "[AtWar]重型航母舰艏"
+ EAC_BATTLESHIP_MID_AC: "[AtWar]重型航母核心"
+ EAC_BATTLESHIP_STERN_AC: "[AtWar]重型点防御舰艉"
+
+ EAC_OFFSPRING_BATTLESHIP_BOW_AC: "[AtWar]重型航母舰艏"
+ EAC_OFFSPRING_BATTLESHIP_MID_AC: "[AtWar]重型航母核心"
+ EAC_OFFSPRING_BATTLESHIP_STERN_AC: "[AtWar]重型点防御舰艉"
+
+
+ EAC_BATTLESHIP_BOW_G3P3: "[AtWar]重型鱼雷舰艏"
+ EAC_BATTLESHIP_MID_G4P2: "[AtWar]重型鱼雷核心"
+
+ EAC_OFFSPRING_BATTLESHIP_BOW_G3P3: "[AtWar]重型鱼雷舰艏"
+ EAC_OFFSPRING_BATTLESHIP_MID_G4P2: "[AtWar]重型鱼雷核心"
+
+ ####################################
+ # Cruiser - 巡洋舰
+ ####################################
+ EAC_CRUISER_BOW_S1: "[AtWar]轻型航母舰艏"
+ EAC_CRUISER_MID_S2: "[AtWar]轻型航母核心"
+ EAC_CRUISER_STERN_P2: "[AtWar]轻型点防御舰艉"
+
+ EAC_OFFSPRING_CRUISER_BOW_S1: "[AtWar]轻型航母舰艏"
+ EAC_OFFSPRING_CRUISER_MID_S2: "[AtWar]轻型航母核心"
+ EAC_OFFSPRING_CRUISER_STERN_P2: "[AtWar]轻型点防御舰艉"
+
+ EAC_CRUISER_BOW_G2P1: "[AtWar]双联鱼雷舰艏"
+ EAC_CRUISER_MID_G3P2: "[AtWar]双联鱼雷核心"
+
+ EAC_OFFSPRING_CRUISER_BOW_G2P1: "[AtWar]双联鱼雷舰艏"
+ EAC_OFFSPRING_CRUISER_MID_G3P2: "[AtWar]双联鱼雷核心"
+
+  ####################################
+ # Corvette - 雷击舰
+ ####################################
+ # CORVETTE_MID_M1S1: "鱼雷核心"
+ EAC_CORVETTE_MID_M2P1: "[AtWar]先进鱼雷核心"
+ EAC_CORVETTE_MID_M1S1: "[AtWar]先进鱼雷核心"
+ EAC_CORVETTE_MID_M1S1_DESC: "[AtWar]专为先进鱼雷部署优化的雷击舰单元。\n\n——[mod]At War：Advanced Ship Sections 4.0"
+ 
+ EAC_OFFSPRING_CORVETTE_MID_M2P1: "[AtWar]先进鱼雷核心"
+ 
+ ####################################
+ # Destroyer - 驱逐舰
+ ####################################
+ EAC_DESTROYER_BOW_H1: "[AtWar]机库舰艏"
+ EAC_OFFSPRING_DESTROYER_BOW_H1: "[AtWar]机库舰艏"
+
+
+ ####################################
+ # BattleCruiser - 战列巡洋舰
+ ####################################
+ BATTLECRUISER_BOW_H2S2: "[AtWar]格纳库舰艏"
+ BATTLECRUISER_MID1_L1H2: "[AtWar]格纳库核心Ⅰ"
+ BATTLECRUISER_MID2_L1H2: "[AtWar]格纳库核心Ⅱ"
+ BATTLECRUISER_STERN_S1H2: "[AtWar]格纳库舰艉"

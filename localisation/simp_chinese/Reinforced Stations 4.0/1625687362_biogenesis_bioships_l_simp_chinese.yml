@@ -1,0 +1,16 @@
+﻿l_simp_chinese:
+ ################################################
+ # BioGenesis Localization for Biological Ships #
+ #        生物舰船的生物起源本地化                #
+ #          Designed by A.I.                    #
+ ################################################
+
+ # Armor/Carapace
+ # bio_ship_armor_regen_tt_header: "When under $@bio_ship_armor_regen_threshold|Y%$ Armor: $TABBED_NEW_LINE$Daily Armor Regen:"
+
+ bio_ship_armor_regen_o_1_tt: "$bio_ship_armor_regen_tt_header$ §G+14.5§!"
+ bio_ship_armor_regen_o_2_tt: "$bio_ship_armor_regen_tt_header$ §G+19§!"
+ bio_ship_armor_regen_o_3_tt: "$bio_ship_armor_regen_tt_header$ §G+24.5§!"
+ bio_ship_armor_regen_o_4_tt: "$bio_ship_armor_regen_tt_header$ §G+32§!"
+ bio_ship_armor_regen_o_5_tt: "$bio_ship_armor_regen_tt_header$ §G+42§!"
+ bio_ship_armor_regen_o_6_tt: "$bio_ship_armor_regen_tt_header$ §G+56§!"

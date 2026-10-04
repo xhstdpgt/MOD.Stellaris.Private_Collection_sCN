@@ -1,0 +1,33 @@
+﻿l_simp_chinese:
+ 
+ # ###################################
+ # 类别
+ # ###################################
+
+ # 引擎
+ #tech_hyper_drive_1: "超空间移动"
+ #tech_hyper_drive_1_desc: "就像蜘蛛网上的丝线一样，多维空间的其他维度在大多数恒星的重力井之间运动。在这些超空间航道间理论上是可以进行超光速旅行的。"
+ tech_experimental_hyper_drive: "试验性超空间引擎"
+ tech_experimental_hyper_drive_desc: "“超空间理论已被证明是正确的，但我们仍需要找到穿越维度边界并在超空间通道中导航的方法。”\n\n[mod] Pre-FTL Players Testing"
+ tech_hyper_drive_15: "基础超空间旅行"
+ tech_hyper_drive_15_desc: "从试验性超空间引擎中收集的数据极大地提高了我们对超空间的理解，我们现在应该能够设计出更快、更安全、更可靠、适用于广泛使用的驱动技术。\n\n[mod] Pre-FTL Players Testing"
+ 
+ 
+ # 引擎组件
+ EXPERIMENTAL_DRIVE: "试验性超空间引擎"
+ EXPERIMENTAL_DRIVE_DESC: "我们现在可以沿超空间网络旅行，尽管实际速度与我们的模型预测相比非常慢。我们不能保证我们能够安全可靠地这样做。这种旅行...不可预测。在超空间旅行中，它可能需要被关闭并远程重新启动。这可能会产生许多副作用，但终归有一些可能是积极的作用。\n\n[mod] Pre-FTL Players Testing"
+
+ #地图模式
+ plentiful_mapmodes_ftl_map_mode: "FTL 地图模式"
+ plentiful_mapmodes_ftl_map_mode_desc: "根据其 §YFTL 技术§! 为帝国边界着色。\n[mod] Pre-FTL Players Testing"
+ HAS_HYPER_DRIVE_1: "§Y[This.GetName]§! 拥有一级 §Y超空间引擎§! 技术。"
+ HAS_HYPER_DRIVE_2: "§Y[This.GetName]§! 拥有二级 §Y超空间引擎§! 技术。"
+ HAS_HYPER_DRIVE_3: "§Y[This.GetName]§! 拥有三级 §Y超空间引擎§! 技术。"
+ HAS_JUMP_DRIVE: "§Y[This.GetName]§! 拥有 §Y跃迁引擎§! 技术。"
+ HAS_PSI_DRIVE: "§Y[This.GetName]§! 拥有 §Y灵能跃迁引擎§! 技术。"
+ HAS_NO_DRIVE: "§Y[This.GetName]§! 没有真正的 §Y超空间引擎§! 技术。"
+ 
+# 贸易行为
+ trade_action_ftl_tech: "FTL 技术"
+ trade_action_ftl_tech_desc: "当然，一个谦卑的附庸想要向这片星域的至高称臣。这是它们能想到的唯一的明确向仁慈的宗主国表达忠心的办法？\n[mod] Pre-FTL Players Testing"
+

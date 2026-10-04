@@ -1,0 +1,26 @@
+﻿l_simp_chinese:
+
+ CSS_SOLAR_CANNON: "太阳射线"
+ CSS_SOLAR_CANNON_DESC: "一种强大的能量武器，能够汲取并倾泻一整颗恒星的能量。"
+ 
+ CSS_SNIPER_CANNON: "千兆加农炮"
+ CSS_SNIPER_CANNON_DESC: "原始的大口径动能火炮。虽然比普通动能武器更强，但这武器无法与真正的脊峰武器相媲美。"
+ 
+ CSS_SNIPER_LANCE: "离子长矛"
+ CSS_SNIPER_LANCE_DESC: "原始的能量武器聚焦形式。它无法与真正的脊峰武器的破坏力相提并论。"
+ 
+ CSS_MONSTER_FIRE: "吞噬之火"
+ CSS_MONSTER_FIRE_DESC: "从 贝希摩斯 的嘴里喷出巨大的能量火焰。"
+ 
+ CSS_ELITE_SWARMLING: "精英裂变虫群守卫"
+ CSS_ELITE_SWARMLING_DESC: "一种强大的群体生物，守护着 贝希摩斯 。"
+ 
+ CSS_ARTILLERY_DRONE: "无人炮艇"
+ CSS_ARTILLERY_DRONE_DESC: "无人机艇是一种无人化的移动炮台。它的射程和破坏力惊人。 这也是无人炮艇舰上令人胆寒的唯一的武器。"
+ 
+ CSS_EXT_CANNON: "歼灭者加农炮"
+ CSS_EXT_CANNON_DESC: "顾名思义，无畏舰的歼灭者加农炮可以摧毁任何挡路的东西。以极高的速度发射大量子弹。"
+ 
+ CSS_XL_MISSILE: "毁灭者导弹"
+ CSS_XL_MISSILE_DESC: "这是一种巨大的远程巡航导弹。装备这种导弹的舰船可以向敌舰倾泻毁灭性的火力。"
+ 

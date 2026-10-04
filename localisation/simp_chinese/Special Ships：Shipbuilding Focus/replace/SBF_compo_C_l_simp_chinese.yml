@@ -1,0 +1,104 @@
+﻿l_simp_chinese:
+
+ SBF_COMP_C_LWT_HUL: "轻型船体"
+ SBF_COMP_C_LWT_HUL_DESC: "护航航母相对轻量化的船体结构使其在同级别舰船中拥有更高航速，但会牺牲近战生存能力。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_SC_CTRL: "舰载机作战系统"
+ SBF_COMP_C_SC_CTRL_DESC: "由传感器与处理单元组成的复杂作战系统，专为辅助舰载机作战而设计。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_SC_COMD: "航母指挥中心"
+ SBF_COMP_C_SC_COMD_DESC: "庞大的指挥中枢，可高效协调大量舰载机的作战行动。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_LRM_GUD: "LRM辅助制导系统"
+ SBF_COMP_C_LRM_GUD_DESC: "专为特殊场景设计的，一整套用于辅助引导我方LRM的系统。（警告：该系统的部署将会严重影响非爆炸类武器的运转效率）\n\n——[mod]Special Ships：Shipbuilding Focus"
+ 
+ SBF_COMP_C_LRM_G_1: "基础型·$SBF_COMP_C_LRM_GUD$"
+ SBF_COMP_C_LRM_G_1_DESC: "$SBF_COMP_C_LRM_GUD_DESC$"
+ 
+ SBF_COMP_C_LRM_G_2: "改进型·$SBF_COMP_C_LRM_GUD$"
+ SBF_COMP_C_LRM_G_2_DESC: "$SBF_COMP_C_LRM_GUD_DESC$"
+ 
+ SBF_COMP_C_LRM_G_3: "先进型·$SBF_COMP_C_LRM_GUD$"
+ SBF_COMP_C_LRM_G_3_DESC: "$SBF_COMP_C_LRM_GUD_DESC$"
+
+ SBF_COMP_C_JAM_CPU: "干扰模块"
+ SBF_COMP_C_JAM_CPU_DESC: "专为特殊场景设计的，一整套用于直接干扰敌方舰船武器系统运转效率的特殊干扰装置。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_MD_TRKR: "多维追踪"
+ SBF_COMP_C_MD_TRKR_DESC: "专为特殊场景设计的，一整套用于追踪敌方微型实体的系统。旨在补足遭受微型实体海潮般围猎时的防御能力。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_REPAR_M: "维修模块"
+ SBF_COMP_C_REPAR_M_DESC: "专为特殊场景设计的，一整套用于在脱离战斗时迅速修复友军舰船的舰船模块。旨在补足我方舰队大跨度远征时的持久能力。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_HALUC_M: "幻象模块"
+ SBF_COMP_C_HALUC_M_DESC: "在敌方舰队视角内，该模块生成的幻象即是最真实最重要的。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_HALUCIN: "幻影矩阵"
+ SBF_COMP_C_HALUCIN_DESC: "专为特殊场景设计的，一整套散布在作战星系的装置用于疏导我方舰队的逸散信息态，被敌方舰队识别为幻象——关键核心战舰。（眼见不一定为实）。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_SPTF_FC: "火力系统"
+ SBF_COMP_C_SPTF_FC_DESC: "专为特殊场景设计的，一整套用于近距离扫射的高效协同的火力系统。（警告：该系统的运转将会严重影响爆炸类武器的后勤效率）。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_AST_HUD: "掠袭作战瞄准系统"
+ SBF_COMP_C_AST_HUD_DESC: "专为特殊场景设计的，一整套用于高速掠袭作战的瞄准系统。（极速且精准！）。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_WEB_CPU: "织网者核心"
+ SBF_COMP_C_WEB_CPU_DESC: "通过时空计算生成静滞力场的装置。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_SPIN_FD: "(X)轴基武器稳定场"
+ SBF_COMP_C_SPIN_FD_DESC: "专用于校准舰体框架难以承载的超规格舰炮的力场系统。但由于舰体规格限制，许多辅助设施无法部署，其实际作战性能无法体现出来。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_DRO_LNK: "无人机作战链路"
+ SBF_COMP_C_DRO_LNK_DESC: "炮击无人机本身并不具备高级人工智能，其真正的大脑是母舰上安装的无人机链路系统。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_GA_CORE: "“米玛塔尔”结构体"
+ SBF_COMP_C_GA_CORE_DESC: "象征着反抗与解放的，狂野的米玛塔尔风格的战舰。追求实用性，无所不用其极。大多数材料均来自所谓的垃圾回收。（“拼好船”）。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_BASTI_M: "堡垒模块"
+ SBF_COMP_C_BASTI_M_DESC: "监控者级能操作超规格舰炮的关键在于堡垒模块，它通过链接附近友方恒星基地的作战数据链，为星系提供强大的移动火力支援。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_INTRD_M: "拦截者模块"
+ SBF_COMP_C_INTRD_M_DESC: "直连拦截者核心的大型装置，通过扭曲星系内时空场来阻碍敌方舰队机动与跃迁。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_DN_CORE: "无畏舰核心"
+ SBF_COMP_C_DN_CORE_DESC: "驱动巨型主力战舰运转与作战的核心系统。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_DRP_POD: "陆战队空降舱"
+ SBF_COMP_C_DRP_POD_DESC: "用于将太空陆战队员投送至行星表面的空降舱。（5费一个的好兄弟。）\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_MR_BRKS: "陆战队营房"
+ SBF_COMP_C_MR_BRKS_DESC: "太空陆战队员进行战备整装的区域，非陆战队员请勿入内。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_MC_CORE: "海军要塞核心"
+ SBF_COMP_C_MC_CORE_DESC: "在海军要塞最深处，存在一座大型作战数据库，它孜孜不倦的学习成长，为海军实时提供最合适的跳帮攻击方案和地面作战战术。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_MN_CORE: "太空雷核心"
+ SBF_COMP_C_MN_CORE_DESC: "简易战舰作战核心，可自主识别和定位入侵星系的敌舰并执行自毁式攻击。\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_MN_FACT: "太空雷工厂"
+ SBF_COMP_C_MN_FACT_DESC: "迭代至远古采矿无人机的自动化工厂，生产太空雷并部署于空间站周边。\n\n——[mod]Special Ships：Shipbuilding Focus"
+ 
+ SBF_COMP_C_MN_FA_1: "$SBF_COMP_C_MN_FACT$"
+ SBF_COMP_C_MN_FA_1_DESC: "$SBF_COMP_C_MN_FACT_DESC$"
+ 
+ SBF_COMP_C_MN_FA_2: "$SBF_COMP_C_MN_FACT$"
+ SBF_COMP_C_MN_FA_2_DESC: "$SBF_COMP_C_MN_FACT_DESC$"
+ 
+ SBF_COMP_C_MN_FA_3: "$SBF_COMP_C_MN_FACT$"
+ SBF_COMP_C_MN_FA_3_DESC: "$SBF_COMP_C_MN_FACT_DESC$"
+
+ SBF_COMP_C_MF_CORE: "机动要塞核心"
+ SBF_COMP_C_MF_CORE_DESC: "机动要塞的能量中枢，使这座巨型结构能够使用跃迁引擎。（好比是“骑士老爷的城堡站起来了！”）\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_NC_CORE: "新星炮核心"
+ SBF_COMP_C_NC_CORE_DESC: "作为新星炮破坏力源头的■■核心。（高度保密的■■）\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_NC_TARG: "新星炮目标指示器"
+ SBF_COMP_C_NC_TARG_DESC: "安装在隐形科研舰上的装置，用于为新星炮标定打击目标。（■■正在诱导！）\n\n——[mod]Special Ships：Shipbuilding Focus"
+
+ SBF_COMP_C_NC_TARX: "$AURA_EMPTY$"
+ 
+ SBF_COMP_C_DUMMY_1: "$AURA_EMPTY$"
+ 
+ SBF_COMP_C_DUMMY_2: "$AURA_EMPTY$"
+ 

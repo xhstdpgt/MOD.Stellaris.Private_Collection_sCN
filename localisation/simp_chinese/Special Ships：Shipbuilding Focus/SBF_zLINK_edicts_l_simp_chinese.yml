@@ -1,0 +1,38 @@
+﻿l_simp_chinese:
+ 
+ edict_SBF_edict_SBF_CA: "$SBF$$SBF_CA$"
+ edict_SBF_edict_SBF_EX: "$SBF$$SBF_EX$"
+ edict_SBF_edict_SBF_HV: "$SBF$$SBF_HV$"
+ edict_SBF_edict_SBF_SM: "$SBF$$SBF_SM$"
+ edict_SBF_edict_SBF_BG: "$SBF$$SBF_BG$"
+ edict_SBF_edict_SBF_MR: "$SBF$$SBF_MR$"
+ edict_SBF_edict_SBF_MN: "$SBF$$SBF_MR$"	# NOT MN !!!
+ edict_SBF_edict_SBF_FT: "$SBF$$SBF_FT$"
+ 
+ edict_SBF_edict_SBF_CA_desc: "$SBF_CA_DESC$"
+ edict_SBF_edict_SBF_EX_desc: "$SBF_EX_DESC$"
+ edict_SBF_edict_SBF_HV_desc: "$SBF_HV_DESC$"
+ edict_SBF_edict_SBF_SM_desc: "$SBF_SM_DESC$"
+ edict_SBF_edict_SBF_BG_desc: "$SBF_BG_DESC$"
+ edict_SBF_edict_SBF_MR_desc: "$SBF_MR_DESC$"
+ edict_SBF_edict_SBF_MN_desc: "$SBF_MR_DESC$"
+ edict_SBF_edict_SBF_FT_desc: "$SBF_FT_DESC$"
+ 
+ SBF_CA_ship_list: " - ['concept_SBF_SHIP_CC_CA']\n - ['concept_SBF_SHIP_BB_CA']\n - ['concept_SBF_SHIP_TI_CA']"
+ SBF_EX_ship_list: " - ['concept_SBF_SHIP_DD_EX']\n - ['concept_SBF_SHIP_DD_AP']\n - ['concept_SBF_SHIP_CC_EX']\n - ['concept_SBF_SHIP_BB_EX']"
+ SBF_HV_ship_list: " - ['concept_SBF_SHIP_CC_PD']\n - ['concept_SBF_SHIP_CC_RP']\n - ['concept_SBF_SHIP_CC_HL']\n - ['concept_SBF_SHIP_BB_SF']"
+ SBF_SM_ship_list: " - ['concept_SBF_SHIP_CO_AS']\n - ['concept_SBF_SHIP_CO_WB']\n - ['concept_SBF_SHIP_DD_XL']\n - ['concept_SBF_SHIP_CC_DR']"
+ SBF_BG_ship_list: " - ['concept_SBF_SHIP_BB_GA']\n - ['concept_SBF_SHIP_BB_X2']\n - ['concept_SBF_SHIP_BB_ID']\n - ['concept_SBF_SHIP_DN_DN']"
+ SBF_MR_ship_list: " - ['concept_SBF_SHIP_DD_MR']\n - ['concept_SBF_SHIP_CC_MR']\n - ['concept_SBF_SHIP_BB_MR']\n - ['concept_SBF_SHIP_JG_MR']"
+ SBF_MN_ship_list: " - ['concept_SBF_SHIP_DD_MR']\n - ['concept_SBF_SHIP_CC_MR']\n - ['concept_SBF_SHIP_BB_MR']\n - ['concept_SBF_SHIP_JG_MN']"
+ SBF_FT_ship_list: " - ['concept_SBF_SHIP_ST_MN']\n - ['concept_SBF_SHIP_SB_MF']\n - ['concept_SBF_SHIP_SB_NC']"
+ 
+ SBF_edict_SBF_CA_custom_tt_effect: "$SBF_BUILDABLE_SHIPS$\n$SBF_CA_ship_list$\n\n$SBF_EDICT_ON_OFF$"
+ SBF_edict_SBF_EX_custom_tt_effect: "$SBF_BUILDABLE_SHIPS$\n$SBF_EX_ship_list$\n\n$SBF_EDICT_ON_OFF$"
+ SBF_edict_SBF_HV_custom_tt_effect: "$SBF_BUILDABLE_SHIPS$\n$SBF_HV_ship_list$\n\n$SBF_EDICT_ON_OFF$"
+ SBF_edict_SBF_SM_custom_tt_effect: "$SBF_BUILDABLE_SHIPS$\n$SBF_SM_ship_list$\n\n$SBF_EDICT_ON_OFF$"
+ SBF_edict_SBF_BG_custom_tt_effect: "$SBF_BUILDABLE_SHIPS$\n$SBF_BG_ship_list$\n\n$SBF_EDICT_ON_OFF$"
+ SBF_edict_SBF_MR_custom_tt_effect: "$SBF_BUILDABLE_SHIPS$\n$SBF_MR_ship_list$\n\n$SBF_EDICT_ON_OFF$"
+ SBF_edict_SBF_MN_custom_tt_effect: "$SBF_BUILDABLE_SHIPS$\n$SBF_MN_ship_list$\n\n$SBF_EDICT_ON_OFF$"
+ SBF_edict_SBF_FT_custom_tt_effect: "$SBF_BUILDABLE_SHIPS$\n$SBF_FT_ship_list$\n\n$SBF_EDICT_ON_OFF$"
+ 

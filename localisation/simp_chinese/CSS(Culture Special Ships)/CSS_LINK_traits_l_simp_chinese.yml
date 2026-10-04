@@ -1,0 +1,107 @@
+﻿l_simp_chinese:
+
+ trait_CSS_01: "$ship_CSS_BB_CARRIER$$CSS_TRAITS$"
+ trait_CSS_01_desc: "$CSS_BB_CARRIER_flav$"
+ TOOLTIP_CSS_BB_CARRIER: "$CSS_TRAITS_PRE$§H$CSS_BB_CARRIER_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_BB_CARRIER$\n\n$TECH_UNLOCK_CSS_BB_CARRIER_DESC$"
+ TECHREQ_CSS_BB_CARRIER: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_battleships$, £engineering_research£$tech_strike_craft_2$"
+ 
+ trait_CSS_02: "$ship_CSS_CC_EXPLOSIVE$$CSS_TRAITS$"
+ trait_CSS_02_desc: "$CSS_CC_EXPLOSIVE_flav$"
+ TOOLTIP_CSS_CC_EXPLOSIVE: "$CSS_TRAITS_PRE$§H$CSS_CC_EXPLOSIVE_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_CC_EXPLOSIVE$\n\n$TECH_UNLOCK_CSS_CC_EXPLOSIVE_DESC$"
+ TECHREQ_CSS_CC_EXPLOSIVE: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_cruisers$, £engineering_research£$tech_swarmer_missiles_1$"
+ 
+ trait_CSS_03: "$ship_CSS_CC_DEFENDER$$CSS_TRAITS$"
+ trait_CSS_03_desc: "$CSS_CC_DEFENDER_flav$"
+ TOOLTIP_CSS_CC_DEFENDER: "$CSS_TRAITS_PRE$§H$CSS_CC_DEFENDER_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_CC_DEFENDER$\n\n$TECH_UNLOCK_CSS_CC_DEFENDER_DESC$"
+ TECHREQ_CSS_CC_DEFENDER: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_cruisers$, £physics_research£$tech_sensors_3$"
+ 
+ trait_CSS_04: "$ship_CSS_CO_ASSAULT$$CSS_TRAITS$"
+ trait_CSS_04_desc: "$CSS_CO_ASSAULT_flav$"
+ TOOLTIP_CSS_CO_ASSAULT: "$CSS_TRAITS_PRE$§H$CSS_CO_ASSAULT_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_CO_ASSAULT$\n\n$TECH_UNLOCK_CSS_CO_ASSAULT_DESC$"
+ TECHREQ_CSS_CO_ASSAULT: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_destroyers$, £engineering_research£$tech_afterburners_1$"
+ 
+ trait_CSS_05: "$ship_CSS_BB_MONITOR$$CSS_TRAITS$"
+ trait_CSS_05_desc: "$CSS_BB_MONITOR_flav$"
+ TOOLTIP_CSS_BB_MONITOR: "$CSS_TRAITS_PRE$§H$CSS_BB_MONITOR_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_BB_MONITOR$\n\n$TECH_UNLOCK_CSS_BB_MONITOR_DESC$"
+ TECHREQ_CSS_BB_MONITOR: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_battleships$, £physics_research£$tech_lasers_4$ $CSS_TRAITS_TECHREQ_OR$ £engineering_research£$tech_mass_drivers_4$"
+ 
+ trait_CSS_06: "$ship_CSS_CC_CARRIER$$CSS_TRAITS$"
+ trait_CSS_06_desc: "$CSS_CC_CARRIER_flav$"
+ TOOLTIP_CSS_CC_CARRIER: "$CSS_TRAITS_PRE$§H$CSS_CC_CARRIER_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_CC_CARRIER$\n\n$TECH_UNLOCK_CSS_CC_CARRIER_DESC$"
+ TECHREQ_CSS_CC_CARRIER: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_cruisers$, £engineering_research£$tech_strike_craft_1$"
+ 
+ trait_CSS_07: "$ship_CSS_BB_INTERDICTOR$$CSS_TRAITS$"
+ trait_CSS_07_desc: "$CSS_BB_INTERDICTOR_flav$"
+ TOOLTIP_CSS_BB_INTERDICTOR: "$CSS_TRAITS_PRE$§H$CSS_BB_INTERDICTOR_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_BB_INTERDICTOR$\n\n$TECH_UNLOCK_CSS_BB_INTERDICTOR_DESC$"
+ TECHREQ_CSS_BB_INTERDICTOR: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_battleships$, £physics_research£$tech_ftl_inhibitor$"
+ 
+ trait_CSS_08: "$ship_CSS_JG_WARFLOWER$$CSS_TRAITS$"
+ trait_CSS_08_desc: "$CSS_JG_WARFLOWER_flav$"
+ TOOLTIP_CSS_JG_WARFLOWER: "$CSS_TRAITS_PRE$§H$CSS_JG_WARFLOWER_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_JG_WARFLOWER$\n\n$TECH_UNLOCK_CSS_JG_WARFLOWER_DESC$"
+ TECHREQ_CSS_JG_WARFLOWER: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_starbase_5$, £physics_research£$tech_jump_drive_1$ $CSS_TRAITS_TECHREQ_OR$ £society_research£$tech_psi_jump_drive_1$ "
+ 
+ trait_CSS_09: "$ship_CSS_CC_GUARDIAN$$CSS_TRAITS$"
+ trait_CSS_09_desc: "$CSS_CC_GUARDIAN_flav$"
+ TOOLTIP_CSS_CC_GUARDIAN: "$CSS_TRAITS_PRE$§H$CSS_CC_GUARDIAN_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_CC_GUARDIAN$\n\n$TECH_UNLOCK_CSS_CC_GUARDIAN_DESC$"
+ TECHREQ_CSS_CC_GUARDIAN: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_cruisers$, £engineering_research£$tech_ship_armor_3$"
+ 
+ trait_CSS_10: "$ship_CSS_TI_REJUVENATOR$$CSS_TRAITS$"
+ trait_CSS_10_desc: "$CSS_TI_REJUVENATOR_flav$"
+ TOOLTIP_CSS_TI_REJUVENATOR: "$CSS_TRAITS_PRE$§H$CSS_TI_REJUVENATOR_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_TI_REJUVENATOR$\n\n$TECH_UNLOCK_CSS_TI_REJUVENATOR_DESC$"
+ TECHREQ_CSS_TI_REJUVENATOR: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_titans$"
+ 
+ trait_CSS_11: "$ship_CSS_DD_SNIPER$$CSS_TRAITS$"
+ trait_CSS_11_desc: "$CSS_DD_SNIPER_flav$"
+ TOOLTIP_CSS_DD_SNIPER: "$CSS_TRAITS_PRE$§H$CSS_DD_SNIPER_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_DD_SNIPER$\n\n$TECH_UNLOCK_CSS_DD_SNIPER_DESC$"
+ TECHREQ_CSS_DD_SNIPER: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_cruisers$, £physics_research£$tech_lasers_4$ $CSS_TRAITS_TECHREQ_OR$ £engineering_research£$tech_mass_drivers_4$"
+ 
+ trait_CSS_12: "$ship_CSS_DD_TORPEDO$$CSS_TRAITS$"
+ trait_CSS_12_desc: "$CSS_DD_TORPEDO_flav$"
+ TOOLTIP_CSS_DD_TORPEDO: "$CSS_TRAITS_PRE$§H$CSS_DD_TORPEDO_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_DD_TORPEDO$\n\n$TECH_UNLOCK_CSS_DD_TORPEDO_DESC$"
+ TECHREQ_CSS_DD_TORPEDO: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_cruisers$, £engineering_research£$tech_torpedoes_1$"
+ 
+ trait_CSS_13: "$ship_CSS_CC_DRONE$$CSS_TRAITS$"
+ trait_CSS_13_desc: "$CSS_CC_DRONE_flav$"
+ TOOLTIP_CSS_CC_DRONE: "$CSS_TRAITS_PRE$§H$CSS_CC_DRONE_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_CC_DRONE$\n\n$TECH_UNLOCK_CSS_CC_DRONE_DESC$"
+ TECHREQ_CSS_CC_DRONE: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_cruisers$, £engineering_research£$tech_strike_craft_2$"
+ 
+ trait_CSS_14: "$ship_CSS_JG_DREADNOUGHT$$CSS_TRAITS$"
+ trait_CSS_14_desc: "$CSS_JG_DREADNOUGHT_flav$"
+ TOOLTIP_CSS_JG_DREADNOUGHT: "$CSS_TRAITS_PRE$§H$CSS_JG_DREADNOUGHT_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_JG_DREADNOUGHT$\n\n$TECH_UNLOCK_CSS_JG_DREADNOUGHT_DESC$"
+ TECHREQ_CSS_JG_DREADNOUGHT: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_titans$"
+ 
+ trait_CSS_15: "$ship_CSS_CO_SWARMLING$$CSS_TRAITS$"
+ trait_CSS_15_desc: "$CSS_CO_SWARMLING_flav$"
+ TOOLTIP_CSS_CO_SWARMLING: "$CSS_TRAITS_PRE$§H$CSS_CO_SWARMLING_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_CO_SWARMLING$\n\n$TECH_UNLOCK_CSS_CO_SWARMLING_DESC$"
+ TECHREQ_CSS_CO_SWARMLING: "\n$CSS_TRAITS_TECHREQ$: $CSS_TRAITS_TECHREQ_NONE$"
+ 
+ trait_CSS_16: "$ship_CSS_JG_MONSTER$$CSS_TRAITS$"
+ trait_CSS_16_desc: "$CSS_JG_MONSTER_flav$"
+ TOOLTIP_CSS_JG_MONSTER: "$CSS_TRAITS_PRE$§H$CSS_JG_MONSTER_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_JG_MONSTER$\n\n$TECH_UNLOCK_CSS_JG_MONSTER_DESC$"
+ TECHREQ_CSS_JG_MONSTER: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_titans$"
+ 
+ trait_CSS_17: "$ship_CSS_BB_BROADSIDER$$CSS_TRAITS$"
+ trait_CSS_17_desc: "$CSS_BB_BROADSIDER_flav$"
+ TOOLTIP_CSS_BB_BROADSIDER: "$CSS_TRAITS_PRE$§H$CSS_BB_BROADSIDER_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_BB_BROADSIDER$\n\n$TECH_UNLOCK_CSS_BB_BROADSIDER_DESC$"
+ TECHREQ_CSS_BB_BROADSIDER: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_battleships$, £physics_research£$tech_plasma_1$ $CSS_TRAITS_TECHREQ_OR$ £engineering_research£$tech_autocannons_1$"
+ 
+ trait_CSS_18: "$ship_CSS_BB_GALLEON$$CSS_TRAITS$"
+ trait_CSS_18_desc: "$CSS_BB_GALLEON_flav$"
+ TOOLTIP_CSS_BB_GALLEON: "$CSS_TRAITS_PRE$§H$CSS_BB_GALLEON_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_BB_GALLEON$\n\n$TECH_UNLOCK_CSS_BB_GALLEON_DESC$"
+ TECHREQ_CSS_BB_GALLEON: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_destroyers$"
+ 
+ trait_CSS_19: "$ship_CSS_BB_EXPLOSIVE$$CSS_TRAITS$"
+ trait_CSS_19_desc: "$CSS_BB_EXPLOSIVE_flav$"
+ TOOLTIP_CSS_BB_EXPLOSIVE: "$CSS_TRAITS_PRE$§H$CSS_BB_EXPLOSIVE_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_BB_EXPLOSIVE$\n\n$TECH_UNLOCK_CSS_BB_EXPLOSIVE_DESC$"
+ TECHREQ_CSS_BB_EXPLOSIVE: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_battleships$, £engineering_research£$tech_missiles_5$, £engineering_research£$tech_swarmer_missiles_1$"
+ 
+ trait_CSS_20: "$ship_CSS_CC_SIEGE$$CSS_TRAITS$"
+ trait_CSS_20_desc: "$CSS_CC_SIEGE_flav$"
+ TOOLTIP_CSS_CC_SIEGE: "$CSS_TRAITS_PRE$§H$CSS_CC_SIEGE_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_CC_SIEGE$\n\n$TECH_UNLOCK_CSS_CC_SIEGE_DESC$"
+ TECHREQ_CSS_CC_SIEGE: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_cruisers$"
+
+ trait_CSS_21: "$ship_CSS_CC_LOOTER$$CSS_TRAITS$"
+ trait_CSS_21_desc: "$CSS_CC_LOOTER_flav$"
+ TOOLTIP_CSS_CC_LOOTER: "$CSS_TRAITS_PRE$§H$CSS_CC_LOOTER_plural$§!$CSS_TRAITS_POST$$TECHREQ_CSS_CC_LOOTER$\n\n$TECH_UNLOCK_CSS_CC_LOOTER_DESC$"
+ TECHREQ_CSS_CC_LOOTER: "\n$CSS_TRAITS_TECHREQ$: £engineering_research£$tech_cruisers$, £physics_research£$tech_cloaking_2$"
+ 

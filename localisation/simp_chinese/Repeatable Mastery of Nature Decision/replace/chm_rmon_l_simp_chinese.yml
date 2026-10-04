@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+  decision_repeatable_mastery_of_nature: "$decision_mastery_of_nature$"
+  decision_repeatable_mastery_of_nature_desc: "$decision_mastery_of_nature_desc$"
+  decision_repeatable_mastery_of_nature_tooltip: "§Y$mastery_of_nature$§!得到增强，授予：\n最大区划：§G+1§!\n§H该决定的成本将增加。§!"
+  chm_mastery_of_nature: "$mastery_of_nature$"
+  chm_mastery_of_nature_desc: "$mastery_of_nature_desc$"
+  chm_mastery_of_nature_effects: "最大资源区§G+50%§!"

@@ -1,0 +1,77 @@
+﻿l_simp_chinese:
+
+ eac_carrier: "航空母舰"
+ EAC_CARRIER_BEHAVIOR_DESC: "§H航母战术：§!该舰将在（§Y250§!）交战半径释放舰载机并保持参战距离。\n\n——[mod]At War：Carrier Improvements 4.0"
+ EAC_COMBAT_COMPUTER_CARRIER_AUTONOMOUS: "自主舰载智能系统（航母++）"
+ EAC_COMBAT_COMPUTER_CARRIER_ADVANCED: "高级作战计算机（航母++）"
+ EAC_COMBAT_COMPUTER_CARRIER_SAPIENT: "知性作战计算机（航母++）"
+ EAC_COMBAT_COMPUTER_CARRIER_PRECOG: "预知接口（航母++）"
+
+ # Fighters 
+ EAC_FIGHTER_HANGAR_1: "[AtWar]基础型舰载机群"
+ EAC_FIGHTER_HANGAR_1_DESC: "标准战斗机编队提供基础打击能力，可在母舰周边区域有效牵制敌方轰炸机与攻击机。\n\n——[mod]At War：Carrier Improvements 4.0"
+ EAC_FIGHTER_HANGAR_2: "[AtWar]改进型舰载机群"
+ EAC_FIGHTER_HANGAR_2_DESC: "新一代战斗机配备升级版航电系统，具备更优操控性能与更强火力配置。\n\n——[mod]At War：Carrier Improvements 4.0"
+ EAC_FIGHTER_HANGAR_3: "[AtWar]先进型舰载机群"
+ EAC_FIGHTER_HANGAR_3_DESC: "经过深度优化的战斗机设计，这些先进机型是飞行员的终极装备，其性能指标全面超越前代机型。\n\n——[mod]At War：Carrier Improvements 4.0"
+
+ # Strike Craft - 舰载机
+ EAC_STRIKE_CRAFT_HANGAR_DISRUPTOR_1: "[AtWar]裂解炮舰载机"
+ EAC_STRIKE_CRAFT_HANGAR_DISRUPTOR_1_DESC: "配备裂解炮的先进舰载机，发射高能粒子束，削弱并破坏目标分子键，使其原子结构解体。可穿透护盾与装甲，直接对敌舰船体及人员造成毁灭性打击。\n\n——[mod]At War：Carrier Improvements 4.0"
+ EAC_STRIKE_CRAFT_HANGAR_DISRUPTOR_2: "[AtWar]离子裂解炮舰载机"
+ EAC_STRIKE_CRAFT_HANGAR_DISRUPTOR_2_DESC: "配备离子裂解炮的先进舰载机，发射高能粒子束瓦解目标分子结构。具备无视护盾与装甲的特性，能直接摧毁敌舰船体并杀伤舰载人员。\n\n——[mod]At War：Carrier Improvements 4.0"
+ EAC_STRIKE_CRAFT_HANGAR_DISRUPTOR_3: "[AtWar]相位裂解炮舰载机"
+ EAC_STRIKE_CRAFT_HANGAR_DISRUPTOR_3_DESC: "搭载相位裂解炮的尖端舰载机，其高能粒子束可解离目标物质分子键。突破传统防御体系，对敌舰结构与人员实施精准打击。\n\n——[mod]At War：Carrier Improvements 4.0"
+
+ EAC_STRIKE_CRAFT_HANGAR_NULL_VOID: "[AtWar]灵能炮舰载机"
+ EAC_STRIKE_CRAFT_HANGAR_NULL_VOID_DESC: "专为摧毁敌方护盾设计的特种舰载机，具备极强的战术突防能力。\n\n——[mod]At War：Carrier Improvements 4.0"
+
+ EAC_STRIKE_CRAFT_HANGAR_AUTOCANNON_1: "[AtWar]机关炮舰载机"
+ EAC_STRIKE_CRAFT_HANGAR_AUTOCANNON_1_DESC: "配备机关炮的舰载机，可向目标倾泻高爆弹幕形成密集火力网。\n\n——[mod]At War：Carrier Improvements 4.0"
+ EAC_STRIKE_CRAFT_HANGAR_AUTOCANNON_2: "[AtWar]撕裂者机关炮舰载机"
+ EAC_STRIKE_CRAFT_HANGAR_AUTOCANNON_2_DESC: "装备撕裂者机关炮的舰载机，能对目标实施高爆弹幕覆盖打击。\n\n——[mod]At War：Carrier Improvements 4.0"
+ EAC_STRIKE_CRAFT_HANGAR_AUTOCANNON_3: "[AtWar]火风暴机关炮舰载机"
+ EAC_STRIKE_CRAFT_HANGAR_AUTOCANNON_3_DESC: "配置火风暴机关炮的舰载机，可向目标区域投射密集的高爆弹幕实施饱和攻击。\n\n——[mod]At War：Carrier Improvements 4.0"
+
+ EAC_STRIKE_CRAFT_HANGAR_PLASMA_1: "[AtWar]等离子炮舰载机"
+ EAC_STRIKE_CRAFT_HANGAR_PLASMA_1_DESC: "该型舰载机配备等离子发射器，可向目标发射高能等离子破坏弹。此类等离子弹药对舰船装甲及船体具有极强穿透破坏效果。\n\n——[mod]At War：Carrier Improvements 4.0"
+ EAC_STRIKE_CRAFT_HANGAR_PLASMA_2: "[AtWar]等离子加速炮舰载机"
+ EAC_STRIKE_CRAFT_HANGAR_PLASMA_2_DESC: "该型舰载机配备等离子加速炮，可向目标发射高能等离子破坏弹。此类等离子弹药对舰船装甲及船体具有极强穿透破坏效果。\n\n——[mod]At War：Carrier Improvements 4.0"
+ EAC_STRIKE_CRAFT_HANGAR_PLASMA_3: "[AtWar]等离子加农炮舰载机"
+ EAC_STRIKE_CRAFT_HANGAR_PLASMA_3_DESC: "该型舰载机配备等离子加农炮，可向目标发射高能等离子破坏弹。此类等离子弹药对舰船装甲及船体具有极强穿透破坏效果。\n\n——[mod]At War：Carrier Improvements 4.0"
+
+ # Bombers - 轰炸机
+ EAC_BOMBER_HANGAR_PROTON_TORPEDO: "[AtWar]质子鱼雷轰炸机"
+ EAC_BOMBER_HANGAR_PROTON_TORPEDO_DESC: "配备微型质子鱼雷发射器，这些轰炸机发射由高度集中的质子组成的能量弹，能对敌舰船体造成严重损害。\n\n——[mod]At War：Carrier Improvements 4.0" 
+ EAC_BOMBER_HANGAR_NEUTRON_TORPEDO: "[AtWar]中子鱼雷轰炸机"
+ EAC_BOMBER_HANGAR_NEUTRON_TORPEDO_DESC: "配备微型中子鱼雷发射器，这些轰炸机发射由高度集中的中子组成的能量弹，能对敌舰船体造成巨大损害。\n\n——[mod]At War：Carrier Improvements 4.0" 
+
+ EAC_CARRIER_RADAR: "航母专用雷达"
+ EAC_CARRIER_RADAR_DESC: "航母专用雷达，被设计用于在极远距离（450）锁定目标舰船\n\n——[mod]At War：Carrier Improvements 4.0"
+
+ # Ship Sections
+ EAC_TITAN_BOW: "[AtWar]泰坦级航母舰艏"
+ EAC_TITAN_MID: "[AtWar]泰坦级航母核心"
+ EAC_TITAN_STERN: "[AtWar]泰坦级航母舰艉"
+
+ ####################################
+ # Battleship
+ ####################################
+ EAC_BATTLESHIP_BOW_AC: "[AtWar]先进航母舰艏"
+ EAC_BATTLESHIP_MID_AC: "[AtWar]先进航母核心"
+ EAC_BATTLESHIP_STERN_AC: "[AtWar]先进航母防御舰艉"
+
+ EAC_OFFSPRING_BATTLESHIP_BOW_AC: "[AtWar]先进航母舰艏"
+ EAC_OFFSPRING_BATTLESHIP_MID_AC: "[AtWar]先进航母核心"
+ EAC_OFFSPRING_BATTLESHIP_STERN_AC: "[AtWar]先进航母防御舰艉"
+
+ ####################################
+ # Cruiser
+ ####################################
+ EAC_CRUISER_BOW_S1: "[AtWar]轻型航母舰艏"
+ EAC_CRUISER_MID_S2: "[AtWar]轻型航母核心"
+ EAC_CRUISER_STERN_P2: "[AtWar]轻型航母防御舰艉"
+
+ EAC_OFFSPRING_CRUISER_BOW_S1: "[AtWar]轻型航母舰艏"
+ EAC_OFFSPRING_CRUISER_MID_S2: "[AtWar]轻型航母核心"
+ EAC_OFFSPRING_CRUISER_STERN_P2: "[AtWar]轻型航母防御舰艉"

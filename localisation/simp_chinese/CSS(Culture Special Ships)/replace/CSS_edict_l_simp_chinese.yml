@@ -1,0 +1,15 @@
+﻿l_simp_chinese:
+ 
+ CANNOT_BE_REVERSED: "\n此设置将应用于所有帝国。\n§R一旦设置，无法撤销!§!"
+ 
+ edict_CSS_SHIP_OPTIONS_HIDDEN: "[CSS] 隐藏舰船限制选项 [默认]"
+ edict_CSS_SHIP_OPTIONS_HIDDEN_desc: "隐藏所有移除 CSS 船只限制的指令选项。这是 CSS 最标准的状态，也是模组制作者推荐的选择。$CANNOT_BE_REVERSED$"
+ edict_CSS_ALL_SHIP: "[CSS] 移除所有舰船限制"
+ edict_CSS_ALL_SHIP_desc: "移除对 CSS 舰船的所有限制。只要帝国满足技术要求，就可以使用所有 CSS 舰船。$CANNOT_BE_REVERSED$"
+ edict_CSS_ALL_CULTURE_SHIP: "[CSS] 移除对文明专属舰船的限制"
+ edict_CSS_ALL_CULTURE_SHIP_desc: "移除 CSS 舰船的特性限制。无论物种特质如何，只要帝国满足技术要求，就可以使用 CSS 舰船。$CANNOT_BE_REVERSED$"
+ edict_CSS_ALL_MACHINE_SHIP: "[CSS] 移除对机械帝国舰船的限制"
+ edict_CSS_ALL_MACHINE_SHIP_desc: "移除只能由机械智能使用的 CSS 舰船限制。只要帝国满足技术要求，就可以使用无人舰船和无畏舰。$CANNOT_BE_REVERSED$"
+ edict_CSS_ALL_DEVOUERING_SHIP: "[CSS] 移除对蜂巢帝国舰船的限制"
+ edict_CSS_ALL_DEVOUERING_SHIP_desc: "移除只能由吞噬蜂群使用的 CSS 舰船限制。只要帝国满足技术要求，就可以使用 裂变虫群 和 比蒙巨兽.$CANNOT_BE_REVERSED$"
+ 

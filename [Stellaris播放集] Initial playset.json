@@ -1,0 +1,174 @@
+{
+    "game": "stellaris",
+    "name": "Initial playset",
+    "mods": [
+        {
+            "displayName": "~~Ariphaos Unofficial Patch (4.2)",
+            "enabled": false,
+            "position": 0,
+            "steamId": "1995601384"
+        },
+        {
+            "displayName": "UI Overhaul Dynamic",
+            "enabled": false,
+            "position": 1,
+            "steamId": "1623423360"
+        },
+        {
+            "displayName": "UI Overhaul Dynamic - Extended Topbar for DLCs",
+            "enabled": true,
+            "position": 2,
+            "steamId": "3090328185"
+        },
+        {
+            "displayName": "UI Overhaul Dynamic - Tiny Outliner",
+            "enabled": false,
+            "position": 3,
+            "steamId": "1628912584"
+        },
+        {
+            "displayName": "UI Overhaul Dynamic - SpeedDial",
+            "enabled": false,
+            "position": 4,
+            "steamId": "1649442597"
+        },
+        {
+            "displayName": "12 slot Ascension perk",
+            "enabled": true,
+            "position": 5,
+            "steamId": "1348876762"
+        },
+        {
+            "displayName": "Slightly Larger Starbases [4.4]",
+            "enabled": true,
+            "position": 6,
+            "steamId": "3168007310"
+        },
+        {
+            "displayName": "Technology Tree (for Chinese Language)",
+            "enabled": true,
+            "position": 7,
+            "steamId": "1230096820"
+        },
+        {
+            "displayName": "Yet Another Galaxy Enhancement Mod",
+            "enabled": false,
+            "position": 8,
+            "steamId": "1327874725"
+        },
+        {
+            "displayName": "Downscaled Updated",
+            "enabled": true,
+            "position": 9,
+            "steamId": "2662937312"
+        },
+        {
+            "displayName": "Real Space - System Scale",
+            "enabled": true,
+            "position": 10,
+            "steamId": "1887282318"
+        },
+        {
+            "displayName": "治愈强迫症-3 不再SL灵能科技",
+            "enabled": true,
+            "position": 11,
+            "steamId": "3120810990"
+        },
+        {
+            "displayName": "Larger Sectors (Works with 4.4!)",
+            "enabled": true,
+            "position": 12,
+            "steamId": "3477420842"
+        },
+        {
+            "displayName": "We Require Borders",
+            "enabled": true,
+            "position": 13,
+            "steamId": "2452302093"
+        },
+        {
+            "displayName": "Vassals Expanded and Reworked - FunEFork",
+            "enabled": true,
+            "position": 14,
+            "steamId": "2183551683"
+        },
+        {
+            "displayName": "Planetary Decision Build Speed",
+            "enabled": true,
+            "position": 15,
+            "steamId": "2785809472"
+        },
+        {
+            "displayName": "Spacefleet Tactica",
+            "enabled": true,
+            "position": 16,
+            "steamId": "3696204283"
+        },
+        {
+            "displayName": "SFT ADD-ON : Disable New Ship Sections",
+            "enabled": true,
+            "position": 17,
+            "steamId": "3703611846"
+        },
+        {
+            "displayName": "SFT ADD-ON : Disable Combat Deceleration",
+            "enabled": true,
+            "position": 18,
+            "steamId": "3715913784"
+        },
+        {
+            "displayName": "Better Improved Hulls",
+            "enabled": true,
+            "position": 19,
+            "steamId": "3121071030"
+        },
+        {
+            "displayName": "Starbase Buildings and Modules",
+            "enabled": true,
+            "position": 20,
+            "steamId": "1834615504"
+        },
+        {
+            "displayName": "Ultimate Automation 4.4",
+            "enabled": true,
+            "position": 21,
+            "steamId": "2250100617"
+        },
+        {
+            "displayName": "AI Game Performance Optimisation 4.4",
+            "enabled": true,
+            "position": 22,
+            "steamId": "2184737698"
+        },
+        {
+            "displayName": "! IBS Animated Map Icons",
+            "enabled": true,
+            "position": 23,
+            "steamId": "2633444661"
+        },
+        {
+            "displayName": "! Universal Game Rules Patch",
+            "enabled": false,
+            "position": 24,
+            "steamId": "2409276081"
+        },
+        {
+            "displayName": "Vanilla Chinese Improving",
+            "enabled": true,
+            "position": 25,
+            "steamId": "2812860898"
+        },
+        {
+            "displayName": "群星：私人合集汉化",
+            "enabled": true,
+            "position": 26,
+            "steamId": "3352603651"
+        },
+        {
+            "displayName": "鸽组汉化",
+            "enabled": true,
+            "position": 27,
+            "steamId": "2131014154"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+l_simp_chinese:
+
+# 繁荣传统
+ #agenda_favored_society_finish1: "$council_agenda_agenda_favored_society_name$$agenda_ref$"
+ #agenda_favored_society_finish1_desc: "$council_agenda_agenda_favored_society_desc$"
+ #agenda_favored_society_finish_planet1: "$council_agenda_agenda_favored_society_name$$agenda_ref$"
+ #agenda_favored_society_finish_planet1_desc: "$council_agenda_agenda_favored_society_desc$"

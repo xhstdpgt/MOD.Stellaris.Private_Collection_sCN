@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+
+ CSS_TRAITS: "传统"
+ CSS_TRAITS_PRE: "如果具有此特性的人口占到了从事研究岗位并符合所需技术要求的人口的25%或更多，您就可以建造"
+ CSS_TRAITS_POST: "。"
+ CSS_TRAITS_TECHREQ: "技术要求"
+ CSS_TRAITS_TECHREQ_OR: "或"
+ CSS_TRAITS_TECHREQ_NONE: "无"
+ CSS_TRAITS_TECHREQ_X_SLOT: "X槽武器技术之一"

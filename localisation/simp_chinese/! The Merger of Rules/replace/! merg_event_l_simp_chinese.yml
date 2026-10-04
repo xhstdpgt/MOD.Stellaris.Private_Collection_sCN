@@ -1,0 +1,19 @@
+﻿l_simp_chinese:
+
+ # 红色警报
+ merg.1.name: "A"
+ merg.2.name: "红色警报！"
+ merg.2.desc: "U检测到您的游戏中存在通用游戏规则修复。此模组与规则合并完全不兼容，应避免同时使用。"
+ merger_fake_policy: "虚假政策"
+ merg_check_start: "已被 Merger of Rules 检测到，但是"
+ merg_check_end: "不存在。确保使用它来完全支持这个 mod。"
+ merg_check.2.desc: "§H《Real Space》§! $merg_check_start$ §H真《Real Space》触发兼容性修复§! $merg_check_end$"
+ merg_check.3.desc: "§H《战舰少女R 与 MIST 物种》§! $merg_check_start$ §H《战舰少女R 与 MIST 物种》触发兼容性修复§! $merg_check_end$"
+ merg_check.4.desc: "§H《[少女前线]涅托种族事件包》§! $merg_check_start$ §H《[少女前线]涅托种族事件包》触发兼容性修复§! $merg_check_end$"
+ merg_check.5.desc: "§H《碧蓝航线主题DLC》§! $merg_check_start$ §H《碧蓝航线主题DLC》触发兼容性修复§! $merg_check_end$"
+ merg_check.6.desc: "§H《少女前线群星故事集 (正史线：危机联合)》§! $merg_check_start$ §H《少女前线群星故事集 (正史线：危机联合)》触发兼容性修复§! $merg_check_end$"
+ merg_check.7.desc: "§H《久远之旅：兽耳娘种族与故事包》§! $merg_check_start$ §H《久远之旅：兽耳娘种族与故事包》触发兼容性修复§! $merg_check_end$"
+ merg_check.8.desc: "§H《碧蓝档案故事包》§! $merg_check_start$ §H《碧蓝档案故事包》触发兼容性修复§! $merg_check_end$"
+ merg_check.9.desc: "§H《星球大战：夸特的黎明》§! $merg_check_start$ §H《星球大战：夸特的黎明》触发兼容性修复§! $merg_check_end$"
+ merg_check.10.desc: "§H《魔女之旅：星海旅人》§! $merg_check_start$ §H《魔女之旅：星海旅人》触发兼容性修复§! $merg_check_end$"
+ merg_check.11.desc: "§H《星球大战：星舰舰娘的故事》§! $merg_check_start$ §H《星球大战：星舰舰娘的故事》触发兼容性修复§! $merg_check_end$"

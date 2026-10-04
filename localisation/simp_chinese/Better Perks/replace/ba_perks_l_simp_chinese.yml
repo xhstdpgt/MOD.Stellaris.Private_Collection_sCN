@@ -1,0 +1,29 @@
+﻿l_simp_chinese:
+ allow_gaia1: "允许我们将世界改造成 §G盖亚星球§! 或 §Y墓穴世界§!."
+
+ ap_technological_ascendancy_rare2: "§M稀有技术§! 现在以正常频率的 §Y1.5§! 倍出现。\n§Y解锁恒星基地建筑：§! 轨道研究站，产生 £society_research£ £physics_research£ £engineering_research£ 研究。"
+
+ sm_orbital_research_station: "轨道考古研究站"
+ sm_orbital_research_station_station_desc: "通过建立一个专门的科学设施，专注于太空研究，我们的帝国肯定能够看到技术进步。"
+
+ ap_archaeoengineers_tooltip2: "解锁 §Y古代§! 组件和建筑的额外效果。\n§Y解锁建筑：§! 考古研究实验室/中心提升 §G稀有文物§! 生产和储存能力。"
+ building_archaeostudies_labs: "考古研究中心"
+ building_archaeostudies_lab: "考古研究实验室"
+ building_archaeostudies_labs_desc: "利用我们在古代技术方面的专业知识，我们能够建造一个$building_archaeostudies_labs$，可以修复和利用迄今为止被认为无法使用的文物。"
+ building_archaeostudies_lab_desc: "利用我们在古代技术方面的专业知识，我们能够建造一个$building_archaeostudies_lab$，可以修复和利用迄今为止被认为无法使用的文物。"
+
+ trait_robot_specialist_aquatic: "防水机器人"
+ trait_robot_specialist_aquatic_desc: "§L这些机器最初是为海洋深处的复杂任务而设计的，但在陆地上运行时面临严重的不适应。§!\n§R需要§! §Y海洋世界§! §R家园§!."
+ trait_robot_specialist_aquatic_tooltip: "复合子个体在§Y海洋§!星球产出：§G+5%§!\n宜居性 §Y被淹没的居住站§!：§G+70%§!"
+ trait_aquatic_specialist: "水生专家"
+ trait_aquatic_specialist_desc: "§L这个物种已经适应了生活在海洋深处并执行复杂工作。但在陆地上活动时面临严重的不适应。§!\n§R需要§! §Y海洋世界§! §R家园§!."
+ trait_aquatic_specialist_tooltip: "统治者、专家、复合子个体在§Y海洋§!星球产出：§G+5%§!\n宜居性 §Y被淹没的居住站§!：§G+70%§!"
+ ap_hydrocentric_trait_tooltip: "§Y解锁特质：§! §G水生§! 这可以提高统治者、专家、复合子个体的产出，但是在非海洋世界上会受到巨大的宜居性惩罚。"
+
+ ap_mechromancy_tt1: "被击败的有机利维坦有时可以复活。\n被净化的有机或石质智慧物种 $pops_with_icon$ 有33%的概率被复生为半机械死灵。\n§Y解锁特性：§! §G死灵§! 和 §G机械世界偏好§! 对有机物种的修改。"
+
+ hive_bred: "蜂巢培育"
+ hive_bred_desc: "这个物种被培育成在蜂巢世界中表现出色，但是在任何其他环境中都会受到负面影响。"
+ ap_hive_worlds_desc1: "§Y解锁特质：§! §G$hive_bred$§! 这提高了矿工、技工和农夫的基础产出 §G+1§! 同时大幅降低它们在非蜂巢世界中的宜居性。"
+
+ ap_galactic_contender_voidworms_tt1: "$MOD_DIPLO_WEIGHT_MULT$: §G+25%§!\n每一个宿敌帝国 £unity£ 凝聚力§G+50§!\n来自宿敌的 £influence£ 影响力§G+50%§!\n对宿敌帝国的伤害：§G+25%§!\n对堕落帝国和觉醒帝国的伤害：§G+25%§!\n对掠夺者帝国的伤害：§G+50%§!\n对中期危机派系的伤害：§G+50%§!"

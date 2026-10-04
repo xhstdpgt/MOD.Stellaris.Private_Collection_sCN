@@ -1,0 +1,134 @@
+﻿l_english:
+  fix_ai_actions.1.name: "AI Game Performance\nOptimisation"
+  fix_ai_actions.1.desc: "Enable or disable AI optimisations using this menu (most are enabled by default which is recommended). Click the settings or info button next to each optimisation for description or configuration. For max performance click: '§YEnable some AI opt on players§!' and '§RExit§!'. §YNote:§! Orange means enabled and settings can be changed later through an edict."
+
+  fix_menu_events.2.name: "Disable AI Hyper Relays"
+  fix_menu_events.2.desc: "Stops the AI from constructing Hyper Relays as they degrade performance especially with their required amount."
+
+  fix_menu_events.3.name: "Restrict AI Gateways"
+  fix_menu_events.3.desc: "Stops the AI from constructing Gateways more than twice every 100 years (default) to prevent the AI from building them too quickly, unnecessarily."
+
+  fix_menu_events.3.b: "§RDisable Gateways§!"
+  fix_menu_events.3.c: "Allow §Y2§! Gateways every §Y50§! years"
+  fix_menu_events.3.d: "Allow §Y2§! Gateways every §Y100§! years (§Gdefault§!)"
+  fix_menu_events.3.e: "Allow §Y2§! Gateways every §Y150§! years"
+
+  fix_menu_events.4.name: "Restrict AI Habitats"
+  fix_menu_events.4.desc: "Stops the AI from constructing habitats by introducing a limit of 7 habitats per AI (default)."
+
+  fix_menu_events.4.b: "§RDisable Habitats§!"
+  fix_menu_events.4.c: "Allow §Y3§! Habitats"
+  fix_menu_events.4.d: "Allow §Y7§! Habitats (§Gdefault§!)"
+  fix_menu_events.4.e: "Allow §Y11§! Habitats"
+
+  fix_menu_events.5.name: "Restrict AI Ringworlds"
+  fix_menu_events.5.desc: "Stops the AI from constructing ringworlds by introducing a limit of 3 ringworlds per AI (default)."
+
+  fix_menu_events.5.b: "§RDisable Ringworlds§!"
+  fix_menu_events.5.c: "Allow §Y1§! Ringworlds"
+  fix_menu_events.5.d: "Allow §Y3§! Ringworlds (§Gdefault§!)"
+  fix_menu_events.5.e: "Allow §Y5§! Ringworlds"
+
+  fix_menu_events.6.name: "Restrict AI Planets"
+  fix_menu_events.6.desc: "Stops the AI from colonising planets by introducing a limit of 60 planets per AI (default)."
+
+  fix_menu_events.6.b: "Allow §Y10§! planets"
+  fix_menu_events.6.c: "Allow §Y30§! planets"
+  fix_menu_events.6.d: "Allow §Y60§! planets (§Gdefault§!)"
+
+  fix_menu_events.7.name: "Improve AI unemployment"
+  fix_menu_events.7.desc: "Fills AI job vacancies faster and reduces unemployment by resettling the unemployed pops to planets with open jobs."
+
+  fix_menu_events.8.name: "Disable AI Omnicodex Relic"
+  fix_menu_events.8.desc: "Stops the AI from getting the Omnicodex Relic to prevent unnecessary hybrid species."
+
+  fix_menu_events.8.b: "§RRemoves relic entirely§! (§Gdefault§!)"
+  fix_menu_events.8.c: "Gives relic to §Yplayer§! when found"
+
+  fix_menu_events.9.name: "Disable AI Xeno-Compatibility"
+  fix_menu_events.9.desc: "Stops the AI from getting Xeno-Compatibility ascension perk to prevent unnecessary hybrid species."
+
+  fix_menu_events.10.name: "Restrict AI Corvettes/Frigates"
+  fix_menu_events.10.desc: "Stops the AI from building corvettes, frigates, destroyers, and cruisers by putting a cap on corvettes and frigates to 60, destroyers to 30, and cruisers to 15 per fleet (by default). Once the AI reaches the cap(s), a corvette is replaced with a frigate, and 2 frigates are replaced with a destroyer, 2 destroyers are replaced with a cruiser, and 2 cruisers are replaced with a battleship. This should make AI fleets less corvette/other heavy and stronger (the 2 for 1 trade-off works out economically). This also applies to bio-ships and only occurs when possible e.g., when the AI has destroyer technology and cruiser technology for balance reasons."
+
+  fix_menu_events.10.b: "Allow §Y15§! corvettes/frigates, §Y8§! destroyers, and §Y4§! cruisers"
+  fix_menu_events.10.c: "Allow §Y30§! corvettes/frigates, §Y15§! destroyers, and §Y8§! cruisers"
+  fix_menu_events.10.d: "Allow §Y60§! corvettes/frigates, §Y30§! destroyers, and §Y15§! cruisers (§Gdefault§!)"
+  fix_menu_events.10.e: "Allow §Y120§! corvettes/frigates, §Y60§! destroyers, and §Y30§! cruisers"
+  fix_menu_events.10.f: "Allow §Y240§! corvettes/frigates, §Y120§! destroyers, and §Y60§! cruisers"
+  fix_menu_events.10.g: "Allow §Y480§! corvettes/frigates, §Y240§! destroyers, and §Y120§! cruisers"
+  fix_menu_events.10.h: "Allow §Y960§! corvettes/frigates, §Y480§! destroyers, and §Y240§! cruisers"
+  fix_menu_events.10.i: "Allow §Y1920§! corvettes/frigates, §Y960§! destroyers, and §Y480§! cruisers"
+
+  fix_menu_events.11.name: "Optimisation Coming Soon(TM)"
+  fix_menu_events.11.desc: "Perchance."
+
+  fix_menu_events.12.name: "Disable AI Deep Space Citadels"
+  fix_menu_events.12.desc: "Stops the AI from constructing Deep Space Citadels as they are usually built in very large quantities."
+
+  fix_menu_events.13.name: "Improve AI Fleet Count"
+  fix_menu_events.13.desc: "Stops the AI from having multiple partly filled fleets and merges them when possible while not at war."
+
+  fix_menu_events.14.name: "Modifier Updating Optimisation"
+  fix_menu_events.14.desc: "Reduces the burden of updating modifiers by decreasing their update frequency to once per month."
+
+  fix_menu_events.15.name: "Restrict AI Science/Construction Ships"
+  fix_menu_events.15.desc: "Stops the AI from building science and construction ships by putting a cap of 6 (by default). Once the AI reaches the cap(s), It will not be able to build anymore which will reduce fleet pathing related performance hits if the ships are excessively built."
+
+  fix_menu_events.15.b: "Allow §Y5§! science ships and §Y5§! construction ships (§Gdefault§!)"
+  fix_menu_events.15.c: "Allow §Y10§! science ships and §Y10§! construction ships"
+  fix_menu_events.15.d: "Allow §Y15§! science ships and §Y15§! construction ships"
+
+  fix_menu_events.16.name: "§YEnable some AI opt on players§!"
+  fix_menu_events.16.desc: "As a preference, you can enable some of the AI optimisations to be also applied on players for potential balance and further performance gains. These currently include (if not disabled); 'Disable AI Hyper Relays'."
+
+  # fix_menu_events.12.name: "Restrict AI pop count"
+  # fix_menu_events.12.desc: "Reduces the AI's and/or player's pops by introducing a scaling modifier on each planet individually (based on pop number); giving negative pop growth speed and pop assembly speed (notably) which is compensated with positive pop resource production (among other things) and diplomatic weight from pops."
+
+  # fix_menu_events.12.b: "Set this restriction to §Y50%§! effectiveness"
+  # fix_menu_events.12.c: "Set this restriction to §Y100%§! effectiveness (§Gdefault§!)"
+  # fix_menu_events.12.d: "Set this restriction to §Y150%§! effectiveness"
+
+  fix_menu_events.x.desc: "Use the settings menu below to configure this optimisation, and be aware that greyed out in this case means currently active setting!"
+
+  fix_ai_actions.1.a: "Enable All"
+  fix_ai_actions.1.b: "Disable AI Hyper Relays"
+  fix_ai_actions.1.c: "Restrict AI Gateways"
+  fix_ai_actions.1.d: "Restrict AI Habitats"
+  fix_ai_actions.1.e: "Restrict AI Ringworlds"
+  fix_ai_actions.1.f: "Restrict AI planets"
+  fix_ai_actions.1.g: "Improve AI unemployment"
+  fix_ai_actions.1.h: "Disable AI Omnicodex Relic"
+  fix_ai_actions.1.i: "Disable AI Xeno-Compatibility"
+  fix_ai_actions.1.j: "Restrict AI Corvettes/Frigates"
+  fix_ai_actions.1.k: "Optimisation Coming Soon(TM)"
+  fix_ai_actions.1.l: "Disable AI Deep Space Citadel"
+  fix_ai_actions.1.m: "Improve AI fleet count"
+  fix_ai_actions.1.n: "Restrict Modifier Updating"
+  fix_ai_actions.1.o: "Restrict AI Sci/Con Ships"
+  fix_ai_actions.1.p: "§YEnable some AI opt on players§!"
+  fix_ai_actions.1.q: "Disable All"
+  fix_ai_actions.1.r: "Exit"
+
+  edict_edict_mod_options: "§BAI Game Performance Optimisation§!"
+  edict_edict_mod_options_desc: "Show the game start menu again where options can be disabled, enabled, and configured."
+
+  micro_marketing: "AI Micro Marketing Fix"
+  micro_marketing_desc: ""
+
+  planet_pop_conversion_count: "Pop Count Conversion"
+  planet_pop_conversion_count_desc: "A scaling pop control protocol that prevents a galactic wide time relativity disaster."
+
+  country_pop_conversion_count: "Pop Count Conversion"
+  country_pop_conversion_count_desc: "A scaling pop control protocol compensator that prevents empire wide political disaster."
+
+  ai_habitat_restriction: "AI Habitat Restriction"
+  ai_hyper_relay_restriction: "AI Hyper Relay Restriction"
+  ai_gateway_restriction: "AI Gateway Restriction"
+  ai_ring_world_restriction: "AI Ring World Restriction"
+  ai_planet_restriction: "AI Planet Count Restriction"
+  ai_dsp_restriction: "AI DSP Restriction"
+  # ai_science_ship_restriction: "AI Science Ship Restriction"
+  # ai_construction_ship_restriction: "AI Construction Ship Restriction"
+
+  requires_some_ai_fixes_on_players_disabled: "The optimisation 'Enable some AI opt on players' must be disabled"

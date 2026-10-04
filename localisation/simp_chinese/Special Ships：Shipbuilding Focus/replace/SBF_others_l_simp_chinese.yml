@@ -1,0 +1,27 @@
+﻿l_simp_chinese:
+ 
+ OR: "或"
+
+ SBF_core_components: "特种舰船组件"
+
+ SBF_tech_ship_unlock: "§H舰船类型已解锁：§!"
+
+ modifier_ship_build_speed: "舰船建造速度"
+ modifier_ship_hull: "舰船船体值"
+
+ mod_SBFms_SBF_COMP_C_LRM_GUD_other_weapon_dmg_mult: "非爆炸武器伤害"
+ mod_SBFms_SBF_COMP_C_LRM_GUD_other_weapon_fir_mult: "非爆炸武器攻击速度"
+
+ weapon_type_marine: "§Y陆战队§!"
+ mod_weapon_type_marine_weapon_damage_mult: "陆战队武器伤害"
+ mod_weapon_type_marine_weapon_fire_rate_mult: "陆战队武器攻击速度"
+
+ weapon_type_special: "§Y特种§!"
+ mod_weapon_type_special_weapon_damage_mult: "特殊武器伤害"
+ mod_weapon_type_special_weapon_fire_rate_mult: "特殊武器攻击速度"
+
+ SBF_SBF_SHIP_JG_MR_ship_build: "海军陆战队要塞还配备了建造坞舱，可极速生产陆战队专用舰船（若使用 NSC 模组时该特性将失效）。"
+ 
+ SBF_trait: "AI"
+ SBF_trait_tt_pre: "若您为主物种添加此特质并保存自定义AI帝国，且在左侧列表中将其设为'强制生成帝国'，则该帝国将永久采用"
+ SBF_trait_tt_post: "舰船建造专精。\n\n§R注意：游戏开始时此特质将自动移除。\n注意：对玩家帝国无效。\n注意：不建议同时应用过多舰船建造专精特质。§!"

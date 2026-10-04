@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+
+# 灵能传统
+ tr_psionics_mind_readers_tooltip1: "解锁§Y心见为实§!帝国法令。"
+
+ agenda_favored_society_finish_planet1: "$council_agenda_agenda_favored_society_name$$agenda_ref$"
+ agenda_favored_society_finish_planet1_desc: "$council_agenda_agenda_favored_society_desc$"
+
+ #agenda_departmental_efficiency_finish1: "$council_agenda_agenda_departmental_efficiency_name$$agenda_ref$"
+ #agenda_departmental_efficiency_finish1_desc: "我们的效率前所未有地提高了。"
+
+ #agenda_rightful_claims_finish1: "$council_agenda_agenda_rightful_claims_name$$agenda_ref$"
+
+ #agenda_oppose_the_fallen_finish1: "$council_agenda_agenda_oppose_the_fallen_name$$agenda_ref$"
+
+ #agenda_self_maintenance_finish1: "$council_agenda_agenda_self_maintenance_name$$agenda_ref$"
+ #agenda_self_maintenance_finish1_desc: "$council_agenda_agenda_self_maintenance_desc$"

@@ -1,0 +1,25 @@
+﻿l_simp_chinese:
+
+# 基因传统
+ trait_genetic_perfection: "基因改造·统治者"
+ trait_genetic_perfection_desc: "§L先进的生物工程提升了这一物种的领导能力。§!"
+ trait_genetic_intellectuals: "基因改造·专家"
+ trait_genetic_intellectuals_desc: "§L这个物种的成员经过生物工程改造，比大多数物种都更具有专业化的倾向。§!"
+ trait_genetic_proles: "基因改造·劳工"
+ trait_genetic_proles_desc: "§L这个物种经过生物工程改造，在智力追求方面表现不佳，但在体力劳动方面表现出色。§!"
+ trait_genetic_trader: "基因改造·商人"
+ trait_genetic_trader_desc: "§L这个物种经过生物工程改造，擅长处理金融工作，虽然会增加其对娱乐的渴望。§!"
+
+ job_genetic_ruler: "基因构架师"
+ job_genetic_ruler_plural: "基因构架师们"
+ job_genetic_ruler_desc: "基因构架师利用最前沿的靶向药物技术来增强我方人口的能力。"
+ mod_job_genetic_ruler_add: "$job_genetic_ruler$岗位"
+ 
+ job_genetic_drone: "基因构架工蜂"
+ job_genetic_drone_plural: "基因构架工蜂"
+ job_genetic_drone_desc: "基因构架工蜂通过使用先进的靶向药物协议来提高效率。"
+ mod_job_genetic_drone_add: "$job_genetic_drone$岗位"
+ 
+ tr_genetics_adopt_modifier_desc2: "§Y解锁建筑：§! $building_clone_vats$\n$building_clone_vats$ 提供 §G1§! £job_aid_worker£ §Y$job_genetic_ruler$§!/§Y$job_genetic_drone$§!\n£job_aid_worker£ §Y$job_genetic_ruler$§!/§Y$job_genetic_drone$§!岗位提供§G5%§!§Y资源§!产出加成和§G5§!£society_research£ 社会学研究加成，但同时会增加人口 £mod_food_upkeep_mult£/£mod_minerals_upkeep_mult£/£mod_energy_upkeep_mult£ §Y维护费§!§R+5%§!。"
+ tr_genetics_efficient_cloning_desc2: "§Y$building_clone_vats$：§!§Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!§G+1.5§!\n£job_aid_worker£ §Y$job_genetic_ruler$§!/§Y$job_genetic_drone$§! §G+1§!"
+ tr_genetics_finish_modifier_desc1: "§Y$building_clone_vats$：§!£job_aid_worker£ §Y$job_genetic_ruler$§!/§Y$job_genetic_drone$§! §G+2§! \n£job_aid_worker£ §Y$job_genetic_ruler$§!/§Y$job_genetic_drone$：§!£society_research£§Y社会学研究§!§G+5§!\n解锁稀有科技§Y转基因§!研究选项。\n$TRADITIONS_FINISH_AP$"

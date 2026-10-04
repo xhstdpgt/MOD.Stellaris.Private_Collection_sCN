@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+
+# 外交传统
+ tr_diplomacy_diplomatic_networking_desc1: "大使馆提供§G+5§! £unity£ §YUnity§!§Y凝聚力§!和§G+5§! £society_research£ £physics_research£ £engineering_research£ §Y科研点数§!\n允许在没有大使馆的情况下进行高级外交行动"
+ tr_diplomacy_eminent_diplomats_desc1: "外交接受度：§G+15§!\n特使§Y改善关系§!每月有§G1%§!概率获得一个§Y外交支持§!。"
+ tr_diplomacy_adopt_desc: "§Y解锁法令：§!$edict_diplomatic_grants$"
+ tr_diplomacy_the_federation_desc1: "§I解锁外交选项：§!组建联邦"
+ tr_diplomacy_federation_xp_gain1: "每月联邦经验获取：§G+2§!"

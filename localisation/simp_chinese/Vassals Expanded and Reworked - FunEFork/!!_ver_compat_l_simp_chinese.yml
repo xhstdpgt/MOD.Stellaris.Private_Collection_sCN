@@ -1,0 +1,50 @@
+﻿# l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_polish:
+# l_russian:
+# l_braz_por:
+l_simp_chinese:
+# l_korean:
+# l_japanese:
+
+ ##########
+ # Compat #
+ ##########
+
+ vf_ef_federation: "帝国联邦"
+
+ auth_dict_democratic: "民主专制"
+ auth_dict_democratic_desc: "民主专制"
+ auth_strict_democratic: "单一任期"
+ auth_strict_democratic_desc: "单一任期"
+ auth_corporate_imperial: "私人公司"
+ auth_corporate_imperial_desc: "私人公司"
+
+ auth_cooperative: "合作公司"
+ auth_cooperative_desc: "合作公司"
+ auth_corporate_fiefdom: "公司领地"
+ auth_corporate_fiefdom_desc: "公司领地"
+ auth_corporate_democratic: "民主公司"
+ auth_corporate_democratic_desc: "民主公司"
+
+ auth_bugged_corporate_imperial: "王朝企业"
+ auth_bugged_corporate_imperial_desc: "王朝企业"
+ auth_bugged_corporate_democratic: "民主公司"
+ auth_bugged_corporate_democratic_desc: "民主公司"
+ auth_bugged_direct_democratic: "直接民主"
+ auth_bugged_direct_democratic_desc: "直接民主"
+ 
+ auth_tec_patrocorporate: "家族公司"
+ auth_tec_patrocorporate_desc: "家族公司"
+ auth_tec_ai_corporate: "AI公司"
+ auth_tec_ai_corporate_desc: "AI公司"
+ #auth_tec_patrocorporate: "家族公司"
+ #auth_tec_patrocorporate_desc: "家族公司"
+
+ auth_direct_democratic: "直接民主"
+ auth_direct_democratic_desc: "直接民主"
+
+ auth_private: "私有"
+ auth_private_desc: "私有"

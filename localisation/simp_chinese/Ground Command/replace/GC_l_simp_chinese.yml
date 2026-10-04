@@ -1,0 +1,320 @@
+﻿l_simp_chinese: 
+
+ #assault_army: "突击步兵师"
+ #assault_army_plural: "突击步兵师"
+ #assault_army_desc: "突击步兵地面部队的一个师"
+
+ infantry_army: "步兵师"
+ infantry_army_plural: "步兵师"
+ infantry_army_desc: "步兵地面部队的一个师"
+
+ armor_division: "装甲师"
+ armor_division_plural: "装甲师"
+ armor_division_desc: "装甲部队及其支援车辆的师"
+
+ gravity_armor_division: "反重力装甲师"
+ gravity_armor_division_plural: "反重力装甲师"
+ gravity_armor_division_desc: "配备反重力车辆的装甲师"
+
+ mechanized_division: "机械化师"
+ mechanized_division_plural: "机械化师"
+ mechanized_division_desc: "结合装甲和机械化步兵的师"
+
+ airborne_division: "空降师"
+ airborne_division_plural: "空降师"
+ airborne_division_desc: "专门在敌后作战的空降部队师"
+
+ marine_division: "海军陆战队师"
+ marine_division_plural: "海军陆战队师"
+ marine_division_desc: "专门在沿海地区作战的两栖部队师"
+
+ fighter_wing: "战斗机联队"
+ fighter_wing_plural: "战斗机联队"
+ fighter_wing_desc: "专门打击敌方空军的战斗机联队"
+
+ close_air_support_wing: "近空支援联队"
+ close_air_support_wing_plural: "近空支援联队"
+ close_air_support_wing_desc: "专门为地面部队提供支持的飞机联队"
+
+ strategic_bomber_wing: "战略轰炸机联队"
+ strategic_bomber_wing_plural: "战略轰炸机联队"
+ strategic_bomber_wing_desc: "专门用于摧毁敌方基础设施的大型飞机联队"
+
+ titan_army: "步战机甲"
+ titan_army_plural: "步战机甲"
+ titan_army_desc: "一个按照其创造者的形象建造的巨大结构体，并配备了可与整个基本单位师相媲美的尖端武器"
+
+ civil_defense_brigade: "民防旅"
+ civil_defense_brigade_plural: "民防旅"
+ civil_defense_brigade_desc: "一群非正规部队聚集在一起，尽其所能保卫自己的家园和国家"
+
+ ideological_army: "意识形态志愿者"
+ ideological_army_plural: "意识形态志愿者"
+ ideological_army_desc: "这些部队由统治意识形态最热心的支持者组成，他们愿意冒着生命危险来维护和支持它，并可能在此过程中获得一些政治影响力"
+
+ imperial_guard: "帝国卫队"
+ imperial_guard_plural: "帝国卫队"
+ imperial_guard_desc: "从军队中最优秀的士兵中抽调精锐部队，组成一支可怕的强大军团，致力于保卫国家元首"
+
+ chivalric_army: "游侠"
+ chivalric_army_plural: "游侠"
+ chivalric_army_desc: "一支由自愿为国家服务的贵族精英组成的部队，带着自己的装备和领导能力来到这里，意味着他们经常遵循自己的行为准则"
+
+ mecha_chivalric_army: "星辰骑士"
+ mecha_chivalric_army_plural: "星辰骑士"
+ mecha_chivalric_army_desc: "一股结合了文明、机器和贵族的双重灵感的力量。他们代表他们的统治者驾驶大型建筑，在很大程度上遵循他们自己的理想主义行为准则"
+
+ naval_infantry: "海军步兵"
+ naval_infantry_plural: "海军步兵"
+ naval_infantry_desc: "如果军队太无能而无法赢得地面战争，那我们就自己去做"
+
+ republican_guard: "共和国卫队"
+ republican_guard_plural: "共和国卫队"
+ republican_guard_desc: "精英单位来自军队中最优秀的士兵。他们承诺保卫政府免受任何和所有威胁，并被视为军队其他成员的核心"
+
+ conscript_army: "征兵团"
+ conscript_army_plural: "征兵团"
+ conscript_army_desc: "我们社会中这些勇敢、爱国的成员被呼吁履行他们对祖国的公民义务，无论他们自己的福祉面临风险"
+
+ penal_army: "刑罚营"
+ penal_army_plural: "刑罚营"
+ penal_army_desc: "由罪犯、逃兵和任何其他困扰我们社会的混战组成，这些廉价而丰富的分队得到了最后一次改变，让他们的生活有价值"
+
+ sacraficial_army: "英勇连"
+ sacraficial_army_plural: "英勇连"
+ sacraficial_army_desc: "我们会实现我们的目标，鲜血和生命的代价对我们来说无关紧要，因为我们故意为了延续我们的雄心壮志而熄灭自己的生命"
+
+ sacraficial_nerve_army: "英勇连"
+ sacraficial_nerve_army_plural: "英勇连"
+ sacraficial_nerve_army_desc: "我们会实现我们的目标，鲜血和生命的代价对我们来说无关紧要，因为我们不再能够恐惧"
+
+ esoteric_army: "神机营"
+ esoteric_army_plural: "神机营"
+ esoteric_army_desc: "士兵们装备了奇怪的、看似不可知的装备，这些装备是从我们的外星捐助者设计中逆向工程的。很可能不如他们自己的设备强大，但它远远优于我们能生产的任何设备"
+
+ void_warband: "灵能战队"
+ void_warband_plural: "灵能战队"
+ void_warband_desc: "我们社会中大群受过中等训练、装备略有但积极性极高的成员聚集在一起，以获得胜利的无限回报"
+
+ archaeo_army: "古武兵团"
+ archaeo_army_plural: "古武兵团"
+ archaeo_army_desc: "士兵们接受训练并装备了古代武器与现代仿制的古代设计和技术的混合体"
+
+ archaeo_army_better: "古武兵团"
+ archaeo_army_better_plural: "古武兵团"
+ archaeo_army_better_desc: "士兵们经过专业改造的古代设计训练和装备，由于我们对古代技术的深刻理解，偶尔还会进行改进"
+
+ milita_army: "民兵团"
+ milita_army_plural: "民兵团"
+ milita_army_desc: "这些士兵自愿在当地的民兵部队服役。对他们来说不幸的是，他们的部队被要求在战争时期为王国服务，希望他们的社区或公会为他们提供了足够的设备来完成他们的任务"
+
+ men_army: "重甲骑兵"
+ men_army_plural: "重甲骑兵"
+ men_army_desc: "这些职业士兵装备精良，为领主服役数十年，身经百战。与民兵不同，他们不会在战役结束后简单地回家，因为军营就是他们的家"
+
+ knight_army: "长枪骑士团"
+ knight_army_plural: "长枪骑士团"
+ knight_army_desc: "一支由骑士及其随行人员组成的部队，配备了各种陆地车辆，根据他们的个人喜好和需要为他们提供速度、保护、制动力或情报"
+
+ knight_air_army: "天空长枪骑士团"
+ knight_air_army_plural: "天空长枪骑士团"
+ knight_air_army_desc: "这是一支由精英骑士组成的部队，他们从小就接受了驾驶先进大气飞行器的训练，在云层间飞驰，在俯冲下来援助地面上的同胞之前，先行操纵并摧毁敌军"
+
+ levy_army: "征召团"
+ levy_army_plural: "征召团"
+ levy_army_desc: "领主征召当地居民组成的征兵团，以抵御任何敌对势力的入侵"
+
+ grail_army: "圣遗物"
+ grail_army_plural: "圣遗物"
+ grail_army_desc: "英雄人物的化身，在最激烈的战斗中被带到军队面前以激励他们。即使是最懦弱的蟾蜍，在看到这样一座鼓舞人心的纪念碑时，也会凶猛地战斗"
+
+ house_army: "王室禁卫队"
+ house_army_plural: "王室禁卫队"
+ house_army_desc: "从帝国某个贵族家族的私人家庭中抽调的士兵组成的兵团，考虑到他们的维护费用由他们的领主承担，他们的使用需要一些优惠"
+
+ royal_guard: "皇家卫队"
+ royal_guard_plural: "皇家卫队"
+ royal_guard_desc: "这些专业的战士由在位君主亲手挑选，他们既可以保护我们统治者的生命，即使不惜牺牲自己的生命，也可以确保他们的命令得到不折不扣的执行"
+
+ royal_men_army: "皇家士兵"
+ royal_men_army_plural: "皇家士兵"
+ royal_men_army_desc: "这些步兵部队是君主的亲兵，是帝国强大和权力的见证"
+
+ royal_knight_army: "皇家骑士"
+ royal_knight_army_plural: "皇家骑士"
+ royal_knight_army_desc: "为君主私人服务的骑士代表着王国已知的最具天赋和杀伤力的战士"
+
+ treb_army: "投石机"
+ treb_army_plural: "投石机"
+ treb_army_desc: "这些巨大的战争机器旨在摧毁任何无法被传统地面部队杀死的东西，尤其是城市和防御工事"
+
+ psi_knight_army: "灵能长枪骑士"
+ psi_knight_army_plural: "灵能骑士"
+ psi_knight_army_desc: "利用该物种新觉醒的灵能能力，这些训练有素的骑士可以轻松杀出一条血路，几乎可以杀死任何对手"
+
+ royal_air_army: "皇家天空长枪兵"
+ royal_air_army_plural: "皇家天空长枪兵"
+ royal_air_army_desc: "这些飞行员都是从帝国各家各户的精英中挑选出来的。他们配备了最先进的设备，拥有数十年的丰富经验，毫无疑问，哪位领主才能真正主宰我们的天空"
+
+ knight_walker_army: "巨型骑士"
+ knight_walker_army_plural: "巨型骑士"
+ knight_walker_army_desc: "一套辉煌的巨型战甲，由精选的骑士驾驭，代表着他们的家族与领地。背负着世代传承的重担，他们无所畏惧，绝不退缩"
+
+ pilgram_army: "战斗朝圣者"
+ pilgram_army_plural: "战斗朝圣者"
+ pilgram_army_desc: "当需要之时，热情之士应声而起，携手中之物或所予之器，毫不犹豫地奔赴最激烈的战场，直至敌人溃败，方肯稍息"
+
+ ranger_army: "侦察游骑兵"
+ ranger_army_plural: "侦察游骑兵"
+ ranger_army_desc: "这些由平民组成的小队，凭借穿越崎岖乡间的丰富经验，在主力部队前方进行侦察，并在隐蔽中设伏打击敌军。平民对他们极为敬重，几乎将他们的功绩与个性神化"
+
+ private_army_merc: "私营军事公司"
+ private_army_merc_plural: "私营军事公司"
+ private_army_merc_desc: "这些单位由各自独立的公司结构掌控，有的为公众所有，有的为私人所有，它们通过向出价最高的买家出售军事专长和服务来回报股东。尽管在某种程度上，客户必须容忍对其行动的控制不足，但如果拥有足够的资金，这些单位被认为是非常可靠和高效的"
+
+ security_army_merc: "警卫服务"
+ security_army_merc_plural: "警卫服务"
+ security_army_merc_desc: "他们通常被贬称为“商场警察”或“租来的警察”，不太适合公开战争或激烈冲突。不过，他们仍然装备有武器，能够在短时间内被部署到战场上，代替能力更强的部队维持秩序和执行驻防任务"
+
+ renegade_army_merc: "雇佣的叛徒"
+ renegade_army_merc_plural: "雇佣的叛徒"
+ renegade_army_merc_desc: "这些无业游民通常被视为暴徒 这些无业游民多年来一直在商船和商业动脉上掠夺 然后接受了一大笔信用点，将他们的经验为我们所用"
+
+ aero_wing_merc: "私人空天部队"
+ aero_wing_plural_merc: "私人空天部队"
+ aero_wing_merc_desc: "一支由私人飞机飞行员组成的部队，使用其首席执行官认为具有成本效益的任何硬件和战术。他们主要是从各国军队或专门的征兵学校猎取的新兵"
+
+ gravity_private_army_merc: "私营军事公司"
+ gravity_private_army_merc_plural: "私营军事公司"
+ gravity_private_army_merc_desc: "这些单位由他们自己独立的公司结构控制，有些是公共的，有些是私人的，它们通过向出价最高的人出售他们的军事专业知识和服务来向股东回报价值。虽然在某种程度上，他们的客户必须容忍对他们的行为缺乏完全控制，但如果一个人有信用，他们就会被认为是非常可靠和有效的"
+
+ strike_army_merc: "企业突击队"
+ strike_army_merc_plural: "企业突击队"
+ strike_army_merc_desc: "这些精英操作员通常不隶属于任何特定的军队或公司。相反，它们基于每个操作运行，并且在操作完成后很少使用相同的成员。我们可以聘请这些专家执行各种秘密任务，例如暗杀、破坏或小型快速突袭。由于他们的团队规模小且缺乏重型武器，他们通常无法与军事编队竞争，但如果使用得当，他们可以比传统的地面部队更有效"
+
+ security_army: "警卫服务"
+ security_army_plural: "警卫服务"
+ security_army_desc: "他们通常用贬义词'商场警察'或'租房警察'来称呼，他们不太适合公开战争或激烈冲突。然而，他们仍然武装有素，能够在短时间内部署以维持秩序并履行驻军职责，以代替更有能力的部队"
+
+ private_army: "私人军事公司"
+ private_army_plural: "私营军事公司"
+ private_army_desc: "这些单位由他们自己独立的公司结构控制，有些是公共的，有些是私人的，它们通过向出价最高的人出售他们的军事专业知识和服务来为股东带来价值。虽然在某种程度上，他们的客户必须容忍对他们的行为缺乏完全控制，但如果一个人有信用，他们就会被认为是非常可靠和有效的"
+
+ aero_wing: "私人空天部队"
+ aero_wing_plural: "私人空天部队"
+ aero_wing_desc: "一支由私人飞机飞行员组成的部队，使用他们的 CEO 认为具有成本效益的任何硬件和战术。他们主要来自从各个国家军队或专业招募学校猎头的新兵"
+
+ corporate_army: "武装雇员"
+ corporate_army_plural: "武装雇员"
+ corporate_army_desc: "根据他们的合同，任何员工都可以被要求保护公司财产，如果提供武器，则至少提前 6 小时通知，如果未提供武器，则至少提前一周通知。已经注意到，当被要求开始武装员工时，经理们通常不会派出他们最有能力的员工"
+
+ gravity_private_army: "私营军事公司"
+ gravity_private_army_plural: "私营军事公司"
+ gravity_private_army_desc: "这些单位由他们自己独立的公司结构控制，有些是公共的，有些是私人的，它们通过向出价最高的人出售他们的军事专业知识和服务来回报他们的股东。虽然在某种程度上，他们的客户必须容忍对他们的行为缺乏完全控制，但如果一个人有信用，他们就会被认为是非常可靠和有效的"
+
+ permanent_army: "重建危险小组"
+ permanent_army_plural: "重建危险小组"
+ permanent_army_desc: "这些员工足够明智地签署了合同，确保他们的身体在我们公司永久工作，我们认为使用这些机构来保护我们的实际资产并有力地维护我们的利益是合适的"
+
+ renegade_army: "雇佣的叛徒"
+ renegade_army_plural: "雇佣的叛徒"
+ renegade_army_desc: "这些流浪汉通常被视为暴徒，多年来一直在掠夺商船和商业动脉，然后接受了一大笔信用，将他们的经验用于我们"
+
+ executive_army: "执行安全团队"
+ executive_army_plural: "执行安全团队"
+ executive_army_desc: "金钱可以买到的最精锐的部队，这些士兵是由我们的资产保护主管精心挑选的，并接受了银河系已知的最严格的训练和最强大的战争装备，然后被派去保卫我们的执行团队和他们的利益"
+
+ gravity_executive_army: "执行安全团队"
+ gravity_executive_army_desc: "金钱可以买到的最精锐的部队，这些士兵是由我们的资产保护主管亲自挑选的，并接受了银河系已知的最严格的训练和最强大的战装备，然后被派去保卫我们的执行团队和他们的利益"
+
+ strike_army: "企业打击军团"
+ strike_army_plural: "企业打击军团"
+ strike_army_desc: "这些精英操作员通常不隶属于任何特定的军队或公司。相反，它们基于每个操作运行，并且在操作完成后很少使用相同的成员。我们可以聘请这些专家执行各种秘密任务，例如暗杀、破坏或小型快速突袭。由于他们的团队规模小且缺乏重型武器，他们通常无法与军事编队竞争，但如果使用得当，他们可以比传统的地面部队更有效"
+
+ drone_army: "激活的无人机"
+ drone_army_plural: "激活的无人机"
+ drone_army_desc: "遗憾的是，并非我们伟大帝国的所有成员都具备统领整个星系的运算能力。许多子民不过是执行基础资源采集或初级提炼流程的自动机械。这些个体通常难以胜任士兵职责，但在危急时刻，我们会下达指令，让它们为更广泛的社会利益牺牲自我。"
+
+ drone_combat_army: "战斗无人机方阵"
+ drone_combat_army_plural: "战斗无人机方阵"
+ drone_combat_army_desc: "这些无人机极度依赖指挥控制单元进行作战，但其专用机体架构与战斗协议使其表现远超临时征召的普通无人机。尽管需要严密监控，其庞大数量与坚固构造仍为地面部队指挥官提供了可靠的主力战线。"
+
+ clockwork_army: "发条军团"
+ clockwork_army_plural: "发条军团"
+ clockwork_army_desc: "这些战士身披重甲，依靠精密齿轮机构运作，可在真空环境、各类重力场及极端温度下作战。虽然发条军团标志性的顿挫动作使其难以执行渗透任务，但我们倚重的正是它们纯粹的破坏力。"
+
+ sentinel_army: "哨兵侦查单元"
+ sentinel_army_plural: "哨兵侦查单元"
+ sentinel_army_desc: "这些特制机器人能持续休眠数年，是完美的侦察兵与渗透者。它们潜伏于地形中监视敌军动向，甚至伺机消灭敌方指挥官或补给车队，其战场用途几乎无可限量。"
+
+ cataphract_army: "重装铁骑"
+ cataphract_army_plural: "重装铁骑"
+ cataphract_army_desc: "作为常规地面部队的最强战力，铁甲骑兵军团代表着我们行星军事力量的厚重威能。其设计宗旨是以高速机动实施最大杀伤，在优秀指挥官率领下，一次冲锋便可击溃敌军。"
+
+ hover_lance_army: "悬浮枪骑兵"
+ hover_lance_army_plural: "悬浮枪骑兵"
+ hover_lance_army_desc: "行星作战不仅限于地表。大气层飞行器对地面部队，尤其是地表远征军的后勤补给线构成极大威胁。悬浮枪骑兵的使命正是消除这一威胁——既通过与敌方大气层飞行器展开空中对决，也凭借高空优势对敌地面部队实施打击。"
+
+ automata_army: "攻城智械"
+ automata_army_plural: "攻城智械"
+ automata_army_desc: "与多数地面部队不同，攻城智械由自愿改造的合成人组成。他们或通过躯体改装获得战斗形态，或将意识上传至专用攻城机体。这些觉醒程度更高的战士与初级合成人并肩作战，凭借特制攻城武器摧毁敌方坚固据点和防御工事以保护同胞。作为完全觉醒的合成人而非无人机，指挥官对其控制权有限——虽可能造成战术协调困扰，却也赋予其临机决断的战场自主权。"
+
+ code_army: "代码祭司"
+ code_army_plural: "代码祭司"
+ code_army_desc: "代码祭司以多重身份效力军队：首要职责是修复并重组受损无人机；同时负责监督合成人改造为攻城智械的深度调制流程，并维护部队装备体系。他们为前线提供技术保障，在关键战区激励士气。虽非其他文明所追捧的传奇武士，但若失去这些技术神甫，我军恐难持续作战。"
+
+ relic_guardians: "圣遗守护者"
+ relic_guardians_plural: "圣遗守护者"
+ relic_guardians_desc: "作为军事力量的巅峰，圣遗守护者由终身奉献的合成人精英组成。他们不仅精研杀戮技艺，更肩负守卫核心要地与领袖的神圣使命，是集战斗大师与终极护卫于一身的完美存在。"
+
+ eternal_army: "永恒军团"
+ eternal_army_plural: "永恒军团"
+ eternal_army_desc: "永恒军团是我们合成人军团的核心力量。与构成发条军团和无人机军团的未觉醒个体不同，这些战士皆为自愿服役的合成人，其中多数在入伍前便已自行武装。他们卓越的推理与规划能力使其作战表现更为稳定，并能有效把握战场瞬息万变的态势。然而每当一名战士陨落，我们都将痛失一位同胞，此乃无可避免的代价。"
+
+ archon_army: "执政官构装体"
+ archon_army_plural: "执政官构装体"
+ archon_army_desc: "作为陆战的终极形态，这些机械巨兽的体型与威力近乎超出认知范畴。唯有功勋卓著的天才指挥官才获准将意识上传至此类构装体，亲率我们不朽的军团冲锋陷阵。其巍峨的制高点视野、坚不可摧的装甲与毁天灭地的武器系统，将指挥艺术提升至连先祖都难以想象的境界。"
+
+ battle_bot: "战斗机器人"
+ battle_bot_plural: "战斗机器人"
+ battle_bot_desc: "一个专为战斗而设计的机器人战斗机品牌，便宜、可消耗且完全无情，他们是一种战术恐怖"
+
+ war_bot: "战争机器"
+ war_bot_plural: "战争机器"
+ war_bot_desc: "一个专为持久战争而设计的机器人战斗机品牌，更昂贵、更耐用，其先进的编程赋予了它们更大的战术价值，从而增加了它们第二次交战的几率"
+
+ synth_commandos: "合成人突击队"
+ synth_commandos_plural: "合成人突击队"
+ synth_commandos_desc: "由专门打造的合成突击队组成的团队，能够完成通常需要一个营才能完成的任务。能够改变他们的身体，改变他们的外表，模仿声音，同时比以前的机器人设计更耐用、更智能"
+
+ bohemoth_army: "贝希摩斯"
+ bohemoth_army_plural: "贝希摩斯"
+ bohemoth_army_desc: "一头前所未见的规模的机械野兽，耸立在战场上，在任何不幸容纳它的世界的表面，它都实现了自己的目的"
+
+ nano_army: "纳米机器群"
+ nano_army_desc: "一群纳米机器人的存在是为了解构它们路径上的一切，无论是物质还是有机物。这些可怕的武器遮挡了阳光，甚至将最强大的防御变成了贫瘠的荒地"
+
+ hazard_army: "主力危险中队"
+ hazard_army_desc: "这些模型配备了最好的设备，设计坚固耐用，用于与敌对生命体交战，以便更脆弱的模型可以更有效地运作"
+
+ robo_commandos: "影子渗透者"
+ robo_commandos_desc: "为模仿各种其他物体（包括敌人）而制造的平台，用于在敌后行动并攻击补给品运输、基础设施和重要人员"
+
+ eradicator_army: "根除平台"
+ eradicator_army_desc: "虽然他们创造背后的思想无疑是聪明的，但平台本身却不能这样说。包含大量不同的单位和不同的装备，共同点是他们没有任何自我保护，而且他们以激烈、近乎疯狂的方式战斗"
+
+ auxillary_army: "有机助剂"
+ auxillary_army_desc: "在一系列植入物和机械改进的帮助下，这些有机物能够与它们的合成同胞一起服务，以保护他们的文明和利益"
+
+ hazard_army_2: "二级危险中队"
+ hazard_army_2_desc: "专门用于处理特定战场障碍（如防御工事或地雷）的平台，同时处理任何以前未遇到的威胁"
+ 
+ hazard_army_3: "三级危险中队"
+ hazard_army_3_desc: "许多人认为这些平台是神话，因为它们很少被使用，但有些神话是真实的，它们和宣传的一样危险。这些平台只有在极度绝望的时候才会被调用，或者处理更常见的平台由于巨大的成本和生产更多产品所需的时间而一再无法解决的情况"
+
+ bot_defense: "激活的平台"
+ bot_defense_desc: "已启动的非战斗无人机，以尽其所能保卫当地行星"
+ 
+ perfected_army: "完美战体"
+ perfected_army_plural: "完美战体"
+ perfected_army_desc: "历经数百年设计而成的终极战争机器——至少在创造者眼中如此。这些古老造物鲜经实战检验，却丝毫不妨碍它们成为神话、传说乃至梦魇的源头，其恐怖威名至今仍在世间流传。"

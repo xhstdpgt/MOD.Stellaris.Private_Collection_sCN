@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+
+  # Ship Tech 
+  eac_aw_tech_advanced_carrier: "先进航母设计方案"
+  eac_aw_tech_advanced_carrier_desc: "新增以舰载机为核心的舰船模块配置方案。\n\n——[mod]At War：Carrier Improvements 4.0"
+  
+  EAC_AW_TECH_UNLOCK_BATTLESHIP_ADVANCED_CARRIER_TITLE: "§H先进航母设计方案§!"
+  EAC_AW_TECH_UNLOCK_BATTLESHIP_ADVANCED_CARRIER_DESC: "本技术将为战列舰及泰坦舰解锁先进航母布局方案。\n\n——[mod]At War：Carrier Improvements 4.0"
+  
+  eac_aw_tech_missile_cruiser: "导弹巡洋舰设计方案"
+  eac_aw_tech_missile_cruiser_desc: "新增更多以导弹/鱼雷为核心的舰船模块配置方案。\n\n——[mod]At War：Carrier Improvements 4.0"
+
+  EAC_AW_TECH_UNLOCK_MISSILE_CRUISER_TITLE: "§H功能解锁：§!导弹巡洋舰模块配置"
+  EAC_AW_TECH_UNLOCK_MISSILE_CRUISER_DESC: "本技术将为巡洋舰解锁重型导弹巡洋舰布局方案。\n\n——[mod]At War：Carrier Improvements 4.0"
+
+  eac_aw_tech_light_carrier: "轻型航母巡洋舰设计方案"
+  eac_aw_tech_light_carrier_desc: "为巡洋舰新增以舰载机为核心的舰船模块配置方案。\n\n——[mod]At War：Carrier Improvements 4.0"
+ 
+  EAC_AW_TECH_UNLOCK_LIGHT_CARRIER_TITLE: "§H功能解锁：§!轻型航母巡洋舰模块配置"
+  EAC_AW_TECH_UNLOCK_LIGHT_CARRIER_DESC: "本技术将为巡洋舰解锁轻型航母布局方案。\n\n——[mod]At War：Carrier Improvements 4.0"
